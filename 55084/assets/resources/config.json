@@ -1,0 +1,701 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "resources",
+  "deps": [
+    "internal"
+  ],
+  "uuids": [
+    "007+0fWuhGyr25N+H6bDQV",
+    "03c73c99a",
+    "0d+kAo+GNDvYjso/ypL2C0@57b12",
+    "0d+kAo+GNDvYjso/ypL2C0@876d7",
+    "04M1GCiKpIhpFobJOUvpKF@f9941",
+    "05189ebd0",
+    "06ovJSLCpLJIIjYUSQ04Yj",
+    "06ovJSLCpLJIIjYUSQ04Yj@6c48a",
+    "06ovJSLCpLJIIjYUSQ04Yj@f9941",
+    "06ce348b6",
+    "06de9269a",
+    "07d70eb34",
+    "09a3d2bf4",
+    "0d+kAo+GNDvYjso/ypL2C0@ac189",
+    "0avx6kf9lKh5TH5OJlP4gV",
+    "0ae0005c1",
+    "0c1d258e4",
+    "0d+kAo+GNDvYjso/ypL2C0",
+    "0d+kAo+GNDvYjso/ypL2C0@17208",
+    "0d+kAo+GNDvYjso/ypL2C0@2c948",
+    "0d+kAo+GNDvYjso/ypL2C0@a6131",
+    "0fQToIAw1Of5EhuoPx5sFm@ff644",
+    "0coEFxoF5J4ZosQKYitjZd",
+    "0cdd78f74",
+    "0d+kAo+GNDvYjso/ypL2C0@127b1",
+    "0d+kAo+GNDvYjso/ypL2C0@66345",
+    "0d+kAo+GNDvYjso/ypL2C0@ff644",
+    "0fQToIAw1Of5EhuoPx5sFm",
+    "0fQToIAw1Of5EhuoPx5sFm@127b1",
+    "0fQToIAw1Of5EhuoPx5sFm@17208",
+    "0fQToIAw1Of5EhuoPx5sFm@2c948",
+    "0fQToIAw1Of5EhuoPx5sFm@32601",
+    "0fQToIAw1Of5EhuoPx5sFm@57b12",
+    "0fQToIAw1Of5EhuoPx5sFm@66345",
+    "0fQToIAw1Of5EhuoPx5sFm@876d7",
+    "0fQToIAw1Of5EhuoPx5sFm@a6131",
+    "0fQToIAw1Of5EhuoPx5sFm@ac189",
+    "0fQToIAw1Of5EhuoPx5sFm@f3f9b",
+    "0dDn83vu1Gna5gyoD31Psc@f9941",
+    "0dVQEC0lNIR6LwgS5nHACo",
+    "0ed87ba36",
+    "0edd1b48d",
+    "85iCmGt2FBxaKr97gIfezY",
+    "65P3xRUTdE/LgIfXuGmzH9@f9941",
+    "65nKA9y6hOi7JQuSqcOeoI",
+    "65ocXhf6xKJaghp2E7amX6@f9941",
+    "66uNbv4K1Pja+WqNQF9S9a@f9941",
+    "67Y6Z+EEFE7Lmal+rQ36VC",
+    "7cU6KM/0xPXpTl075/QxuU@6c48a",
+    "8eRbdIKwRI/7MS+yR79bGE",
+    "8eRbdIKwRI/7MS+yR79bGE@127b1",
+    "8eRbdIKwRI/7MS+yR79bGE@17208",
+    "8eRbdIKwRI/7MS+yR79bGE@2c948",
+    "8eRbdIKwRI/7MS+yR79bGE@57b12",
+    "8eRbdIKwRI/7MS+yR79bGE@66345",
+    "8eRbdIKwRI/7MS+yR79bGE@876d7",
+    "8eRbdIKwRI/7MS+yR79bGE@a6131",
+    "8eRbdIKwRI/7MS+yR79bGE@ac189",
+    "8eRbdIKwRI/7MS+yR79bGE@ff644",
+    "91tU9x0cBIEpJ+NuEg5q0G@6c48a",
+    "93YUmZ0hRHF6ljhZoatr67",
+    "b8sRwTZkdID4uFf0G7mh3M",
+    "c3nVLNRs9FrbwB5e8H7Y17",
+    "e4xGYJF6VEeqmG9pMEDMUb@6c48a",
+    "e51cLm/XpFxaDsc1CX6l45",
+    "0e8ac5GihLP5YF8w7O2xDn",
+    "0f4636e62",
+    "11P5IrLq5IrKI4uLJ3o1PD@f9941",
+    "11nA9/D2ZIzIO9cGuLk4eM@f9941",
+    "12noGTyEhFZLKr+bi7zFlS",
+    "12noGTyEhFZLKr+bi7zFlS@6c48a",
+    "12noGTyEhFZLKr+bi7zFlS@f9941",
+    "15189ebd0",
+    "49xamMgElL3JPJtpzpQUvy",
+    "56w5pqTltEWbDos9jJoBn1",
+    "15189ebd0@6c48a",
+    "16+o6DvpNFXIqcefIT6tlh@f9941",
+    "16/vVNlnRBp5mwP7zlE/O8@f9941",
+    "19FbggTPVFaYimFMIi9/yt@f9941",
+    "19F5ZmKoVCe5d1f3SPpU8o@f9941",
+    "1dpWQN5klGE7MSbefGVCYk",
+    "1e0QWFbvJNq4ymCecQl7qy@f9941",
+    "1fLm9bfmlAwpNQDCuxuJoV",
+    "21Vii5B+JNqIPY6WpmnkcV@f9941",
+    "21ql8WMPlAf5EGrVUXDKFZ@f9941",
+    "23+QwPirxIfKJzGqHgDLbT@f9941",
+    "26xmUJxKdHbrRRKcXfB2Bq@f9941",
+    "29gjLfafdNVKyjoFFsWYOT",
+    "2clKfnJNlAMJMDdmUqaVSZ@f9941",
+    "2fl3VVbQhPDqj4g6JlDq7j@f9941",
+    "30vwP8cP9PzZIpArXiJMgV@f9941",
+    "32VWGAYhlIR6hgtZszazCK@f9941",
+    "32Y9vw94VHwpjSbgf4fEr7@f9941",
+    "33BcTYa3ZNc7rrl/OSmmAu",
+    "35eG2S64RGtaz0VQJ/lgRg",
+    "38QRxXRk9E0rZwPPgO1M57@f9941",
+    "3bC3E4SEdHDLi3AxtHhv35",
+    "3dfYNz4KBPB5ewqdr0RSdw@f9941",
+    "3fpMl0aaNBz5z9HFvGJhuC@f9941",
+    "407vFOjPpPYbTG2uIQW+20@f9941",
+    "43WHSKZkxLtqO03qiLy6p2@f9941",
+    "44oHB+IRhAW4/3QZ9/89dm@f9941",
+    "45LYepVEZDF4u/Ca+9id6y@f9941",
+    "45csPIacxB0rhh7A2HCDKz@f9941",
+    "48A8LCHFVObaDtv9DHmv5O@f9941",
+    "50VsjdOlJB/q/WcR8S60SQ@f9941",
+    "50b/F+XN5P/LTMI+sBdTiv@f9941",
+    "52oN8eqytFK60RZrmPsIT1@f9941",
+    "522oJJqEdCPYLF9Hr+V10k@f9941",
+    "53TNrk8rVE5KjUmKnS3DMt@f9941",
+    "55/CdioWNLxbB7hE8j+SxT@f9941",
+    "57Akm6qGZHQLq8EU9/waho@f9941",
+    "59ibasx75EApZQlmEUnumt@f9941",
+    "5bfhg01ahFwqIj3RwFb04W@f9941",
+    "5eWW+rNPtBn7QOT9JIs+Jh@f9941",
+    "609xlc7CpF67qUiVX2DoHQ",
+    "61+2msp7lHY6NdiG6VpBrK@f9941",
+    "62RlLfA9dJM64lBH+/XSZI@f9941",
+    "65AgwSeWpFyL1cnWREVgrm",
+    "67Y6Z+EEFE7Lmal+rQ36VC@6c48a",
+    "6dZ+gwgolESphYhN9bsUUq",
+    "6d2tXQcjpAZpbnqLrMpGOb",
+    "7397CpAZ1Pg584nPcBQoCj@f9941",
+    "74bwFwknFC4JA3jWtu4Qo3",
+    "75L8txfGtONK9UFfNg+ri0@f9941",
+    "79Lb/cCFlHGbAN+WRuWJfy",
+    "7aF5/gMSVC75npz2bA//qT",
+    "7aP+oU7qdKrpBsE3FchZFG@f9941",
+    "7akRp0EFpMZISLplMboVwP@f9941",
+    "7alglDJJ5HzYSnNwG35+fp@f9941",
+    "7cU6KM/0xPXpTl075/QxuU",
+    "7dj5uJT9FMn6OrOOx83tfK",
+    "7dj5uJT9FMn6OrOOx83tfK@6c48a",
+    "7dj5uJT9FMn6OrOOx83tfK@f9941",
+    "80NXKi5TdFQaEo2OJdm9je@f9941",
+    "80N2UEqjZPc4KZ0a17kLJi",
+    "85FAiH26NNBbEO5WiXvidd@f9941",
+    "91tU9x0cBIEpJ+NuEg5q0G",
+    "9dBILP7JBEQoeQC1ur8RA8",
+    "9dawRSIVFEcZhDwfq1rrOL",
+    "9fRJTmFcJFZ4bi2utC3sEs@f9941",
+    "a0ChjZAXtDAqe0C9zhdaf1@f9941",
+    "a3sJJ2k4ZIFqTRELqJMTiA@f9941",
+    "a7bhnCwOhHCrLZ2qOez9GG@f9941",
+    "a72KlokQRFtK9HKZyxF/RM@f9941",
+    "abBvCD5RlHnYxpFNKPFv/2@f9941",
+    "ac4Gmly0dI+Ink9X9u7J6J",
+    "ac6hnU7e1PVYWJ+HEBWikT@f9941",
+    "b0idJofZlLRIvW1Q9eHvK0@f9941",
+    "b1uDwL16BDWZMZnVcDbq1f@f9941",
+    "b2ekKLsJ5IBZe+XNvw4rxg",
+    "b3eI5RaJ9AlIqAOYKStpTj",
+    "b3yWLo0IhPCqDaf+OLXJyK@f9941",
+    "b4VBAlhs1M86AqLnvFirb2@f9941",
+    "b7quk9kpdNH5SAaeByEgCl@f9941",
+    "b8I//ZkRNA+7YzYalpiFw/",
+    "baF0JGJqtAcqVhAWF7AYlh@f9941",
+    "bbt0QQ47lNEYCBaYIvstWu@f9941",
+    "be87eumM1Gz4o0NFKlgz4P@f9941",
+    "bfovyMY8RHSKCzbH8LkHtV@f9941",
+    "c1g4MIf35BQZW9+08oIVk+@f9941",
+    "c2FEthJPBHZLn4NYTDFrYp@f9941",
+    "c3IHy1U+xCsKB+WQWSyeZd",
+    "c4aRuNQsRBdaAPQDddn0yW@f9941",
+    "c4dg0wM/lAkJRn/zDSnVIP",
+    "c50uDos79KyIw5IHd55tMZ",
+    "c63esGxxxHh5GXfSArcVbI@f9941",
+    "c7eBBAf8hMuYmLS1Fkpl6r",
+    "c8QOnRZWdCA7NMctG8Xmyn@f9941",
+    "c8v5FprcpKfJ0tEfm38WKH@f9941",
+    "celWnQTsdP3rwD0T6X5o7y@f9941",
+    "cfv8Ao0T9PYZOHg13KqS9G",
+    "d2caRu8dxHcbXzyWREsn/e@f9941",
+    "d3BMbkEwVO6Yrlw/iBKq/U",
+    "d47+kn7QVJOrydL/x/imdR@f9941",
+    "daeQfkVtdHuoBAwi+FjrF1@f9941",
+    "de3dpb+9ZM1bnztLhT8ZfO@f9941",
+    "df0g33IOBOvqMPlTbVVRz2@f9941",
+    "e4xGYJF6VEeqmG9pMEDMUb",
+    "e8Q4q0Jr5L65V7Gh5JkEPd@f9941",
+    "ebgQa+/i9MhJjehPs0w1hK",
+    "f1pBVIe3ZOGYYsIaDjStwi@f9941",
+    "f1spErl9pJjbm+GFu7hWR9",
+    "f1xrR2b09IaKgoaiHfnwGH@f9941",
+    "f831yEqUtOz5cMgsIUMBNR@f9941",
+    "faViy656tKLZlx2oLf8RL3",
+    "fc7dpBk3dG7KXj2vQmriK2@f9941",
+    "fdQBWvfxJLMbWeYjoYDSgT@f9941",
+    "fdX4hn6IhAyYWM7WF2L/9I@f9941",
+    "febqxAINpB4aLOyUYEmoq8",
+    "ffsLfKewFGNqdEzxVe+GT7@f9941"
+  ],
+  "paths": {
+    "0": [
+      "audio/block_down",
+      4
+    ],
+    "2": [
+      "atlas/face/ball_1",
+      1,
+      1
+    ],
+    "3": [
+      "atlas/face/ball_7",
+      1,
+      1
+    ],
+    "13": [
+      "atlas/face/ball_8",
+      1,
+      1
+    ],
+    "14": [
+      "audio/pop_result",
+      4
+    ],
+    "17": [
+      "atlas/face",
+      0
+    ],
+    "18": [
+      "atlas/face/ball_4",
+      1,
+      1
+    ],
+    "19": [
+      "atlas/face/ball_6",
+      1,
+      1
+    ],
+    "20": [
+      "atlas/face/ball_2",
+      1,
+      1
+    ],
+    "21": [
+      "atlas/color/ball_9",
+      1,
+      1
+    ],
+    "24": [
+      "atlas/face/ball_3",
+      1,
+      1
+    ],
+    "25": [
+      "atlas/face/ball_5",
+      1,
+      1
+    ],
+    "26": [
+      "atlas/face/ball_9",
+      1,
+      1
+    ],
+    "27": [
+      "atlas/color",
+      0
+    ],
+    "28": [
+      "atlas/color/ball_3",
+      1,
+      1
+    ],
+    "29": [
+      "atlas/color/ball_4",
+      1,
+      1
+    ],
+    "30": [
+      "atlas/color/ball_6",
+      1,
+      1
+    ],
+    "31": [
+      "atlas/color/ball_0",
+      1,
+      1
+    ],
+    "32": [
+      "atlas/color/ball_1",
+      1,
+      1
+    ],
+    "33": [
+      "atlas/color/ball_5",
+      1,
+      1
+    ],
+    "34": [
+      "atlas/color/ball_7",
+      1,
+      1
+    ],
+    "35": [
+      "atlas/color/ball_2",
+      1,
+      1
+    ],
+    "36": [
+      "atlas/color/ball_8",
+      1,
+      1
+    ],
+    "37": [
+      "atlas/color/ball_10",
+      1,
+      1
+    ],
+    "39": [
+      "audio/block_chose",
+      4
+    ],
+    "42": [
+      "ui/shop",
+      5
+    ],
+    "44": [
+      "ui/setting",
+      5
+    ],
+    "48": [
+      "atlas/flag/texture",
+      3,
+      1
+    ],
+    "49": [
+      "atlas/flag",
+      0
+    ],
+    "50": [
+      "atlas/flag/ball_3",
+      1,
+      1
+    ],
+    "51": [
+      "atlas/flag/ball_4",
+      1,
+      1
+    ],
+    "52": [
+      "atlas/flag/ball_6",
+      1,
+      1
+    ],
+    "53": [
+      "atlas/flag/ball_1",
+      1,
+      1
+    ],
+    "54": [
+      "atlas/flag/ball_5",
+      1,
+      1
+    ],
+    "55": [
+      "atlas/flag/ball_7",
+      1,
+      1
+    ],
+    "56": [
+      "atlas/flag/ball_2",
+      1,
+      1
+    ],
+    "57": [
+      "atlas/flag/ball_8",
+      1,
+      1
+    ],
+    "58": [
+      "atlas/flag/ball_9",
+      1,
+      1
+    ],
+    "59": [
+      "atlas/color/texture",
+      3,
+      1
+    ],
+    "60": [
+      "ui/lottery",
+      5
+    ],
+    "61": [
+      "prefab/Ball",
+      5
+    ],
+    "62": [
+      "ui/boosterBuy",
+      5
+    ],
+    "63": [
+      "atlas/face/texture",
+      3,
+      1
+    ],
+    "64": [
+      "ui/lotteryItem",
+      5
+    ],
+    "73": [
+      "ui/result",
+      5
+    ],
+    "74": [
+      "ui/reward",
+      5
+    ],
+    "82": [
+      "audio/pop_booster",
+      4
+    ],
+    "87": [
+      "audio/spin_rotate",
+      4
+    ],
+    "93": [
+      "ui/tips",
+      5
+    ],
+    "96": [
+      "audio/booster_buy",
+      4
+    ],
+    "118": [
+      "audio/booster_unlock",
+      4
+    ],
+    "120": [
+      "audio/btn_close",
+      4
+    ],
+    "123": [
+      "audio/claim_coin",
+      4
+    ],
+    "125": [
+      "ui/levelItem",
+      5
+    ],
+    "126": [
+      "audio/btn_open",
+      4
+    ],
+    "130": [
+      "atlas/flag",
+      2
+    ],
+    "137": [
+      "atlas/color",
+      2
+    ],
+    "139": [
+      "audio/claim_booster",
+      4
+    ],
+    "162": [
+      "audio/block_full",
+      4
+    ],
+    "164": [
+      "audio/booster_magic",
+      4
+    ],
+    "165": [
+      "audio/bgm",
+      4
+    ],
+    "167": [
+      "audio/booster_refresh",
+      4
+    ],
+    "173": [
+      "ui/flyIcon",
+      5
+    ],
+    "178": [
+      "atlas/face",
+      2
+    ],
+    "180": [
+      "prefab/Buret",
+      5
+    ],
+    "185": [
+      "audio/pop_reward",
+      4
+    ],
+    "189": [
+      "audio/booster_back",
+      4
+    ]
+  },
+  "scenes": {},
+  "packs": {
+    "03c73c99a": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      21
+    ],
+    "05189ebd0": [
+      4,
+      38,
+      67,
+      68,
+      76,
+      77,
+      78,
+      79,
+      81,
+      83,
+      84,
+      85,
+      86,
+      88,
+      89,
+      90,
+      91,
+      92,
+      95,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      116,
+      117,
+      43,
+      45,
+      46,
+      122,
+      124,
+      127,
+      128,
+      129,
+      134,
+      136,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      147,
+      148,
+      149,
+      152,
+      153,
+      154,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      163,
+      166,
+      168,
+      169,
+      170,
+      172,
+      174,
+      175,
+      176,
+      177,
+      179,
+      181,
+      183,
+      184,
+      186,
+      187,
+      188,
+      190
+    ],
+    "06ce348b6": [
+      74,
+      133
+    ],
+    "06de9269a": [
+      17,
+      24,
+      18,
+      19,
+      2,
+      25,
+      3,
+      20,
+      13,
+      26
+    ],
+    "07d70eb34": [
+      7,
+      48,
+      132,
+      59,
+      70,
+      119,
+      75,
+      63
+    ],
+    "09a3d2bf4": [
+      155,
+      62
+    ],
+    "0ae0005c1": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "0c1d258e4": [
+      121,
+      60,
+      64
+    ],
+    "0cdd78f74": [
+      80,
+      151
+    ],
+    "0ed87ba36": [
+      71,
+      73,
+      135,
+      146,
+      150
+    ],
+    "0edd1b48d": [
+      8,
+      61
+    ],
+    "0f4636e62": [
+      42,
+      138
+    ]
+  },
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [
+    115,
+    "0"
+  ],
+  "debug": false,
+  "extensionMap": {
+    ".cconb": [
+      171,
+      182,
+      22,
+      65,
+      94
+    ]
+  },
+  "hasPreloadScript": true,
+  "dependencyRelationships": {},
+  "types": [
+    "cc.SpriteAtlas",
+    "cc.SpriteFrame",
+    "cc.ImageAsset",
+    "cc.Texture2D",
+    "cc.AudioClip",
+    "cc.Prefab"
+  ]
+}

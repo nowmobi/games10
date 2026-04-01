@@ -1,0 +1,156 @@
+{
+  "frames": {
+    "effects50000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 72
+      }
+    },
+    "effects50001.png": {
+      "frame": {
+        "x": 72,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 201
+      }
+    },
+    "effects50002.png": {
+      "frame": {
+        "x": 296,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 201
+      }
+    },
+    "effects50003.png": {
+      "frame": {
+        "x": 520,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 201
+      }
+    },
+    "effects50004.png": {
+      "frame": {
+        "x": 744,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 201
+      }
+    },
+    "effects50005.png": {
+      "frame": {
+        "x": 968,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 201
+      }
+    },
+    "effects50006.png": {
+      "frame": {
+        "x": 1192,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 201
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "tileanim5.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1416,
+      "h": 201
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:7a202d3dc4cbbe31d3df888688bf2901:41106642e8f627738555e519690a5f4d:1019f5b0e6db94c448c8667e6d9d305b$"
+  }
+}

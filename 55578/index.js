@@ -1,0 +1,12 @@
+window.screenOrientation = "sensor_portrait",
+    loadLib("./libs/laya.core.js"),
+    loadLib("./libs/laya.ui.js"),
+    loadLib("./XnhdAPI/XnhdDefault.js"),
+    loadLib("./XnhdAPI/utils/XnhdTools.js"),
+    loadLib("./XnhdAPI/utils/WebSoctetAPI.js"),
+    loadLib("./XnhdAPI/utils/XnhdSound.js"),
+    loadLib("./XnhdAPI/utils/XnhdEncrypt.js"),
+    loadLib("./XnhdAPI/utils/DeviceInfo.js"),
+    loadLib("./XnhdAPI/gameLite/oppoGame/OppoLiteGameAPI.js"),
+    loadLib("./XnhdAPI/XnhdAPI.js"),
+    loadLib("./js/main.js");

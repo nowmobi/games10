@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6ed0s4GkFDK6PmZk6UzUeW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tanchuang",
+      "rect": [
+        0,
+        0,
+        639,
+        423
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        639,
+        423
+      ],
+      "capInsets": [
+        255,
+        79,
+        276,
+        32
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

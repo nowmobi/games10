@@ -1,0 +1,27 @@
+
+Conveyor animation.png
+size: 804,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Conveyor Top
+  rotate: false
+  xy: 2, 182
+  size: 800, 163
+  orig: 802, 166
+  offset: 1, 1
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 2
+  size: 488, 127
+  orig: 490, 129
+  offset: 1, 1
+  index: -1
+Layer 1120 copy 6
+  rotate: false
+  xy: 2, 131
+  size: 800, 49
+  orig: 802, 51
+  offset: 1, 1
+  index: -1

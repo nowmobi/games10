@@ -1,0 +1,33 @@
+{
+  "files": {
+    "resources/Text": [
+      "gameMap.png",
+      "GameText.png"
+    ]
+  },
+  "config": [
+    {
+      "sRGB": true,
+      "wrapMode": 1,
+      "filterMode": 1,
+      "anisoLevel": 1,
+      "mipmap": false,
+      "pma": true,
+      "files": [
+        {
+          "file": "",
+          "ext": "png",
+          "format": 1
+        }
+      ],
+      "platforms": {
+        "1": 0
+      },
+      "t": 0,
+      "i": [
+        0,
+        -1
+      ]
+    }
+  ]
+}

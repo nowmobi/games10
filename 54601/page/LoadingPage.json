@@ -1,0 +1,133 @@
+{
+  "type": "Scene",
+  "props": {
+    "width": 1080,
+    "runtime": "uiLogic/LoadingPage.ts",
+    "height": 1920
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Image",
+      "props": {
+        "skin": "loading/ui_loading_bg.jpg",
+        "name": "ui_loading_bg",
+        "centerY": 0,
+        "centerX": 0,
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 7,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 156,
+            "x": 4,
+            "texture": "loading/ui_loading_logo.png",
+            "name": "ui_loading_logo"
+          },
+          "compId": 10
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1574,
+            "x": 216,
+            "width": 648,
+            "skin": "loading/ui_loading_barGrey.png",
+            "sizeGrid": "21,66,22,60",
+            "name": "ui_loading_barGrey",
+            "height": 53
+          },
+          "compId": 8
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1579,
+            "x": 221,
+            "width": 637,
+            "var": "panel_loading",
+            "skin": "loading/ui_loading_barGreen.png",
+            "sizeGrid": "15,11,16,18",
+            "height": 43
+          },
+          "compId": 9
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1546,
+            "x": 888,
+            "width": 168,
+            "visible": false,
+            "var": "img_age",
+            "skin": "loading/img_age.png",
+            "height": 214
+          },
+          "compId": 14
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 1500,
+            "x": 540,
+            "var": "lab_loading",
+            "text": "LOADING",
+            "fontSize": 50,
+            "font": "SimHei",
+            "color": "#ffffff",
+            "anchorX": 0.5
+          },
+          "compId": 4
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 1720,
+            "x": 84,
+            "texture": "loading/word_happy.png"
+          },
+          "compId": 15
+        },
+        {
+          "type": "Box",
+          "props": {
+            "y": 1643,
+            "x": 240,
+            "width": 600,
+            "visible": false,
+            "var": "btn_restart",
+            "height": 60
+          },
+          "compId": 12,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": 14,
+                "x": -27,
+                "text": "",
+                "fontSize": 32,
+                "font": "SimHei",
+                "color": "#ffffff",
+                "bold": true
+              },
+              "compId": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "loadList": [
+    "loading/ui_loading_bg.jpg",
+    "loading/ui_loading_logo.png",
+    "loading/ui_loading_barGrey.png",
+    "loading/ui_loading_barGreen.png",
+    "loading/img_age.png",
+    "loading/word_happy.png"
+  ],
+  "loadList3D": []
+}

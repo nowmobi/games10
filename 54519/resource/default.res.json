@@ -1,0 +1,108 @@
+{
+  "groups": [
+    {
+      "keys": "egret_icon_png,description_json,button_png,button_json,guide_json,startBtn_png,reset1Btn_png,bg_jpg,ClickSound_mp3,LinkSound_mp3,bgsound_mp3,page_json,gamebg_png,yesSound_mp3,icon_json",
+      "name": "preload"
+    },
+    {
+      "keys": "loading_png,xinbg_png,loading_json",
+      "name": "loading"
+    }
+  ],
+  "resources": [
+    {
+      "url": "assets/egret_icon.png",
+      "type": "image",
+      "name": "egret_icon_png"
+    },
+    {
+      "url": "config/description.json",
+      "type": "json",
+      "name": "description_json"
+    },
+    {
+      "url": "assets/button.png",
+      "type": "image",
+      "name": "button_png"
+    },
+    {
+      "url": "assets/button.json",
+      "type": "sheet",
+      "name": "button_json",
+      "subkeys": "backBtn,certainBtn,closeBtn,contiueBtn,countdown,daojishi,guideBtn,homeBtn,nextlevelBtn,num0,num1,num2,num3,numTime,pauseBtn,pointOutBtn,rankBtn,resetBtn,resurrectedBtn,scoretip,selected,uploadingScoreBtn"
+    },
+    {
+      "url": "assets/guide.json",
+      "type": "sheet",
+      "name": "guide_json",
+      "subkeys": "y1,y2,y3,y4"
+    },
+    {
+      "url": "assets/startBtn.png",
+      "type": "image",
+      "name": "startBtn_png"
+    },
+    {
+      "url": "assets/reset1Btn.png",
+      "type": "image",
+      "name": "reset1Btn_png"
+    },
+    {
+      "url": "assets/bg.jpg",
+      "type": "image",
+      "name": "bg_jpg"
+    },
+    {
+      "url": "assets/LinkSound.mp3",
+      "type": "sound",
+      "name": "LinkSound_mp3"
+    },
+    {
+      "url": "assets/ClickSound.mp3",
+      "type": "sound",
+      "name": "ClickSound_mp3"
+    },
+    {
+      "url": "assets/loading/loading.png",
+      "type": "image",
+      "name": "loading_png"
+    },
+    {
+      "url": "assets/loading/xinbg.png",
+      "type": "image",
+      "name": "xinbg_png"
+    },
+    {
+      "url": "assets/loading/loading.json",
+      "type": "json",
+      "name": "loading_json"
+    },
+    {
+      "url": "assets/bgsound.mp3",
+      "type": "sound",
+      "name": "bgsound_mp3"
+    },
+    {
+      "url": "assets/page.json",
+      "type": "sheet",
+      "name": "page_json",
+      "subkeys": "pause,shipai,succeed"
+    },
+    {
+      "url": "assets/gamebg.jpg",
+      "type": "image",
+      "name": "gamebg_png"
+    },
+    {
+      "url": "assets/yesSound.mp3",
+      "type": "sound",
+      "name": "yesSound_mp3"
+    },
+    {
+      "url": "assets/icon.json",
+      "type": "sheet",
+      "name": "icon_json",
+      "subkeys": "1,10,11,12,13,14,15,16,17,18,19,2,20,21,22,23,24,25,26,3,4,5,6,7,8,9"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+
+
+  <meta name="viewport"
+    content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="full-screen" content="yes" />
+  <meta name="screen-orientation" content="portrait" />
+  <meta name="x5-fullscreen" content="true" />
+  <meta name="360-fullscreen" content="true" />
+
+  <meta name="renderer" content="webkit" />
+  <meta name="force-rendering" content="webkit" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>Cute Princess Dress Up</title>
+  <link rel="stylesheet" type="text/css" href="style-desktop.css" />
+  <link rel="icon" href="favicon.ico" />
+</head>
+
+<style type="texts">
+  * {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+  }
+  @font-face {
+      font-family: "Arial";
+      src: url("rrzzhh.ttf");
+  }
+  html {
+      touch-action: none
+  }
+  body {
+      overflow: hidden;
+      /* 页面背景颜色 */
+      background: #e6cdff
+  }
+</style>
+
+<body>
+
+
+
+  <div id="Game" style="width:720px; height: 1280px;">
+    <canvas id="GameCanvas" width="720" height="1280"></canvas>
+    <div id="splash" style="display: none;">
+      <div class="progress-bar stripes">
+        <span style="width: 0%"></span>
+      </div>
+    </div>
+  </div>
+
+
+  
+  <script type="text/javascript" src="https://h5gamessdk.yyggames.com/sdk/YYGGames.js"></script>
+  <script src="cc-resolution.js" charset="utf-8"></script>
+
+  <script src="src/settings.b38a1.js" charset="utf-8"></script>
+  <script src="main.35650.js" charset="utf-8"></script>
+  <script>
+    // 这个函数将在每一帧被调用
+    // function update() {
+    //   // TODO: 在这里编写你的逻辑
+    //   // console.log('每帧执行的操作');
+     
+
+    //   function fullscreenHandler() {
+    //     if (!document.fullscreenElement) {
+    //       // 监听到退出全屏
+    //       console.log('已退出全屏');
+    //     } else {
+    //       // 监听到进入全屏
+    //       console.log('已进入全屏');
+    //     }
+    //   }
+    //   // 请求下一帧
+    //   requestAnimationFrame(update);
+    // }
+
+    // 初始请求
+    // requestAnimationFrame(update);
+  </script>
+  <script type="text/javascript">
+    (function () {
+    
+      console.log = console.info = console.warn =console.error= function () { };
+      // Element.prototype.requestFullscreen = function() {};
+      // open web debugger console
+      if (typeof VConsole !== 'undefined') {
+        window.vConsole = new VConsole();
+      }
+
+      var debug = window._CCSettings.debug;
+      var splash = document.getElementById('splash');
+      splash.style.display = 'block';
+
+
+
+
+      function loadScript(moduleName, cb) {
+        function scriptLoaded() {
+          document.body.removeChild(domScript);
+          domScript.removeEventListener('load', scriptLoaded, false);
+          cb && cb();
+        };
+        var domScript = document.createElement('script');
+        domScript.async = true;
+        domScript.src = moduleName;
+        domScript.addEventListener('load', scriptLoaded, false);
+        document.body.appendChild(domScript);
+      }
+
+      loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.js', function () {
+
+        bundle.init().then(()=>{
+                       
+          if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
+            loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
+          }
+          else {
+            window.boot();
+          }
+                      })
+      });
+    })();
+    resolution.init(720, 1280)
+  </script>
+  <script src="https://h5gamessdk.yyggames.com/sdk/h5splash.js"></script>
+  <script>
+    //'puzzlegame'
+    //'yad'
+    //初始化渠道
+    h5splash.init({ appName: "Cute-Princess-Dress-Up", channel: "babygames" })
+    //设置背景颜色
+    h5splash.setBackgroundColor("#e6cdff")
+    //设置进度条背景颜色
+    h5splash.setProgressBackgroundColor("#fff")
+    //这是进度条颜色
+    h5splash.setProgressValueColor("#d588ff")
+    //这是进度条颜色 渐变色
+    //h5splash.setProgressValueColor("#fffff","#ddd")
+
+    h5splash.setGameLogoScale(.7, .7)
+  </script>
+</body>
+
+</html>

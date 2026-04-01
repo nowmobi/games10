@@ -1,0 +1,61 @@
+{
+  "paths": {
+    "0": [
+      "mp3/OpenCap",
+      0
+    ],
+    "1": [
+      "mp3/papers_journey",
+      0
+    ],
+    "2": [
+      "mp3/btnTap",
+      0
+    ],
+    "3": [
+      "mp3/btnClick",
+      0
+    ]
+  },
+  "types": [
+    "cc.AudioClip"
+  ],
+  "uuids": [
+    "13eAwlcphH9purjqsjalJK",
+    "23BdoGuHBA3rx+53Bemm+g",
+    "25e1wSiCtPxLRY2nNTpJU4",
+    "4dgYeUwtRA7oIJnocY4oAp"
+  ],
+  "scenes": {},
+  "redirect": [],
+  "deps": [],
+  "packs": {},
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false,
+  "versions": {
+    "import": [
+      0,
+      "fc8b5",
+      1,
+      "502f9",
+      2,
+      "04d78",
+      3,
+      "ac38b"
+    ],
+    "native": [
+      0,
+      "2b8a0",
+      1,
+      "fd971",
+      2,
+      "401eb",
+      3,
+      "d1af1"
+    ]
+  }
+}

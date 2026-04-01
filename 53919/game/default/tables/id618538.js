@@ -1,0 +1,1 @@
+pgf.jsonp("tables/id618538", {"id":"id618538","version":"1.000000","name":"TD_PositionsGap","numRows":4,"numCols":1,"flags":9,"tableType":0,"rows":[{"id":"0","name":""},{"id":"1","name":""},{"id":"2","name":""},{"id":"3","name":""}],"columns":{"id":"0","name":"","type":"1","readonly":"1","$":["","","",""]}});

@@ -1,0 +1,176 @@
+@font-face {
+    font-family: "kanit-regular";
+    src: url("./assets/fonts/Kanit-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "kanit-bold";
+    src: url("./assets/fonts/Kanit-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "roboto-boldcondensed";
+    src: url("./assets/fonts/Roboto-BoldCondensed.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Rowdies-Regular";
+    src: url("./assets/fonts/Rowdies-Regular.woff");
+}
+
+body {
+    font-family: "Rowdies-Regular","kanit-bold","kanit-regular","roboto", sans-serif;
+    background-color: #f0ddb6;
+    overflow: hidden;
+    background-image: url("./assets/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#a {
+    font-family: "Rowdies-Regular";
+}
+#b {
+    font-family: "kanit-regular";
+}
+#c {
+    font-family: "roboto-boldcondensed";
+}
+#loader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+#game {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+#start_game {
+    font-family: "kanit-bold", sans-serif;
+    font-size: 4rem;
+    margin-top: 5rem;
+    background-color: #a8dadc;
+    padding: 0 2rem;
+    border-radius: 30px;
+    border: 0.3rem solid #ffffff;
+    cursor: pointer;
+    display: none;
+    visibility: hidden;
+}
+.title_link {
+    color: #e63946;
+    font-size: 4rem;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+.game_title {
+    text-align: center;
+    font-size: 3rem;
+    color: #457b9d;
+    text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+.text {
+    color: #ffffff;
+}
+@media only screen and (max-width: 1024px) {
+    .title_link {
+        font-size: 3rem;
+    }
+    #start_game {
+        font-size: 2.5rem;
+        margin-top: 2rem;
+        padding: 0 1rem;
+    }
+    .game_title {
+        font-size: 1.5rem;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .title_link {
+        font-size: 2rem;
+    }
+    #start_game {
+        font-size: 2rem;
+        margin-top: 1rem;
+        padding: 0 1rem;
+    }
+    .game_title {
+        font-size: 1.5rem;
+    }
+}
+
+
+
+.lds-ellipsis {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-ellipsis div {
+  position: absolute;
+  top: 33px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #fff;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.lds-ellipsis div:nth-child(1) {
+  left: 8px;
+  animation: lds-ellipsis1 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(2) {
+  left: 8px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(3) {
+  left: 32px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(4) {
+  left: 56px;
+  animation: lds-ellipsis3 0.6s infinite;
+}
+@keyframes lds-ellipsis1 {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes lds-ellipsis3 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+@keyframes lds-ellipsis2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(24px, 0);
+  }
+}

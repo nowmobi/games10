@@ -1,0 +1,456 @@
+{
+  "paths": {
+    "0": [
+      "effect/effect_img_damageblock_1",
+      3
+    ],
+    "1": [
+      "effect/effect_img_damageblock_t0",
+      3
+    ],
+    "2": [
+      "effect/effect_img_huode_xx",
+      3
+    ],
+    "3": [
+      "effect/item_box_particle",
+      3
+    ],
+    "4": [
+      "effect/effect_img_horizontalline",
+      3
+    ],
+    "5": [
+      "particle_white",
+      3
+    ],
+    "6": [
+      "dot",
+      3
+    ],
+    "7": [
+      "effect/effecit_img_boom0",
+      3
+    ],
+    "8": [
+      "effect/effect_img_damageblock_t1",
+      3
+    ],
+    "9": [
+      "effect/effect_img_damageblock_0",
+      3
+    ],
+    "10": [
+      "effect/effecit_img_boomline",
+      3
+    ],
+    "11": [
+      "effect/effecit_img_boom1",
+      3
+    ],
+    "12": [
+      "effect/effecit_img_boomline_Vertical",
+      3
+    ],
+    "13": [
+      "levels/level26",
+      1
+    ],
+    "14": [
+      "Sound/power_1",
+      0
+    ],
+    "15": [
+      "levels/level19",
+      1
+    ],
+    "16": [
+      "levels/level23",
+      1
+    ],
+    "17": [
+      "effect/effecit_img_boomline_Vertical",
+      2,
+      1
+    ],
+    "18": [
+      "effect/effecit_img_boom0",
+      2,
+      1
+    ],
+    "19": [
+      "levels/level25",
+      1
+    ],
+    "20": [
+      "Sound/laser",
+      0
+    ],
+    "21": [
+      "levels/level22",
+      1
+    ],
+    "22": [
+      "levels/level40 copy",
+      1
+    ],
+    "23": [
+      "effect/effect_img_damageblock_0",
+      2,
+      1
+    ],
+    "24": [
+      "Sound/starAppear",
+      0
+    ],
+    "25": [
+      "levels/level5",
+      1
+    ],
+    "26": [
+      "levels/level2",
+      1
+    ],
+    "27": [
+      "effect/item_box_particle",
+      2,
+      1
+    ],
+    "28": [
+      "levels/level33",
+      1
+    ],
+    "29": [
+      "Sound/button",
+      0
+    ],
+    "30": [
+      "Sound/bg",
+      0
+    ],
+    "31": [
+      "levels/level40",
+      1
+    ],
+    "32": [
+      "Sound/power_3",
+      0
+    ],
+    "33": [
+      "levels/level4",
+      1
+    ],
+    "34": [
+      "levels/level32",
+      1
+    ],
+    "35": [
+      "levels/level30",
+      1
+    ],
+    "36": [
+      "Sound/levelfailed",
+      0
+    ],
+    "37": [
+      "effect/effecit_img_boom1",
+      2,
+      1
+    ],
+    "38": [
+      "levels/level18",
+      1
+    ],
+    "39": [
+      "Sound/ballCollide",
+      0
+    ],
+    "40": [
+      "levels/level31",
+      1
+    ],
+    "41": [
+      "levels/level16",
+      1
+    ],
+    "42": [
+      "levels/level34",
+      1
+    ],
+    "43": [
+      "effect/effect_img_horizontalline",
+      2,
+      1
+    ],
+    "44": [
+      "effect/effect_img_huode_xx",
+      2,
+      1
+    ],
+    "45": [
+      "Sound/warning",
+      0
+    ],
+    "46": [
+      "levels/level24",
+      1
+    ],
+    "47": [
+      "levels/level27",
+      1
+    ],
+    "48": [
+      "levels/level38",
+      1
+    ],
+    "49": [
+      "levels/level9",
+      1
+    ],
+    "50": [
+      "dot",
+      2,
+      1
+    ],
+    "51": [
+      "levels/level10",
+      1
+    ],
+    "52": [
+      "colors",
+      1
+    ],
+    "53": [
+      "levels/level36",
+      1
+    ],
+    "54": [
+      "levels/level7",
+      1
+    ],
+    "55": [
+      "levels/level3",
+      1
+    ],
+    "56": [
+      "levels/level6",
+      1
+    ],
+    "57": [
+      "Sound/levelfailedpopup",
+      0
+    ],
+    "58": [
+      "particle_white",
+      2,
+      1
+    ],
+    "59": [
+      "levels/level37",
+      1
+    ],
+    "60": [
+      "levels/level13",
+      1
+    ],
+    "61": [
+      "effect/effect_img_damageblock_t1",
+      2,
+      1
+    ],
+    "62": [
+      "effect/effect_img_damageblock_1",
+      2,
+      1
+    ],
+    "63": [
+      "levels/level11",
+      1
+    ],
+    "64": [
+      "effect/effect_img_damageblock_t0",
+      2,
+      1
+    ],
+    "65": [
+      "levels/level20",
+      1
+    ],
+    "66": [
+      "levels/level8",
+      1
+    ],
+    "67": [
+      "levels/level29",
+      1
+    ],
+    "68": [
+      "levels/level28",
+      1
+    ],
+    "69": [
+      "levels/level35",
+      1
+    ],
+    "70": [
+      "Sound/blast",
+      0
+    ],
+    "71": [
+      "levels/level17",
+      1
+    ],
+    "72": [
+      "effect/effecit_img_boomline",
+      2,
+      1
+    ],
+    "73": [
+      "levels/level15",
+      1
+    ],
+    "74": [
+      "Sound/levelcompleted",
+      0
+    ],
+    "75": [
+      "levels/level12",
+      1
+    ],
+    "76": [
+      "Sound/power_2",
+      0
+    ],
+    "77": [
+      "levels/level21",
+      1
+    ],
+    "78": [
+      "levels/level14",
+      1
+    ],
+    "79": [
+      "levels/level39",
+      1
+    ],
+    "80": [
+      "levels/level1",
+      1
+    ]
+  },
+  "types": [
+    "cc.AudioClip",
+    "cc.JsonAsset",
+    "cc.SpriteFrame",
+    "cc.Texture2D"
+  ],
+  "uuids": [
+    "26iPkDgIdHGJFHDYcbyhGN",
+    "403UcQZUZCOIZGvk5Td1TM",
+    "46WLTiquxNj6oNqqm2viA5",
+    "49jPaQPGJLv7tc44jce0dh",
+    "6caxzN8nZLzqwJfVBkbDD0",
+    "92YdkUeDpLxag29AB4M+b1",
+    "d24ISWw7RLyqCvR2EvDCWY",
+    "dd3ZDsMQpBEbHlkQkFn//y",
+    "e3DRLoFVtIOLolb45XQaCY",
+    "e5VyBlhHVBroE2aExmZlps",
+    "efCDEVNgJK3ozggp5BDFnd",
+    "ef7s+agaVGv4FaMqkb3HgP",
+    "fb/sKR3jxI1rDvEz9c7weZ",
+    "02AN1g0uJGMLv2+ITENvBi",
+    "03cv8EcSFOVYLG4nJ6B/LT",
+    "0dHZZHrHRMPKdZRg+PDkUC",
+    "13SkeSNABNaZMQxgaeJ3/6",
+    "14iGG+kH9GnaXg4CAjSn61",
+    "1cJfGlOLtFlY0voUyqqz2f",
+    "22HYYh55tLl56QAmwq+02t",
+    "24fenhsZFA5bXHVIDkBuEb",
+    "2dkDtoKsVMxL0ezpuBcbta",
+    "2duLTA5F5GTZlFqVmFv68A",
+    "33Mmbxl/NBAZIcfJ36+5Mc",
+    "331nAGaB1E6ZnpMUpmr0f0",
+    "35LQUESUdG675DRqi0RSC+",
+    "3abExEnl1Ij5UCvP7p/VLH",
+    "3dQDrLtOxHDaLHwgjOUWPB",
+    "45yr+imjFJQYN4FXcGigYL",
+    "456qCZyfRBmI87WCRxdm4H",
+    "46k4dNUo5CFL3u//DL87vC",
+    "4foAxwn/FIopZAmSfscGzo",
+    "54VWfQQfdN/4kezJyqsXD+",
+    "56f2VNR1NPA4ms/Td3Zv1a",
+    "5dooPH3ntM5JFLrja6eymh",
+    "67GIVILJROLK2sj/TRWQPp",
+    "6dvJT0/e5N/o3LNXgACdhj",
+    "70vxYlM4dE65jfBksaD9Sb",
+    "74LKjbnsZDDarY+DmYzDWg",
+    "74bBZk8tNAfqpYSZoqeEh3",
+    "79dbGMqh5G0Z2NuWeQmXsd",
+    "7c11TFmY5P+ZLNnUAPSh3k",
+    "7e+U8Geb5D9rNETr+ulW0m",
+    "80pJ5WAi5C943MuAItQXbL",
+    "84S7yOAbBB6JT/hdY3yTu3",
+    "841HHFV35NRpWmOfnj8hgs",
+    "8aTOFl/VdKaYQzlUvn1did",
+    "8bL62Jzh9IzJoE5qoUPjst",
+    "8ddSQRIgFNWrnVl6k/yEI0",
+    "8evPasZllDbq+RTPHUVbwB",
+    "93wij2N11F7b2uuRzdVVzf",
+    "9evHfocDJKxIXCFE2pNwHe",
+    "9fW7Z/P3lOwogYcf1hriay",
+    "a3cGiyei1MWKyIsufitigS",
+    "a8Br+Z+1BD1KOOdtRSAVEG",
+    "a9WhH5tfdHhpoZyCe4CIH1",
+    "aba5Jaar1JWbA6huQD3CJh",
+    "adWSlB+dlDWYP7YSQUX9nc",
+    "ad9KOwB8VHwJ++JMJHgAF3",
+    "b0MhtuRexDQ5qFTdIzP0kd",
+    "b2I8MrSTpF7oC05NiVsPNT",
+    "b2fPsPIIVOdIEscB/f39pL",
+    "b3Ho3BdIxHAZZe8dc9IFhm",
+    "b3nNwsz8lCnbgaoli7kOwe",
+    "b9T7HKrmlGmqkD+oIegQz9",
+    "baATObpPZDu7nD08fKdunM",
+    "c2oe0/lDZLyooEO9sJ5BPF",
+    "c3ajh/Vo5DkJ4C3Dc5GS6I",
+    "c5Y/QRxiBM+5/WmFLlrEJi",
+    "c7+WelzYVN17Z1m67/POHr",
+    "cctRiiHG5BV5E2CSjvDX63",
+    "ceC6DAwdFHQbIAjAV1rOQH",
+    "d1I5fYyO9GQLgIS4qsK8tC",
+    "d3yswbVhpBlqjwyMhtITb9",
+    "d7ON0ypLNGgr5gK4rkzbAF",
+    "e4VhwEyapFK6r+faMMVV1o",
+    "e5XVJPiwJCiJKZh4YgCrf8",
+    "e5a3qWUWdM/ID5An7ybPKA",
+    "e9JA01NVpDdJ2OXwmZj0rc",
+    "f1lqLc1v1FG4+F5Daf39TJ",
+    "f93nvjXLNNqao4EujzjKKD"
+  ],
+  "scenes": {},
+  "redirect": [],
+  "deps": [],
+  "packs": {
+    "0ffa8857a": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

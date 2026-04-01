@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/main/loadScene.fire",orientation:"",jsList:[],bundleVers:{bundlePrefab:"c3f01",bundleScene:"2720c",internal:"69b9a",main:"7ef45"}};

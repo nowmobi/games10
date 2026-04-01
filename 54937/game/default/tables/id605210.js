@@ -1,0 +1,1 @@
+pgf.jsonp("tables/id605210", {"id":"id605210","version":"1.000000","name":"TB_Score","numRows":1,"numCols":2,"flags":9,"tableType":0,"rows":{"id":"0","name":""},"columns":[{"id":"0","name":"best score","type":"2","readonly":"0","$":[0]},{"id":"1","name":"leaderboard ID","type":"1","readonly":"0","$":["giddy_fruit"]}]});

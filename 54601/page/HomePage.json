@@ -1,0 +1,1374 @@
+{
+  "type": "Scene",
+  "props": {
+    "width": 1080,
+    "runtime": "uiLogic/HomePage.ts",
+    "height": 1920
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "texture": "home/ui_bgmain.jpg",
+        "name": "ui_bgMain",
+        "height": 1920
+      },
+      "compId": 41,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 1080,
+            "texture": "home/ui_bgmain.jpg",
+            "name": "ui_bgMain",
+            "height": 1920
+          },
+          "compId": 99
+        },
+        {
+          "type": "Script",
+          "props": {
+            "runtime": "uiLogic/component/BGAutoRoll.ts"
+          },
+          "compId": 100
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "var": "ui_player"
+      },
+      "compId": 42,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 11,
+            "x": 12,
+            "texture": "home/ui_Home_jiaosediban.png",
+            "name": "ui_roleBg"
+          },
+          "compId": 49,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "noScale": true,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 131
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 85,
+            "x": 86,
+            "width": 137,
+            "skin": "allCommon/icon_life01.png",
+            "name": "ui_playerIcon",
+            "height": 137,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 50,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 68,
+                "x": 68,
+                "width": 137,
+                "skin": "allCommon/icon_life01.png",
+                "renderType": "mask",
+                "height": 137,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 95
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1,
+            "x": -4.5,
+            "visible": false,
+            "skin": "icon/ui_head_iconV1.png",
+            "name": "ui_head_icon"
+          },
+          "compId": 226
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 85,
+            "x": 169,
+            "width": 47,
+            "texture": "home/icon_xiaobaoshi.png",
+            "name": "ui_goldIcon",
+            "height": 53
+          },
+          "compId": 51
+        },
+        {
+          "type": "Text",
+          "props": {
+            "y": 92,
+            "x": 235,
+            "text": "5000",
+            "name": "lab_goldNum",
+            "fontSize": 36,
+            "font": "SimHei",
+            "color": "#ffffff",
+            "bold": true,
+            "runtime": "Laya.Text"
+          },
+          "compId": 52
+        },
+        {
+          "type": "Text",
+          "props": {
+            "y": 40,
+            "x": 173,
+            "text": "我是玩家名字",
+            "name": "lab_playerName",
+            "fontSize": 30,
+            "font": "SimHei",
+            "color": "#ffebb6",
+            "bold": true,
+            "runtime": "Laya.Text"
+          },
+          "compId": 53
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 230,
+        "x": 0,
+        "width": 1080,
+        "var": "box_pve",
+        "height": 1398
+      },
+      "compId": 43,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "y": 518,
+            "x": 540,
+            "width": 780,
+            "name": "ui_chapter",
+            "height": 798,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 54,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "y": 0,
+                "x": 0,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 78
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 639,
+                "x": 211,
+                "skin": "home/ui_home_wordBg.png",
+                "name": "box_unlock"
+              },
+              "compId": 159,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 49,
+                    "x": -1,
+                    "skin": "home/ui_home_iconBg.png",
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "compId": 160
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 49,
+                    "x": -1,
+                    "skin": "home/ui_home_icon1.png",
+                    "name": "img_function",
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "compId": 161
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 30,
+                    "x": 61,
+                    "skin": "home/ui_home_word1.png",
+                    "name": "img_lab"
+                  },
+                  "compId": 162
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 555,
+            "x": 904,
+            "width": 80,
+            "skin": "home/ui_Home_z2.png",
+            "name": "btn_right",
+            "height": 143,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 58,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 77
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 555,
+            "x": 179,
+            "width": 80,
+            "skin": "home/ui_Home_z1.png",
+            "name": "btn_left",
+            "height": 143,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 59,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 76
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1265,
+            "x": 545,
+            "width": 632,
+            "var": "btn_start",
+            "skin": "home/ui_Home_Button2.png",
+            "height": 191,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 6,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 95,
+                "x": 316,
+                "skin": "home/ui_Home_jixuyouxi.png",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 7
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 9
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": -20,
+            "x": 204,
+            "width": 672,
+            "texture": "home/ui_title.png",
+            "height": 138
+          },
+          "compId": 132
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 40,
+            "x": 540,
+            "text": "第二章 毒蛇神殿",
+            "strokeColor": "#000000",
+            "stroke": 5,
+            "name": "lab_levelName",
+            "fontSize": 52,
+            "color": "#ffebb6",
+            "bold": true,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 63
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 182,
+        "x": 0,
+        "width": 1080,
+        "var": "box_pvp",
+        "height": 1231
+      },
+      "compId": 134,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 32,
+            "x": 204,
+            "width": 672,
+            "texture": "home/ui_title.png",
+            "height": 138
+          },
+          "compId": 135
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 95,
+            "x": 545.1640625,
+            "text": "荣耀黄金Ⅴ",
+            "strokeColor": "#000000",
+            "stroke": 5,
+            "name": "lab_levelName",
+            "fontSize": 70,
+            "color": "#ffcc00",
+            "bold": true,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 136
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 507,
+            "x": 545,
+            "width": 636,
+            "skin": "pvp/ui_pvp_rankIcon1.png",
+            "name": "ui_pvp_rankIcon",
+            "height": 638,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 138
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1308,
+            "x": 545,
+            "width": 632,
+            "var": "btn_pvp_Start",
+            "skin": "home/ui_Home_Button.png",
+            "height": 191,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 145,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": 152,
+                "x": 316,
+                "text": "消耗天梯劵：1（5）",
+                "stroke": 3,
+                "name": "lab_desc",
+                "fontSize": 30,
+                "font": "SimHei",
+                "color": "#27ec37",
+                "bold": true,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 146
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 90,
+                "x": 311,
+                "skin": "home/ui_Home_kaishiyouxi.png",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 147
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 148
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1308,
+            "x": 545,
+            "width": 632,
+            "var": "btn_pvp_videoStart",
+            "skin": "home/ui_Home_Button.png",
+            "height": 191,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 140,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": 137,
+                "x": 196.15625,
+                "text": "剩余使用次数：5",
+                "stroke": 3,
+                "name": "lab_desc",
+                "fontSize": 30,
+                "font": "SimHei",
+                "color": "#27ec37",
+                "bold": true
+              },
+              "compId": 144
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 87,
+                "x": 311,
+                "skin": "home/ui_Home_shipin.png",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 141
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 142
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 1308,
+            "x": 545,
+            "width": 632,
+            "var": "btn_pvp_continue",
+            "skin": "home/ui_Home_Button2.png",
+            "height": 191,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 154,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 95,
+                "x": 316,
+                "skin": "home/ui_Home_jixuyouxi.png",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 155
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 156
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 836,
+            "x": 540,
+            "skin": "pvp/ui_pvp_rankReward.png",
+            "name": "btn_rankReward",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 220,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "y": 0,
+                "x": 0,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 221
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 0,
+                "x": 422,
+                "visible": false,
+                "texture": "allCommon/ui_hongdian.png",
+                "name": "redPoint"
+              },
+              "compId": 222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 1660,
+        "x": 0,
+        "presetID": 1,
+        "width": 1080,
+        "var": "ui_down",
+        "isPresetRoot": true,
+        "height": 260
+      },
+      "compId": 163,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 2,
+            "y": 34,
+            "x": 0,
+            "width": 1080,
+            "skin": "home/ui_Home_xiazhidi.png",
+            "sizeGrid": "90,25,56,27",
+            "name": "ui_funcbg",
+            "height": 226
+          },
+          "compId": 65
+        },
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 3,
+            "y": 148,
+            "x": 542,
+            "skin": "home/ui_Home_xuanzhong.png",
+            "name": "ui_selected",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 66
+        },
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 4,
+            "y": 138,
+            "x": 99,
+            "skin": "home/icon_Shop.png",
+            "name": "btn_1",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 67,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "presetID": 5,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 79
+            },
+            {
+              "type": "Image",
+              "props": {
+                "presetID": 6,
+                "y": 52.5,
+                "x": 55.5,
+                "visible": false,
+                "skin": "home/ui_Home_suo.png",
+                "name": "lunck"
+              },
+              "compId": 85
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "presetID": 20,
+                "y": 5.5,
+                "x": 114.5,
+                "visible": false,
+                "texture": "allCommon/ui_hongdian.png",
+                "name": "redPoint"
+              },
+              "compId": 91
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 7,
+            "y": 138,
+            "x": 281,
+            "skin": "home/icon_Forces.png",
+            "name": "btn_2",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 68,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "presetID": 8,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 80
+            },
+            {
+              "type": "Image",
+              "props": {
+                "presetID": 9,
+                "y": 52,
+                "x": 55,
+                "visible": false,
+                "skin": "home/ui_Home_suo.png",
+                "name": "lunck"
+              },
+              "compId": 86
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "presetID": 21,
+                "y": 5,
+                "x": 114,
+                "visible": false,
+                "texture": "allCommon/ui_hongdian.png",
+                "name": "redPoint"
+              },
+              "compId": 94
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 10,
+            "y": 138,
+            "x": 546,
+            "skin": "home/icon_Fight.png",
+            "name": "btn_3",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 69,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "presetID": 11,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 81
+            },
+            {
+              "type": "Image",
+              "props": {
+                "presetID": 12,
+                "y": 52,
+                "x": 55,
+                "visible": false,
+                "skin": "home/ui_Home_suo.png",
+                "name": "lunck"
+              },
+              "compId": 87
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 13,
+            "y": 138,
+            "x": 784,
+            "skin": "home/icon_Activities.png",
+            "name": "btn_4",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 70,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "presetID": 14,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 82
+            },
+            {
+              "type": "Image",
+              "props": {
+                "presetID": 15,
+                "y": 52,
+                "x": 55,
+                "visible": false,
+                "skin": "home/ui_Home_suo.png",
+                "name": "lunck"
+              },
+              "compId": 88
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "presetID": 23,
+                "y": 5,
+                "x": 114,
+                "visible": false,
+                "texture": "allCommon/ui_hongdian.png",
+                "name": "redPoint"
+              },
+              "compId": 96
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "presetID": 16,
+            "y": 138,
+            "x": 966,
+            "skin": "home/icon_Faith.png",
+            "name": "btn_5",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 71,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "presetID": 17,
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 83
+            },
+            {
+              "type": "Image",
+              "props": {
+                "presetID": 18,
+                "y": 52,
+                "x": 55,
+                "visible": false,
+                "skin": "home/ui_Home_suo.png",
+                "name": "lunck"
+              },
+              "compId": 89
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "presetID": 24,
+                "y": 5,
+                "x": 114,
+                "visible": false,
+                "texture": "allCommon/ui_hongdian.png",
+                "name": "redPoint"
+              },
+              "compId": 97
+            }
+          ]
+        },
+        {
+          "type": "Script",
+          "props": {
+            "presetID": 19,
+            "myPageType": "Home",
+            "runtime": "uiLogic/component/HomeFootUI.ts"
+          },
+          "compId": 90
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 83,
+        "x": 567,
+        "skin": "home/icon_Invitation.png",
+        "name": "btn_invite",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 45,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 74
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": -9,
+            "x": 90,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "name": "redPoint"
+          },
+          "compId": 158
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 401,
+        "x": 80,
+        "skin": "home/icon_Signin.png",
+        "name": "btn_register",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 46,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": -9.5,
+            "x": 90,
+            "texture": "allCommon/ui_hongdian.png",
+            "name": "redPoint"
+          },
+          "compId": 98
+        },
+        {
+          "type": "Script",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 73
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 540,
+        "x": 80,
+        "skin": "home/icon_Illustrated.png",
+        "name": "btn_book",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 47,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 72
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 683,
+        "x": 80,
+        "skin": "home2/ui_rank_icon.png",
+        "name": "btn_rank",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 149,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 150
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": -9,
+            "x": 90,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "name": "redPoint"
+          },
+          "compId": 151
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 1040,
+        "x": 82,
+        "var": "btn_dyGift",
+        "skin": "home2/ui_addToDeck_btn.png",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 164,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 165
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 401,
+        "x": 1000,
+        "skin": "home/icon_Announce.png",
+        "name": "btn_announce",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 167,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 169
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": -9,
+            "x": 90,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "name": "redPoint"
+          },
+          "compId": 186
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 1197,
+        "x": 82,
+        "var": "btn_addToDesk",
+        "skin": "home/icon_AddDesk.png",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 166,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 168
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 540,
+        "x": 1000,
+        "skin": "home/icon_Fans.png",
+        "name": "btn_weixin",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 223,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 224
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": -9,
+            "x": 90,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "name": "redPoint"
+          },
+          "compId": 225
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 1252,
+        "x": 540,
+        "width": 690,
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 109,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 21,
+            "x": -7,
+            "texture": "home/ui_home_btnBg.png"
+          },
+          "compId": 157
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 97,
+            "x": 167,
+            "var": "btn_modle_main",
+            "skin": "home/home_modle_2_a.png",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 107,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 112
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 111,
+            "x": 515,
+            "var": "btn_modle_pvp",
+            "skin": "home/home_modle_1_b.png",
+            "anchorY": 0.6,
+            "anchorX": 0.5
+          },
+          "compId": 108,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 88,
+                "x": 167.5,
+                "width": 156,
+                "skin": "home/lab_unlockTips.png",
+                "height": 50
+              },
+              "compId": 111
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "uiLogic/component/ButtonClick.ts"
+              },
+              "compId": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "width": 1080,
+        "visible": false,
+        "var": "box_guide",
+        "height": 1920
+      },
+      "compId": 114,
+      "child": [
+        {
+          "type": "Box",
+          "props": {
+            "top": 0,
+            "right": 0,
+            "left": 0,
+            "bottom": 0,
+            "bgColor": "#000000",
+            "alpha": 0.7
+          },
+          "compId": 115
+        },
+        {
+          "type": "Box",
+          "props": {
+            "y": 1050,
+            "x": 0,
+            "width": 1080,
+            "name": "1",
+            "height": 800
+          },
+          "compId": 129,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 445,
+                "x": 545,
+                "width": 632,
+                "skin": "home/ui_Home_Button.png",
+                "name": "guideTarget",
+                "height": 191,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 227,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 95,
+                    "x": 316,
+                    "skin": "home/ui_Home_kaishiyouxi.png",
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "compId": 228
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 320,
+                "x": 790,
+                "width": 229,
+                "skin": "home/ui_shouzhi.png",
+                "rotation": 250,
+                "height": 237,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 130
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "nodes": [
+        {
+          "target": 130,
+          "keyframes": {
+            "y": [
+              {
+                "value": 283,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "key": "y",
+                "index": 0
+              },
+              {
+                "value": 356,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "key": "y",
+                "index": 15
+              },
+              {
+                "value": 283,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "key": "y",
+                "index": 35
+              }
+            ],
+            "rotation": [
+              {
+                "value": 270,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "key": "rotation",
+                "index": 0
+              },
+              {
+                "value": 240,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "key": "rotation",
+                "index": 15
+              },
+              {
+                "value": 270,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "key": "rotation",
+                "index": 35
+              },
+              {
+                "value": 270,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 130,
+                "label": null,
+                "key": "rotation",
+                "index": 70
+              }
+            ]
+          }
+        }
+      ],
+      "name": "ani_guide1",
+      "id": 1,
+      "frameRate": 24,
+      "action": 0
+    },
+    {
+      "nodes": [
+        {
+          "target": 160,
+          "keyframes": {
+            "rotation": [
+              {
+                "value": 0,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 160,
+                "key": "rotation",
+                "index": 0
+              },
+              {
+                "value": 357,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 160,
+                "key": "rotation",
+                "index": 145
+              }
+            ]
+          }
+        }
+      ],
+      "name": "ani_loop",
+      "id": 2,
+      "frameRate": 24,
+      "action": 2
+    }
+  ],
+  "loadList": [
+    "home/ui_bgmain.jpg",
+    "home/ui_Home_jiaosediban.png",
+    "allCommon/icon_life01.png",
+    "icon/ui_head_iconV1.png",
+    "home/icon_xiaobaoshi.png",
+    "home/ui_home_wordBg.png",
+    "home/ui_home_iconBg.png",
+    "home/ui_home_icon1.png",
+    "home/ui_home_word1.png",
+    "home/ui_Home_z2.png",
+    "home/ui_Home_z1.png",
+    "home/ui_Home_Button2.png",
+    "home/ui_Home_jixuyouxi.png",
+    "home/ui_title.png",
+    "pvp/ui_pvp_rankIcon1.png",
+    "home/ui_Home_Button.png",
+    "home/ui_Home_kaishiyouxi.png",
+    "home/ui_Home_shipin.png",
+    "pvp/ui_pvp_rankReward.png",
+    "allCommon/ui_hongdian.png",
+    "prefab/HomeFootUI.prefab",
+    "home/icon_Invitation.png",
+    "home/icon_Signin.png",
+    "home/icon_Illustrated.png",
+    "home2/ui_rank_icon.png",
+    "home2/ui_addToDeck_btn.png",
+    "home/icon_Announce.png",
+    "home/icon_AddDesk.png",
+    "home/icon_Fans.png",
+    "home/ui_home_btnBg.png",
+    "home/home_modle_2_a.png",
+    "home/home_modle_1_b.png",
+    "home/lab_unlockTips.png",
+    "home/ui_shouzhi.png"
+  ],
+  "loadList3D": []
+}

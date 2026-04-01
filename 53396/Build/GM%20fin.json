@@ -1,0 +1,21 @@
+{
+  "companyName": "Vodogame.com",
+  "productName": "Dino Egg Shooter",
+  "productVersion": "1.0",
+  "dataUrl": "GM fin.data.unityweb",
+  "wasmCodeUrl": "GM fin.wasm.code.unityweb",
+  "wasmFrameworkUrl": "GM fin.wasm.framework.unityweb",
+  "graphicsAPI": [
+    "WebGL 2.0",
+    "WebGL 1.0"
+  ],
+  "webglContextAttributes": {
+    "preserveDrawingBuffer": false
+  },
+  "backgroundUrl": "GM fin.jpg",
+  "splashScreenStyle": "Dark",
+  "backgroundColor": "#FFFFFF",
+  "developmentBuild": false,
+  "multithreading": false,
+  "unityVersion": "2019.2.12f1"
+}

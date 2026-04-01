@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","self","robot","ui"],collisionMatrix:[[false,true,true],[true,false,true],[true,true,false],[false,false,false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/main/Frist.fire",orientation:"",jsList:[]};

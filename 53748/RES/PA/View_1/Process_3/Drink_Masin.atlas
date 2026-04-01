@@ -1,0 +1,82 @@
+
+Drink_Masin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bowl
+  rotate: false
+  xy: 569, 278
+  size: 263, 210
+  orig: 265, 212
+  offset: 1, 1
+  index: -1
+Bowl_Up
+  rotate: false
+  xy: 318, 72
+  size: 263, 148
+  orig: 265, 150
+  offset: 1, 1
+  index: -1
+Drink1
+  rotate: false
+  xy: 834, 241
+  size: 114, 111
+  orig: 116, 113
+  offset: 1, 1
+  index: -1
+Drink2
+  rotate: false
+  xy: 583, 165
+  size: 114, 111
+  orig: 116, 113
+  offset: 1, 1
+  index: -1
+Drink3
+  rotate: false
+  xy: 699, 165
+  size: 114, 111
+  orig: 116, 113
+  offset: 1, 1
+  index: -1
+Drink4
+  rotate: false
+  xy: 583, 52
+  size: 114, 111
+  orig: 116, 113
+  offset: 1, 1
+  index: -1
+Masin
+  rotate: false
+  xy: 2, 91
+  size: 314, 397
+  orig: 316, 399
+  offset: 1, 1
+  index: -1
+Masin_Hend
+  rotate: false
+  xy: 2, 2
+  size: 181, 87
+  orig: 183, 89
+  offset: 1, 1
+  index: -1
+Masin_Nail
+  rotate: false
+  xy: 834, 354
+  size: 167, 134
+  orig: 169, 136
+  offset: 1, 1
+  index: -1
+Masin_Wheel
+  rotate: false
+  xy: 318, 222
+  size: 249, 266
+  orig: 251, 268
+  offset: 1, 1
+  index: -1
+Tap
+  rotate: false
+  xy: 185, 55
+  size: 100, 34
+  orig: 102, 36
+  offset: 1, 1
+  index: -1

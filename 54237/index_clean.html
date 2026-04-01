@@ -1,0 +1,182 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mahjong Tower</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#000000">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="initial-scale=1 user-scalable=0"/>
+    <style type="text/css">
+	body {
+		background-color: #000000;
+        height: 100vh;
+	    overflow: hidden;
+	}
+		*{
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+<script type="text/javascript">
+     window.SDK_OPTIONS = {
+      gameId: "48ytxrxyrmhx01wmj4viudokthyisiiw",
+      onEvent: function (a) {
+         switch (a.name) {
+            case "SDK_GAME_PAUSE":
+               // pause game logic / mute audio
+               break;
+            case "SDK_GAME_START":
+               // advertisement done, resume game logic and unmute audio
+               break;
+            case "SDK_READY":
+               // when sdk is ready
+               break;
+         }
+      }
+   };
+(function (a, b, c) {
+   var d = a.getElementsByTagName(b)[0];
+   a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+})(document, "script", "gamemonetize-sdk"); 
+
+    var SYS = function()
+  {
+      this.desktop = false;
+      this.Type = 1;
+      this.H_Scale = 1; 
+      this.M_Scale = 1; 
+      var ua = navigator.userAgent;
+      if ((/Android/).test(ua))
+      {
+          this.android = true;
+          this.desktop = false;
+      }
+      else if ((/CrOS/).test(ua))
+      {
+          this.chromeOS = true;
+      }
+      else if ((/iP[ao]d|iPhone/i).test(ua))
+      {
+          this.iOS = true;
+          (navigator.appVersion).match(/OS (\d+)/);
+          this.iOSVersion = parseInt(RegExp.$1, 10);
+          this.desktop = false;
+      }
+      else if ((/Linux/).test(ua))
+      {
+          this.linux = true;
+      }
+      else if ((/Mac OS/).test(ua))
+      {
+          this.macOS = true;
+      }
+      else if ((/Windows/).test(ua))
+      {
+          this.windows = true;
+      }
+     if ((/Windows Phone/i).test(ua) || (/IEMobile/i).test(ua))
+      {
+          this.android = false;
+          this.iOS = false;
+          this.macOS = false;
+          this.windows = true;
+          this.windowsPhone = true;
+      }
+      var silk = (/Silk/).test(ua);
+      if (this.windows || this.macOS || (this.linux) || this.chromeOS)
+      {
+          this.desktop = true;
+      }
+      if (this.windowsPhone || (((/Windows NT/i).test(ua)) && ((/Touch/i).test(ua))))
+      {
+          this.desktop = false;
+      }
+      this.WS_Width = window.screen.width;
+      this.WS_Height = window.screen.height;
+      if(this.WS_Width > this.WS_Height){
+          this.Portrait = false;
+          this.ratio = Math.round(this.WS_Width * 10000 / this.WS_Height)/10000;
+      }else{
+          this.Portrait = true;
+          this.ratio = Math.round(this.WS_Height * 10000 / this.WS_Width)/10000;
+      }
+      this.DPR = Math.round(window.devicePixelRatio * 10)/10;
+      if(this.ratio == 1.7778){
+          this.StageW = 2560;
+          this.StageH = 1440;
+      }else if(this.ratio < 1.7778){
+          this.StageW = 2560;
+          this.StageH = Math.round(1440 * (1.7778 / this.ratio));
+          this.H_Scale = 1.7778 / this.ratio;
+      }else{
+          this.StageW = Math.round(2560 * (this.ratio / 1.7778));
+          this.StageH = 1440;
+      }
+      if ((this.DPR >= 2) && (this.ratio > 1.6)){
+          this.Type = 0;
+          this.M_Scale = 1.125;
+      }
+      this.scale = this.H_Scale * this.M_Scale;
+  return this;
+}
+  </script>
+	<script src="phaser.min.js"></script>
+	<script src="game.js"></script>
+    <script src="Utils.js"></script>
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  <body>
+</body>
+</html>

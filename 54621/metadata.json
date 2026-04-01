@@ -1,0 +1,22 @@
+{
+  "id": "54621",
+  "title": "Spider Solitaire 3",
+  "slug": "spider-solitaire-3",
+  "description": "Experience Spider Solitaire, one of the popular single-player card games. Arrange cards in descending order and form complete sets of the same suit from King to Ace to remove them. The challenge is to organize two decks into eight tableau piles. With strategic thinking and skill, try to uncover all cards and complete the eight sets. There are varying difficulty levels based on the number of different suits (Diamonds, Spades, Hearts, Clubs) you choose to play with.",
+  "instructions": "All cards of a sequence must be of the same suit Each sequence must contain one card of each rank The ranks in each sequence must be sorted and complete as follows King Queen Jack 10 9 8 7 6 5 4 3 2 You finish the sequence with an Ace",
+  "url": "https://html5.gamemonetize.com/nbc5fzuswyh7ij2dr9p3a68gru8a5r4l/",
+  "category": "Puzzle",
+  "categorySlug": "puzzle",
+  "tags": [
+    "Card",
+    "Classic",
+    "Collecting",
+    "Logic",
+    "Puzzle"
+  ],
+  "thumb": "https://img.gamemonetize.com/nbc5fzuswyh7ij2dr9p3a68gru8a5r4l/512x384.jpg",
+  "width": 1280,
+  "height": 720,
+  "publisher": "adgard",
+  "crawledAt": "2026-02-01T06:45:46.303Z"
+}

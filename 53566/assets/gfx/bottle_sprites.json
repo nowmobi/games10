@@ -1,0 +1,1094 @@
+{
+  "frames": {
+    "flask_A_mask": {
+      "frame": {
+        "x": 398,
+        "y": 518,
+        "w": 53,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 170
+      }
+    },
+    "flask_A_outline": {
+      "frame": {
+        "x": 115,
+        "y": 346,
+        "w": 54,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 171
+      }
+    },
+    "flask_B_background": {
+      "frame": {
+        "x": 118,
+        "y": 518,
+        "w": 55,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 170
+      }
+    },
+    "flask_B_mask": {
+      "frame": {
+        "x": 174,
+        "y": 518,
+        "w": 55,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 170
+      }
+    },
+    "flask_B_outline": {
+      "frame": {
+        "x": 58,
+        "y": 346,
+        "w": 56,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 171
+      }
+    },
+    "flask_C_background": {
+      "frame": {
+        "x": 503,
+        "y": 342,
+        "w": 61,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 170
+      }
+    },
+    "flask_C_mask": {
+      "frame": {
+        "x": 575,
+        "y": 0,
+        "w": 61,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 170
+      }
+    },
+    "flask_C_outline": {
+      "frame": {
+        "x": 319,
+        "y": 172,
+        "w": 61,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 171
+      }
+    },
+    "flask_D_background": {
+      "frame": {
+        "x": 439,
+        "y": 346,
+        "w": 62,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 170
+      }
+    },
+    "flask_D_mask": {
+      "frame": {
+        "x": 503,
+        "y": 171,
+        "w": 62,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 170
+      }
+    },
+    "flask_D_outline": {
+      "frame": {
+        "x": 319,
+        "y": 0,
+        "w": 63,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 171
+      }
+    },
+    "flask_E_background": {
+      "frame": {
+        "x": 367,
+        "y": 346,
+        "w": 71,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 170
+      }
+    },
+    "flask_E_mask": {
+      "frame": {
+        "x": 503,
+        "y": 0,
+        "w": 71,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 170
+      }
+    },
+    "flask_E_outline": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 172
+      }
+    },
+    "flask_G_background": {
+      "frame": {
+        "x": 506,
+        "y": 518,
+        "w": 51,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 170
+      }
+    },
+    "flask_G_mask": {
+      "frame": {
+        "x": 558,
+        "y": 518,
+        "w": 51,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 170
+      }
+    },
+    "flask_G_outline": {
+      "frame": {
+        "x": 0,
+        "y": 173,
+        "w": 53,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 172
+      }
+    },
+    "flask_H_background": {
+      "frame": {
+        "x": 637,
+        "y": 342,
+        "w": 49,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 170
+      }
+    },
+    "flask_H_mask": {
+      "frame": {
+        "x": 637,
+        "y": 513,
+        "w": 49,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 170
+      }
+    },
+    "flask_H_outline": {
+      "frame": {
+        "x": 54,
+        "y": 173,
+        "w": 51,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 172
+      }
+    },
+    "flask_I_background": {
+      "frame": {
+        "x": 277,
+        "y": 346,
+        "w": 44,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 171
+      }
+    },
+    "flask_I_mask": {
+      "frame": {
+        "x": 322,
+        "y": 346,
+        "w": 44,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 171
+      }
+    },
+    "flask_I_outline": {
+      "frame": {
+        "x": 106,
+        "y": 173,
+        "w": 46,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 172
+      }
+    },
+    "flask_A_background": {
+      "frame": {
+        "x": 452,
+        "y": 518,
+        "w": 53,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 170
+      }
+    },
+    "flask_J_background": {
+      "frame": {
+        "x": 0,
+        "y": 518,
+        "w": 58,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 170
+      }
+    },
+    "flask_J_mask": {
+      "frame": {
+        "x": 59,
+        "y": 518,
+        "w": 58,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 170
+      }
+    },
+    "flask_J_outline": {
+      "frame": {
+        "x": 198,
+        "y": 0,
+        "w": 60,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 172
+      }
+    },
+    "flask_K_background": {
+      "frame": {
+        "x": 575,
+        "y": 171,
+        "w": 59,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 170
+      }
+    },
+    "flask_K_mask": {
+      "frame": {
+        "x": 575,
+        "y": 342,
+        "w": 59,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 170
+      }
+    },
+    "flask_K_outline": {
+      "frame": {
+        "x": 74,
+        "y": 0,
+        "w": 61,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 172
+      }
+    },
+    "flask_L_background": {
+      "frame": {
+        "x": 383,
+        "y": 0,
+        "w": 60,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 171
+      }
+    },
+    "flask_L_mask": {
+      "frame": {
+        "x": 383,
+        "y": 172,
+        "w": 60,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 171
+      }
+    },
+    "flask_L_outline": {
+      "frame": {
+        "x": 136,
+        "y": 0,
+        "w": 61,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 172
+      }
+    },
+    "flask_M_background": {
+      "frame": {
+        "x": 444,
+        "y": 0,
+        "w": 58,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 171
+      }
+    },
+    "flask_M_mask": {
+      "frame": {
+        "x": 444,
+        "y": 172,
+        "w": 58,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 171
+      }
+    },
+    "flask_M_outline": {
+      "frame": {
+        "x": 259,
+        "y": 0,
+        "w": 59,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 172
+      }
+    },
+    "flask_N_background": {
+      "frame": {
+        "x": 758,
+        "y": 340,
+        "w": 51,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 169
+      }
+    },
+    "flask_N_mask": {
+      "frame": {
+        "x": 758,
+        "y": 510,
+        "w": 51,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 169
+      }
+    },
+    "flask_N_outline": {
+      "frame": {
+        "x": 170,
+        "y": 346,
+        "w": 53,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 171
+      }
+    },
+    "flask_O_background": {
+      "frame": {
+        "x": 637,
+        "y": 0,
+        "w": 51,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 170
+      }
+    },
+    "flask_O_mask": {
+      "frame": {
+        "x": 637,
+        "y": 171,
+        "w": 51,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 170
+      }
+    },
+    "flask_O_outline": {
+      "frame": {
+        "x": 224,
+        "y": 346,
+        "w": 52,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 171
+      }
+    },
+    "flask_P_background": {
+      "frame": {
+        "x": 758,
+        "y": 0,
+        "w": 55,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 169
+      }
+    },
+    "flask_P_mask": {
+      "frame": {
+        "x": 758,
+        "y": 170,
+        "w": 55,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 169
+      }
+    },
+    "flask_P_outline": {
+      "frame": {
+        "x": 0,
+        "y": 346,
+        "w": 57,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 171
+      }
+    },
+    "flask_Q_background": {
+      "frame": {
+        "x": 689,
+        "y": 0,
+        "w": 68,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 169
+      }
+    },
+    "flask_Q_mask": {
+      "frame": {
+        "x": 689,
+        "y": 170,
+        "w": 68,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 169
+      }
+    },
+    "flask_Q_outline": {
+      "frame": {
+        "x": 153,
+        "y": 173,
+        "w": 70,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 171
+      }
+    },
+    "flask_R_mask": {
+      "frame": {
+        "x": 689,
+        "y": 340,
+        "w": 65,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 169
+      }
+    },
+    "flask_R_background": {
+      "frame": {
+        "x": 689,
+        "y": 510,
+        "w": 65,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 169
+      }
+    },
+    "flask_R_outline": {
+      "frame": {
+        "x": 224,
+        "y": 173,
+        "w": 67,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 171
+      }
+    },
+    "flask_0_background": {
+      "frame": {
+        "x": 230,
+        "y": 518,
+        "w": 55,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 170
+      }
+    },
+    "flask_0_mask": {
+      "frame": {
+        "x": 286,
+        "y": 518,
+        "w": 55,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 170
+      }
+    },
+    "flask_0_outline": {
+      "frame": {
+        "x": 342,
+        "y": 518,
+        "w": 55,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 170
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "bottle_spritesheet.png",
+    "size": {
+      "w": 813,
+      "h": 688
+    },
+    "scale": 1
+  }
+}

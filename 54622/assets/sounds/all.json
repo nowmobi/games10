@@ -1,0 +1,202 @@
+{
+  "resources": [
+    "all.mp3"
+  ],
+  "spritemap": {
+    "button": {
+      "start": 0,
+      "end": 1,
+      "loop": false
+    },
+    "collect": {
+      "start": 2,
+      "end": 3.522154195011338,
+      "loop": false
+    },
+    "dot0": {
+      "start": 5,
+      "end": 6.097142857142857,
+      "loop": false
+    },
+    "dot1": {
+      "start": 8,
+      "end": 8.936984126984127,
+      "loop": false
+    },
+    "dot2": {
+      "start": 10,
+      "end": 10.840997732426304,
+      "loop": false
+    },
+    "dot3": {
+      "start": 12,
+      "end": 12.744965986394558,
+      "loop": false
+    },
+    "dot4": {
+      "start": 14,
+      "end": 14.648979591836735,
+      "loop": false
+    },
+    "dot5": {
+      "start": 16,
+      "end": 16.576984126984126,
+      "loop": false
+    },
+    "dot6": {
+      "start": 18,
+      "end": 18.528979591836734,
+      "loop": false
+    },
+    "dot7": {
+      "start": 20,
+      "end": 20.480997732426303,
+      "loop": false
+    },
+    "fail": {
+      "start": 22,
+      "end": 22.072562358276645,
+      "loop": false
+    },
+    "kill": {
+      "start": 24,
+      "end": 24.115986394557822,
+      "loop": false
+    },
+    "level": {
+      "start": 26,
+      "end": 27.1,
+      "loop": false
+    },
+    "loop": {
+      "start": 29,
+      "end": 83.90938775510205,
+      "loop": true
+    },
+    "mouse2": {
+      "start": 85,
+      "end": 85.47020408163266,
+      "loop": false
+    },
+    "mouseClick": {
+      "start": 87,
+      "end": 87.20897959183674,
+      "loop": false
+    },
+    "puck": {
+      "start": 89,
+      "end": 89.15673469387755,
+      "loop": false
+    },
+    "shuffle": {
+      "start": 91,
+      "end": 91.66612244897959,
+      "loop": false
+    },
+    "splash": {
+      "start": 93,
+      "end": 93.57469387755103,
+      "loop": false
+    },
+    "success": {
+      "start": 95,
+      "end": 95.66734693877551,
+      "loop": false
+    },
+    "switch": {
+      "start": 97,
+      "end": 97.12,
+      "loop": false
+    },
+    "win": {
+      "start": 99,
+      "end": 103.33632653061224,
+      "loop": false
+    },
+    "window": {
+      "start": 105,
+      "end": 106.30031746031746,
+      "loop": false
+    },
+    "cat1": {
+      "start": 108,
+      "end": 108.4,
+      "loop": false
+    },
+    "cat10": {
+      "start": 110,
+      "end": 110.53333333333333,
+      "loop": false
+    },
+    "cat11": {
+      "start": 112,
+      "end": 112.46666666666667,
+      "loop": false
+    },
+    "cat12": {
+      "start": 114,
+      "end": 114.46666666666667,
+      "loop": false
+    },
+    "cat13": {
+      "start": 116,
+      "end": 116.56666666666666,
+      "loop": false
+    },
+    "cat14": {
+      "start": 118,
+      "end": 118.5,
+      "loop": false
+    },
+    "cat15": {
+      "start": 120,
+      "end": 120.56666666666666,
+      "loop": false
+    },
+    "cat16": {
+      "start": 122,
+      "end": 122.46666666666667,
+      "loop": false
+    },
+    "cat2": {
+      "start": 124,
+      "end": 124.33333333333333,
+      "loop": false
+    },
+    "cat3": {
+      "start": 126,
+      "end": 126.5,
+      "loop": false
+    },
+    "cat4": {
+      "start": 128,
+      "end": 128.36666666666667,
+      "loop": false
+    },
+    "cat5": {
+      "start": 130,
+      "end": 130.46666666666667,
+      "loop": false
+    },
+    "cat6": {
+      "start": 132,
+      "end": 132.46666666666667,
+      "loop": false
+    },
+    "cat7": {
+      "start": 134,
+      "end": 134.4,
+      "loop": false
+    },
+    "cat8": {
+      "start": 136,
+      "end": 136.4,
+      "loop": false
+    },
+    "cat9": {
+      "start": 138,
+      "end": 138.43333333333334,
+      "loop": false
+    }
+  }
+}

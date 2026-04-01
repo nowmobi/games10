@@ -1,0 +1,21 @@
+{
+  "id": "54184",
+  "title": "Maze Controlling",
+  "slug": "maze-controlling",
+  "description": "Maze Control is an online HTML game where players navigate through a virtual maze. The objective of the game is to reach the exit of the maze as quickly as possible. Players control a character using the arrow keys, trying to avoid obstacles and dead ends. Along the way, they may encounter various puzzles, challenges, and bonuses that enhance their progress or add difficulty to the game. The game offers multiple levels with increasing complexity, ensuring a continuous challenge for players. The maze layouts are randomly generated, providing a unique experience each time the game is played.",
+  "instructions": "Use the arrow keys or tap at the left and right side of the screen to control the maze",
+  "url": "https://html5.gamemonetize.com/9ht1pvff174x1adusf40h5nndqakzurx/",
+  "category": "Puzzle",
+  "categorySlug": "puzzle",
+  "tags": [
+    "Arcade",
+    "Kids",
+    "Maze",
+    "Puzzle"
+  ],
+  "thumb": "https://img.gamemonetize.com/9ht1pvff174x1adusf40h5nndqakzurx/512x384.jpg",
+  "width": 1080,
+  "height": 1920,
+  "publisher": "newgamess",
+  "crawledAt": "2026-02-01T08:23:57.507Z"
+}

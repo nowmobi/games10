@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Worm Color</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.javascript"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+        var gameInstance = UnityLoader.instantiate("gameContainer", "Build/finnnnk.json", {onProgress: UnityProgress});
+    </script>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+</head>
+<body style="display= none;">
+<script>
+    setTimeout(function(){
+    $("#gameContainer").find("button").click();
+    $(body).fadeIn();
+    },1000);
+
+
+    </script>
+<div class="webgl-content">
+    <div id="gameContainer" style="width: 720px; height: 1280px"></div>
+</div>
+
+<script src="TemplateData/responsive.javascript"></script>
+</body>
+</html>

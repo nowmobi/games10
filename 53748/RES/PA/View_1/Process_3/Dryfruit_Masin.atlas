@@ -1,0 +1,117 @@
+
+Dryfruit_Masin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Akhrot
+  rotate: false
+  xy: 319, 49
+  size: 159, 102
+  orig: 161, 104
+  offset: 1, 1
+  index: -1
+Akhrot_Parts
+  rotate: false
+  xy: 473, 154
+  size: 138, 57
+  orig: 140, 59
+  offset: 1, 1
+  index: -1
+Almond
+  rotate: false
+  xy: 509, 214
+  size: 176, 87
+  orig: 178, 89
+  offset: 1, 1
+  index: -1
+Almond_Parts
+  rotate: false
+  xy: 332, 154
+  size: 139, 57
+  orig: 141, 59
+  offset: 1, 1
+  index: -1
+Bowl
+  rotate: false
+  xy: 2, 3
+  size: 315, 148
+  orig: 317, 150
+  offset: 1, 1
+  index: -1
+Bowl_Up
+  rotate: true
+  xy: 831, 175
+  size: 327, 187
+  orig: 329, 189
+  offset: 1, 1
+  index: -1
+Hend_1
+  rotate: true
+  xy: 903, 92
+  size: 81, 93
+  orig: 83, 95
+  offset: 1, 1
+  index: -1
+Hend_2
+  rotate: true
+  xy: 2, 153
+  size: 349, 328
+  orig: 351, 330
+  offset: 1, 1
+  index: -1
+Kachori
+  rotate: false
+  xy: 332, 213
+  size: 175, 88
+  orig: 177, 90
+  offset: 1, 1
+  index: -1
+Kachori_Parts
+  rotate: false
+  xy: 687, 245
+  size: 136, 56
+  orig: 138, 58
+  offset: 1, 1
+  index: -1
+Masin
+  rotate: true
+  xy: 613, 8
+  size: 204, 211
+  orig: 206, 213
+  offset: 1, 1
+  index: -1
+Sing
+  rotate: true
+  xy: 826, 10
+  size: 163, 75
+  orig: 165, 77
+  offset: 1, 1
+  index: -1
+Sing_Parts
+  rotate: true
+  xy: 480, 16
+  size: 136, 56
+  orig: 138, 58
+  offset: 1, 1
+  index: -1
+Stand
+  rotate: false
+  xy: 332, 303
+  size: 497, 199
+  orig: 499, 201
+  offset: 1, 1
+  index: -1
+Support
+  rotate: true
+  xy: 903, 2
+  size: 88, 79
+  orig: 90, 81
+  offset: 1, 1
+  index: -1
+Support_Back
+  rotate: true
+  xy: 903, 2
+  size: 88, 79
+  orig: 90, 81
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,225 @@
+{
+  "file": "button.png",
+  "frames": {
+    "closeBtn": {
+      "x": 373,
+      "y": 504,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "contiueBtn": {
+      "x": 568,
+      "y": 629,
+      "w": 327,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 327,
+      "sourceH": 86
+    },
+    "countdown": {
+      "x": 373,
+      "y": 444,
+      "w": 494,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 494,
+      "sourceH": 28
+    },
+    "daojishi": {
+      "x": 373,
+      "y": 478,
+      "w": 494,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 494,
+      "sourceH": 20
+    },
+    "guideBtn": {
+      "x": 803,
+      "y": 292,
+      "w": 101,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 26
+    },
+    "homeBtn": {
+      "x": 0,
+      "y": 635,
+      "w": 82,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 82
+    },
+    "nextlevelBtn": {
+      "x": 664,
+      "y": 0,
+      "w": 287,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 86
+    },
+    "num0": {
+      "x": 0,
+      "y": 0,
+      "w": 417,
+      "h": 279,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 417,
+      "sourceH": 279
+    },
+    "num1": {
+      "x": 235,
+      "y": 285,
+      "w": 132,
+      "h": 338,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 338
+    },
+    "num2": {
+      "x": 0,
+      "y": 285,
+      "w": 229,
+      "h": 344,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 229,
+      "sourceH": 344
+    },
+    "num3": {
+      "x": 423,
+      "y": 0,
+      "w": 235,
+      "h": 346,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 346
+    },
+    "numTime": {
+      "x": 449,
+      "y": 504,
+      "w": 63,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 35
+    },
+    "pauseBtn": {
+      "x": 873,
+      "y": 404,
+      "w": 98,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 102
+    },
+    "pointOutBtn": {
+      "x": 803,
+      "y": 184,
+      "w": 99,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 102
+    },
+    "rankBtn": {
+      "x": 88,
+      "y": 635,
+      "w": 76,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 80
+    },
+    "resetBtn": {
+      "x": 908,
+      "y": 184,
+      "w": 98,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 102
+    },
+    "resurrectedBtn": {
+      "x": 373,
+      "y": 352,
+      "w": 287,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 86
+    },
+    "scoretip": {
+      "x": 666,
+      "y": 338,
+      "w": 274,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 274,
+      "sourceH": 60
+    },
+    "selected": {
+      "x": 664,
+      "y": 184,
+      "w": 133,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 148
+    },
+    "uploadingScoreBtn": {
+      "x": 664,
+      "y": 92,
+      "w": 287,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 86
+    },
+    "backBtn": {
+      "x": 946,
+      "y": 292,
+      "w": 70,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 71
+    },
+    "certainBtn": {
+      "x": 235,
+      "y": 629,
+      "w": 327,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 327,
+      "sourceH": 86
+    }
+  }
+}

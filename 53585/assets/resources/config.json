@@ -1,0 +1,364 @@
+{
+  "paths": {
+    "2": [
+      "views/PagePromotionPoker",
+      2
+    ],
+    "3": [
+      "win",
+      3
+    ],
+    "4": [
+      "moregames/icon_mine",
+      1
+    ],
+    "5": [
+      "moregames/icon_spacewar",
+      1
+    ],
+    "6": [
+      "moregames/icon_zszd",
+      1
+    ],
+    "7": [
+      "views/PagePromotionKlotski",
+      2
+    ],
+    "8": [
+      "prefabs/Cell",
+      2
+    ],
+    "9": [
+      "moregames/icon_peg",
+      1
+    ],
+    "10": [
+      "moregames/icon_basket",
+      1
+    ],
+    "11": [
+      "color-correct-v2",
+      4
+    ],
+    "12": [
+      "promotion",
+      5,
+      1
+    ],
+    "13": [
+      "promotion_poker",
+      5,
+      1
+    ],
+    "14": [
+      "promotion_poker",
+      1
+    ],
+    "15": [
+      "15120fecc",
+      1
+    ],
+    "16": [
+      "button_pressed",
+      3
+    ],
+    "17": [
+      "moregames/icon_sokoban",
+      1
+    ],
+    "18": [
+      "MarkNum",
+      2
+    ],
+    "19": [
+      "prefabs/gametable",
+      2
+    ],
+    "20": [
+      "font_2",
+      1
+    ],
+    "21": [
+      "moregames/icon_klotski",
+      1
+    ],
+    "22": [
+      "moregames/icon_lianliankan",
+      1
+    ],
+    "23": [
+      "correct",
+      3
+    ],
+    "24": [
+      "color-correct-sprite",
+      4
+    ],
+    "25": [
+      "error",
+      3
+    ],
+    "26": [
+      "tap",
+      3
+    ],
+    "27": [
+      "prefabs/MaterialsRegister",
+      2
+    ],
+    "28": [
+      "views/PageHelp",
+      2
+    ],
+    "29": [
+      "moregames/icon_digitklotski",
+      1
+    ],
+    "30": [
+      "dark-sprite",
+      4
+    ],
+    "31": [
+      "promotion",
+      1
+    ],
+    "32": [
+      "moregames/icon_zszd",
+      5,
+      1
+    ],
+    "33": [
+      "15120fecc",
+      0
+    ],
+    "34": [
+      "font_2",
+      5,
+      1
+    ],
+    "35": [
+      "levels/4",
+      6
+    ],
+    "36": [
+      "levels/1",
+      6
+    ],
+    "37": [
+      "moregames/icon_sokoban",
+      5,
+      1
+    ],
+    "38": [
+      "moregames/icon_poker",
+      5,
+      1
+    ],
+    "39": [
+      "moregames/icon_peg",
+      5,
+      1
+    ],
+    "40": [
+      "moregames/icon_lianliankan",
+      5,
+      1
+    ],
+    "41": [
+      "moregames/icon_basket",
+      5,
+      1
+    ],
+    "42": [
+      "moregames/moregames",
+      7
+    ],
+    "43": [
+      "SelectionOutline",
+      2
+    ],
+    "47": [
+      "levels/0",
+      6
+    ],
+    "48": [
+      "ErrorRect",
+      2
+    ],
+    "49": [
+      "RegionOutline",
+      2
+    ],
+    "52": [
+      "moregames/icon_poker",
+      1
+    ],
+    "53": [
+      "moregames/icon_mine",
+      5,
+      1
+    ],
+    "54": [
+      "moregames/icon_klotski",
+      5,
+      1
+    ],
+    "56": [
+      "levels/3",
+      6
+    ],
+    "57": [
+      "moregames/icon_spacewar",
+      5,
+      1
+    ],
+    "58": [
+      "moregames/icon_digitklotski",
+      5,
+      1
+    ],
+    "59": [
+      "levels/2",
+      6
+    ]
+  },
+  "types": [
+    "cc.SpriteAtlas",
+    "cc.Texture2D",
+    "cc.Prefab",
+    "cc.AudioClip",
+    "cc.Material",
+    "cc.SpriteFrame",
+    "cc.TextAsset",
+    "cc.JsonAsset"
+  ],
+  "uuids": [
+    "02delMVqdBD70a/HSD99FK",
+    "059TOZOmJMS5eGn5SQ31qS",
+    "0b7G7nAGBCQLtqWIKLPrMa",
+    "0e977xoxJEobASriKeRlXM",
+    "136ByHhspK7qUdwB/OhKCh",
+    "16zbrD+kVHepHIxrSPCHqr",
+    "1as+Co8oJON48D7lXKnOfY",
+    "23/cwVOJVC6rF4tl6tJAjh",
+    "26CyQjwEhIQaTSmwtLXRfD",
+    "29Sk2q7MBCaJyt1XES1nQj",
+    "41NjEmH+NHYY3FLlMu/hRM",
+    "46V5bZq1JAO6dmCsxpDteI",
+    "5bF2HIe0RIkKFo/jTnkCvD",
+    "60kYggfKRBsJejTTNHc+tk",
+    "61f5RguFxGWpPdCjLF4E33",
+    "64yLao3hdGYqwsRgEE3VUw",
+    "6bvdQQLIhIl5hyMpiwmNfJ",
+    "6eWYdA4t5Jzb7Zx6yTSPMw",
+    "81wxXKRNNNCadGta5L+9wN",
+    "895k9zuflLLIrl0x5dh9Cr",
+    "8b5kUFbdlF3LoIygklTAkl",
+    "92xubb0SJBYLVTwcgdKcaJ",
+    "93gdo3oVhD+Yjw9ULLtU8t",
+    "9cgGW7EklM+54sQJ1lXszT",
+    "b8qQhu7bRC3Ki8v9mgQma6",
+    "caGp40TctEn7/j5M6Su8xz",
+    "d1xhgvBGZCBLOSOfCuBW9p",
+    "d6wzejRIJEwp0HWZRWpBbN",
+    "defSZTbclD/o9MTUvmP4Zo",
+    "e2O9jqgTZG8qq+LbAxps6o",
+    "edAVW529ZL2J3WojO8L9xU",
+    "ff9BGYOUhKRYSkI8ggohxK",
+    "13I05ejM1KkZBCAfHbw9uY",
+    "15120fecc",
+    "15ebuIr0BA1pbHh5uKgeAL",
+    "1eXOk5KExC5Jo/+Qzl8eLO",
+    "24rctpYeNEgK+5zTDhQEPf",
+    "24udOXUh5EdojUPKLi1TV+",
+    "25+n9wPd5PKJMDuEaRNEUP",
+    "31WrpgF2tEsLnO4MFZ2slx",
+    "45dL+FwEBGNLP+G2eakWMI",
+    "53fI1VErpKLqv2ZXYw2WpO",
+    "54PLsag7dC25W9Ne2/YzCg",
+    "647xn8MXtI575nStT69d0M",
+    "69wlHf4/xEro1/dceD5qVn",
+    "6dkeWRTOBGXICfYQ7JUBnG",
+    "6fgBCSDDdPMInvyNlggls2",
+    "70vsiZGiNCDb2KbNgfINnx",
+    "7dBfnvLVNMfK4HA70B03R7",
+    "8aU3eWCVZMfqAH+vLOUBkG",
+    "a2MjXRFdtLlYQ5ouAFv/+R",
+    "abZCePHERD/79cjf59u1n7",
+    "fbxjzyUgtI0LrMEnxSWhHO",
+    "adEw7HAnFI87Ytdw1Tyq9s",
+    "b3nM1cab5E3bGya9MDaCFY",
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "ee29tmkoFEpp7LLigl74xT",
+    "f17d8Qz25Mo7U1IC6JZhUj",
+    "fbxDdogTNApL2NbHHFXDOH",
+    "fd48HxeqVEUphEuTFfxwCx"
+  ],
+  "scenes": {},
+  "redirect": [
+    0,
+    0,
+    45,
+    0,
+    46,
+    0,
+    55,
+    0
+  ],
+  "deps": [
+    "internal"
+  ],
+  "packs": {
+    "052e06e57": [
+      11,
+      24,
+      27,
+      30
+    ],
+    "077aaed7f": [
+      16,
+      28
+    ],
+    "086c5e951": [
+      8,
+      18
+    ],
+    "08f507a00": [
+      2,
+      13
+    ],
+    "09cc9439f": [
+      3,
+      19,
+      23,
+      25,
+      26
+    ],
+    "0c9b471a8": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      14,
+      15,
+      17,
+      20,
+      21,
+      22,
+      29,
+      52,
+      31
+    ],
+    "0d40d1f85": [
+      7,
+      12
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

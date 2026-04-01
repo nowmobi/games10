@@ -1,0 +1,75 @@
+{
+  "_$type": "Animator2D",
+  "enabled": true,
+  "controllerLayers": [
+    {
+      "name": "Base Layer",
+      "defaultStateName": "car_ani",
+      "playOnWake": true,
+      "blendingMode": 0,
+      "states": [
+        {
+          "x": 10,
+          "y": 100,
+          "_isLooping": 0,
+          "id": "-1",
+          "name": "进入",
+          "speed": 1,
+          "clipEnd": 1,
+          "soloTransitions": [
+            {
+              "id": "0"
+            }
+          ]
+        },
+        {
+          "x": 550,
+          "y": 100,
+          "_isLooping": 0,
+          "id": "-2",
+          "name": "任何状态",
+          "speed": 1,
+          "clipEnd": 1
+        },
+        {
+          "x": 250,
+          "y": 336,
+          "_isLooping": 0,
+          "id": "0",
+          "name": "standby_car",
+          "speed": 1,
+          "clipEnd": 1,
+          "clip": {
+            "_$uuid": "standby_car.mc"
+          }
+        },
+        {
+          "x": 109.35646913001932,
+          "y": 391.14908265856565,
+          "_isLooping": 0,
+          "id": "1",
+          "name": "accelerate_car",
+          "speed": 1,
+          "clipEnd": 1,
+          "clip": {
+            "_$uuid": "accelerate_car.mc"
+          }
+        },
+        {
+          "x": 571.7213367651113,
+          "y": 351.0890148630536,
+          "_isLooping": 0,
+          "id": "2",
+          "name": "jump_car",
+          "speed": 1,
+          "clipEnd": 1,
+          "clip": {
+            "_$uuid": "jump_car.mc"
+          }
+        }
+      ],
+      "defaultWeight": 1
+    }
+  ],
+  "layerW": 150
+}

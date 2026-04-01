@@ -1,0 +1,35 @@
+{
+  "file": "page.png",
+  "frames": {
+    "pause": {
+      "x": 1350,
+      "y": 0,
+      "w": 630,
+      "h": 644,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 630,
+      "sourceH": 644
+    },
+    "shipai": {
+      "x": 675,
+      "y": 0,
+      "w": 671,
+      "h": 844,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 671,
+      "sourceH": 844
+    },
+    "succeed": {
+      "x": 0,
+      "y": 0,
+      "w": 671,
+      "h": 960,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 671,
+      "sourceH": 960
+    }
+  }
+}

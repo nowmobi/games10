@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ponyville Adventure The Great Unicorn Awakening</title>
+	<script type="text/javascript" src="plugin/phaser.min.js"></script>
+	<script src="plugin/SpinePlugin.min.js"></script>
+	<style>
+		body {
+			  margin: 0;
+            padding: 0;
+            background-color:#ffffff;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            overflow: hidden;
+		}
+        @font-face {
+            font-family: 'KGRedHands';
+            font-style: normal;
+            font-weight: 400;
+            src: url(assets/font/KGRedHands.ttf) format('truetype');
+        }
+	</style>
+</head>
+<body>
+	<div id='game'></div>
+	<script src="js/loader.js"></script>
+	<script src="js/ch1_transform.js"></script>
+	<script src="js/ch1_dressup.js"></script>
+	<script src="js/ch2_dressup.js"></script>
+	<script src="js/ch3_dressup.js"></script>
+    
+	<script src="js/common_story.js"></script>
+	
+	<script src="js/title.js"></script>
+	<script src="js/selection.js"></script>
+	<script src="js/endPage.js"></script>
+	<script src="main.js"></script>
+    <script type="text/javascript">
+        window.SDK_OPTIONS = {
+            gameId: "x74bf04uux8l7ko40rxjmhz0sv33b25p", // Fill the game_id
+            onEvent: function(a) {
+                switch (a.name) {
+                    case "SDK_GAME_PAUSE":
+                        console.log(pageNo);
+                        if (pageNo > 1) {
+                            soundoff = true;
+                            music.pause();
+                            game.scene.scenes[pageNo].scene.pause();
+                            if (volumeCount == 1) {
+                                shower.pause();
+                            } else if (volumeCount == 2) {
+                                shampoobubble.pause();
+                            } else if (volumeCount == 3) {
+                                dryer.pause();
+                            } else if (volumeCount == 4) {
+                                needle.pause();
+                            } else if (volumeCount == 5) {
+                                towel.pause();
+                            } else if (volumeCount == 6) {
+                                trimmer.pause();
+                            } else if (volumeCount == 7) {
+                                rooster.pause();
+                            } else if (volumeCount == 8) {
+                                seaambiance.pause();
+                            }
+                        }
+                        // pause game logic / mute audio
+                        break;
+                    case "SDK_GAME_START":
+                        if (pageNo > 1) {
+                            soundoff = false;
+                            music.resume();
+                            game.scene.scenes[pageNo].scene.resume();
+                            if (volumeCount == 1) {
+                                shower.resume();
+                            } else if (volumeCount == 2) {
+                                shampoobubble.resume();
+                            } else if (volumeCount == 3) {
+                                dryer.resume();
+                            } else if (volumeCount == 4) {
+                                needle.resume();
+                            } else if (volumeCount == 5) {
+                                towel.resume();
+                            } else if (volumeCount == 6) {
+                                trimmer.resume();
+                            } else if (volumeCount == 7) {
+                                rooster.resume();
+                            } else if (volumeCount == 8) {
+                                seaambiance.resume();
+                            }
+                        }
+                        // advertisement done, resume game logic and unmute audio
+                        break;
+                    case "SDK_READY":
+                        // when sdk is ready
+                        break;
+                    case "SDK_ERROR":
+                        // when sdk get error
+                        break;
+                }
+            }
+        };
+        (function(a, b, c) {
+            var d = a.getElementsByTagName(b)[0];
+                a.getElementById(c) || (a = a.createElement(b), a.id = c,
+                a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+        })(document, "script", "gamemonetize-sdk");
+    </script>
+</body>
+</html>

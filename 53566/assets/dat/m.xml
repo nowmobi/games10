@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <strings>
+
+        <string id="TIMED">
+            <en>Timed mode</en>
+            <es>Modo\ncronometrado</es>
+            <de>Zeitgesteuerter\nModus</de>
+            <it>Modalità a tempo</it>
+            <fr>Mode\nchronométré</fr>
+            <ru>Временной режим</ru>
+            <br>Modo\ncronometrado</br>
+        </string>
+
+        <string id="SCORE">
+            <en>Score : </en>
+            <es>Puntuación : </es>
+            <de>Punktzahl : </de>
+            <it>Punteggio : </it>
+            <fr>Score : </fr>
+            <ru>результат : </ru>
+            <br>Pontuação : </br>
+        </string>
+
+        <string id="LAST_SCORE">
+            <en>Last score : </en>
+            <es>Última puntuación : </es>
+            <de>Letzter Spielstand : </de>
+            <it>Ultimo punteggio : </it>
+            <fr>Dernier score : </fr>
+            <ru>Последний результат : </ru>
+            <br>Última pontuação : </br>
+        </string>
+
+        <string id="HIGH_SCORE">
+            <en>High score : </en>
+            <es>Máxima puntuación : </es>
+            <de>Hohe Punktzahl : </de>
+            <it>Punteggio più alto : </it>
+            <fr>Meilleur score : </fr>
+            <ru>Высокий результат : </ru>
+            <br>Pontuação máxima : </br>
+        </string>
+
+        <string id="SETTINGS">
+            <en>Settings</en>
+            <es>AJUSTES</es>
+            <de>EINSTELLUNGEN</de>
+            <it>IMPOSTAZIONI</it>
+            <fr>PARAMÈTRES</fr>
+            <ru>НАСТРОЙКИ</ru>
+            <br>CONFIGURAÇÕES</br>
+        </string>
+
+        <string id="THEMES">
+            <en>Themes</en>
+            <es>Temas</es>
+            <de>Themen</de>
+            <it>Temi</it>
+            <fr>Thèmes</fr>
+            <ru>Темы</ru>
+            <br>Temas</br>
+        </string>
+
+        <string id="FLASKS">
+            <en>Flasks</en>
+            <es>Frascos</es>
+            <de>Flachmänner</de>
+            <it>Fiaschi</it>
+            <fr>Flasques</fr>
+            <ru>Колбы</ru>
+            <br>Frascos</br>
+        </string>
+
+        <string id="LEVEL">
+            <en>Level </en>
+            <es>Nivel </es>
+            <de>Level </de>
+            <it>Livello </it>
+            <fr>Niveau </fr>
+            <ru>Уровень </ru>
+            <br>Nível </br>
+        </string>
+
+        <string id="LEVELS">
+            <en>Levels</en>
+            <es>Niveles</es>
+            <de>Levels</de>
+            <it>Livelli</it>
+            <fr>Niveaux</fr>
+            <ru>Уровни</ru>
+            <br>Níveis</br>
+        </string>
+
+        <string id="NEXT_LEVEL">
+            <en>Next level</en>
+            <es>Siguiente nivel</es>
+            <de>Nächste level</de>
+            <it>Livello successivo</it>
+            <fr>Niveau suivant</fr>
+            <ru>следующий уровень</ru>
+            <br>Próximo nível</br>
+        </string>
+
+        <string id="LEVEL_COMPLETE">
+            <en>LEVEL COMPLETE!</en>
+            <es>¡Nivel completado!</es>
+            <de>Level abgeschlossen!</de>
+            <it>Livello completato!</it>
+            <fr>Niveau terminé !</fr>
+            <ru>завершение уровня</ru>
+            <br>Nível concluído!</br>
+        </string>
+
+        <string id="WATCH_AD">
+            <en>Watch AD</en>
+            <es>Ver anuncio</es>
+            <de>Anzeige ansehen</de>
+            <it>Guarda l'annuncio</it>
+            <fr>Regarder la publicité</fr>
+            <ru>Смотреть рекламу</ru>
+            <br>Ver anúncio</br>
+        </string>
+
+        <string id="BUY">
+            <en>Buy</en>
+            <es>Comprar</es>
+            <de>Kaufen</de>
+            <it>Compra</it>
+            <fr>Acheter</fr>
+            <ru>КУПИТЬ</ru>
+            <br>Comprar</br>
+        </string>
+
+        <string id="CLAIM">
+            <en>Claim</en>
+            <es>Canjear</es>
+            <de>Abholen</de>
+            <it>Riscuoti</it>
+            <fr>Réclamer</fr>
+            <ru>Заявка</ru>
+            <br>Reivindicar</br>
+        </string>
+
+        <string id="FREE">
+            <en>Free</en>
+            <es>GRATIS</es>
+            <de>KOSTENLOS</de>
+            <it>GRATIS</it>
+            <fr>GRATUIT</fr>
+            <ru>Бесплатно</ru>
+            <br>GRÁTIS</br>
+        </string>
+
+        <string id="DISMISS">
+            <en>Dissmiss</en>
+            <es>No, gracias.</es>
+            <de>Nein danke</de>
+            <it>No grazie</it>
+            <fr>Non merci</fr>
+            <ru>Нет благодарности</ru>
+            <br>Não, obrigado</br>
+        </string>
+
+        <string id="CONTINUE">
+            <en>Continue</en>
+            <es>Continuar</es>
+            <de>Fortfahren</de>
+            <it>Continua</it>
+            <fr>Continuer</fr>
+            <ru>Продолжить</ru>
+            <br>Continuar</br>
+        </string>
+
+        <string id="TUTORIAL1">
+            <en>Select the first bottle</en>
+            <es>Seleccione la primera botella</es>
+            <de>Wählen sie die erste flasche</de>
+            <it>Selezionare la prima bottiglia</it>
+            <fr>Sélectionner la première bouteille</fr>
+            <ru>Выберите первую бутылку</ru>
+            <br>Selecione a primeira garrafa</br>
+        </string>
+
+        <string id="TUTORIAL2">
+            <en>Select bottle with the same color</en>
+            <es>Seleccione la botella del mismo color</es>
+            <de>Flasche mit der gleichen farbe auswählen</de>
+            <it>Selezionare la bottiglia dello stesso colore</it>
+            <fr>Sélectionner la bouteille de même couleur</fr>
+            <ru>Выберите бутылку с таким же цветом</ru>
+            <br>Selecione a garrafa com a mesma cor</br>
+        </string>
+
+        <string id="VOID">
+            <en></en>
+            <es></es>
+            <de></de>
+            <it></it>
+            <fr></fr>
+            <ru></ru>
+            <br></br>
+        </string>
+
+    </strings>
+</stringresources>

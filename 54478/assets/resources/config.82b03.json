@@ -1,0 +1,195 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "resources",
+  "deps": [],
+  "uuids": [
+    "12/Py2qtNEf6LSAQ2PQGUX",
+    "1aPVKKD8FCDp55WnPWPRPe",
+    "2aAeSyXWlGao5DVSo629f/",
+    "2fmOcOqkhLaq1raXtk0PRd",
+    "3cAs02izVGe48JVJkAIvDE",
+    "4dEWWuz59A+anClipyJJaS",
+    "50B0m9eKlHBbYkz0jyJjUN",
+    "5fSp7PA8tC8Z7RF8bhroku",
+    "5foe/YdTlOU5XwSLZ2gJY1",
+    "73rTI/p+1NJan8wIf6h+bC",
+    "78aOdRSSxK+Ly0ttyTNgM4",
+    "a3zFd/WIVD0qhAigpfykd9",
+    "b4jLSryUFB7rsUEur6yxii",
+    "b5TA/UCfpNCoUfmH02ihr1",
+    "bcCralIERKwIyGaWSE+NSM",
+    "be4mannUVOWZbPdpVebjp+",
+    "c4UvbyUv9AEJ5S3xxQjgOa",
+    "d7s8eVeptIs6SlPfMuGP/b",
+    "8ewUgytJBOYqbC9W3oQBq5"
+  ],
+  "paths": {
+    "0": [
+      "Mp3/level selection tap",
+      1
+    ],
+    "1": [
+      "Mp3/Tap",
+      1
+    ],
+    "2": [
+      "Mp3/Movecard",
+      1
+    ],
+    "3": [
+      "Mp3/UITap",
+      1
+    ],
+    "4": [
+      "Mp3/popin2",
+      1
+    ],
+    "5": [
+      "Mp3/ReverseCard",
+      1
+    ],
+    "6": [
+      "Mp3/PageTap3",
+      1
+    ],
+    "7": [
+      "Mp3/hint",
+      1
+    ],
+    "8": [
+      "Mp3/Popup Close",
+      1
+    ],
+    "9": [
+      "Mp3/PageTap2",
+      1
+    ],
+    "10": [
+      "Mp3/PageTap1",
+      1
+    ],
+    "11": [
+      "Mp3/selectcard",
+      1
+    ],
+    "12": [
+      "Mp3/levelcomplete",
+      1
+    ],
+    "13": [
+      "Mp3/PopupOpenClose",
+      1
+    ],
+    "14": [
+      "Mp3/card flip",
+      1
+    ],
+    "15": [
+      "Mp3/success",
+      1
+    ],
+    "16": [
+      "Mp3/music",
+      1
+    ],
+    "17": [
+      "Mp3/Popup Open",
+      1
+    ],
+    "18": [
+      "gameconfig",
+      0
+    ]
+  },
+  "scenes": {},
+  "packs": {},
+  "versions": {
+    "import": [
+      0,
+      "7f255",
+      1,
+      "d8de0",
+      2,
+      "71ee4",
+      3,
+      "5588d",
+      4,
+      "db3fa",
+      5,
+      "2e65a",
+      6,
+      "6dbe5",
+      7,
+      "185de",
+      8,
+      "08a00",
+      9,
+      "94307",
+      10,
+      "58887",
+      18,
+      "ee0e1",
+      11,
+      "f51b5",
+      12,
+      "bcd1f",
+      13,
+      "b1269",
+      14,
+      "9feb7",
+      15,
+      "ca34a",
+      16,
+      "0b1ce",
+      17,
+      "212de"
+    ],
+    "native": [
+      0,
+      "259be",
+      1,
+      "7803a",
+      2,
+      "eba13",
+      3,
+      "43ca8",
+      4,
+      "f29c8",
+      5,
+      "e34bd",
+      6,
+      "0c04f",
+      7,
+      "36c84",
+      8,
+      "6fe56",
+      9,
+      "7ba9c",
+      10,
+      "1e75b",
+      11,
+      "b1194",
+      12,
+      "43881",
+      13,
+      "90985",
+      14,
+      "b6bf7",
+      15,
+      "6f548",
+      16,
+      "5510f",
+      17,
+      "259be"
+    ]
+  },
+  "redirect": [],
+  "debug": false,
+  "extensionMap": {},
+  "hasPreloadScript": true,
+  "types": [
+    "cc.JsonAsset",
+    "cc.AudioClip"
+  ]
+}

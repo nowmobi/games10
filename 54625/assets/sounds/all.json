@@ -1,0 +1,224 @@
+{
+  "resources": [
+    "all.m4a",
+    "all.ogg",
+    "all.mp3"
+  ],
+  "spritemap": {
+    "boom": {
+      "start": 0,
+      "end": 0.3395918367346939,
+      "loop": false
+    },
+    "box": {
+      "start": 2,
+      "end": 2.7314285714285713,
+      "loop": false
+    },
+    "button": {
+      "start": 4,
+      "end": 5,
+      "loop": false
+    },
+    "collect": {
+      "start": 6,
+      "end": 7.522154195011338,
+      "loop": false
+    },
+    "dot0": {
+      "start": 9,
+      "end": 10.097142857142858,
+      "loop": false
+    },
+    "dot1": {
+      "start": 12,
+      "end": 12.936984126984127,
+      "loop": false
+    },
+    "dot2": {
+      "start": 14,
+      "end": 14.840997732426304,
+      "loop": false
+    },
+    "dot3": {
+      "start": 16,
+      "end": 16.744965986394558,
+      "loop": false
+    },
+    "dot4": {
+      "start": 18,
+      "end": 18.648979591836735,
+      "loop": false
+    },
+    "dot5": {
+      "start": 20,
+      "end": 20.576984126984126,
+      "loop": false
+    },
+    "dot6": {
+      "start": 22,
+      "end": 22.528979591836734,
+      "loop": false
+    },
+    "dot7": {
+      "start": 24,
+      "end": 24.480997732426303,
+      "loop": false
+    },
+    "fail": {
+      "start": 26,
+      "end": 26.072562358276645,
+      "loop": false
+    },
+    "failed": {
+      "start": 28,
+      "end": 31.395918367346937,
+      "loop": false
+    },
+    "grow1": {
+      "start": 33,
+      "end": 34.12326530612245,
+      "loop": false
+    },
+    "grow2": {
+      "start": 36,
+      "end": 37.12326530612245,
+      "loop": false
+    },
+    "grow3": {
+      "start": 39,
+      "end": 40.12326530612245,
+      "loop": false
+    },
+    "grow5": {
+      "start": 42,
+      "end": 43.097142857142856,
+      "loop": false
+    },
+    "hit": {
+      "start": 45,
+      "end": 45.44408163265306,
+      "loop": false
+    },
+    "kill": {
+      "start": 47,
+      "end": 47.11598639455782,
+      "loop": false
+    },
+    "level": {
+      "start": 49,
+      "end": 50.1,
+      "loop": false
+    },
+    "line": {
+      "start": 52,
+      "end": 53.436734693877554,
+      "loop": false
+    },
+    "loop": {
+      "start": 55,
+      "end": 113.46204081632652,
+      "loop": true
+    },
+    "nice1": {
+      "start": 115,
+      "end": 115.47020408163266,
+      "loop": false
+    },
+    "nice2": {
+      "start": 117,
+      "end": 117.44408163265307,
+      "loop": false
+    },
+    "nice3": {
+      "start": 119,
+      "end": 119.44408163265307,
+      "loop": false
+    },
+    "nice4": {
+      "start": 121,
+      "end": 121.49632653061225,
+      "loop": false
+    },
+    "nice5": {
+      "start": 123,
+      "end": 123.54857142857144,
+      "loop": false
+    },
+    "paper": {
+      "start": 125,
+      "end": 125.54857142857144,
+      "loop": false
+    },
+    "pistol": {
+      "start": 127,
+      "end": 127.65306122448979,
+      "loop": false
+    },
+    "plant": {
+      "start": 129,
+      "end": 129.2873469387755,
+      "loop": false
+    },
+    "plusone": {
+      "start": 131,
+      "end": 132.9591836734694,
+      "loop": false
+    },
+    "puck": {
+      "start": 134,
+      "end": 134.15673469387755,
+      "loop": false
+    },
+    "shuffle": {
+      "start": 136,
+      "end": 136.6661224489796,
+      "loop": false
+    },
+    "slide": {
+      "start": 138,
+      "end": 138.75755102040816,
+      "loop": false
+    },
+    "splash": {
+      "start": 140,
+      "end": 140.57469387755103,
+      "loop": false
+    },
+    "success": {
+      "start": 142,
+      "end": 142.66734693877552,
+      "loop": false
+    },
+    "super": {
+      "start": 144,
+      "end": 146.01142857142858,
+      "loop": false
+    },
+    "swipe": {
+      "start": 148,
+      "end": 148.52244897959184,
+      "loop": false
+    },
+    "switch": {
+      "start": 150,
+      "end": 150.12,
+      "loop": false
+    },
+    "ufo": {
+      "start": 152,
+      "end": 154.01142857142858,
+      "loop": false
+    },
+    "win": {
+      "start": 156,
+      "end": 157.46285714285713,
+      "loop": false
+    },
+    "window": {
+      "start": 159,
+      "end": 160.30031746031747,
+      "loop": false
+    }
+  }
+}

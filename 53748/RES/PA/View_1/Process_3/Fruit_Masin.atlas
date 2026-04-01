@@ -1,0 +1,208 @@
+
+Fruit_Masin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fruit_1
+  rotate: false
+  xy: 1821, 400
+  size: 169, 105
+  orig: 171, 107
+  offset: 1, 1
+  index: -1
+Fruit_1_1
+  rotate: true
+  xy: 289, 13
+  size: 250, 117
+  orig: 252, 119
+  offset: 1, 1
+  index: -1
+Fruit_1_2
+  rotate: false
+  xy: 960, 270
+  size: 272, 103
+  orig: 274, 105
+  offset: 1, 1
+  index: -1
+Fruit_1_3
+  rotate: true
+  xy: 408, 19
+  size: 281, 108
+  orig: 283, 110
+  offset: 1, 1
+  index: -1
+Fruit_1_4
+  rotate: false
+  xy: 960, 375
+  size: 285, 130
+  orig: 287, 132
+  offset: 1, 1
+  index: -1
+Fruit_2
+  rotate: false
+  xy: 1234, 187
+  size: 104, 86
+  orig: 106, 88
+  offset: 1, 1
+  index: -1
+Fruit_2_1
+  rotate: false
+  xy: 911, 2
+  size: 250, 83
+  orig: 252, 85
+  offset: 1, 1
+  index: -1
+Fruit_2_2
+  rotate: false
+  xy: 1508, 285
+  size: 272, 88
+  orig: 274, 90
+  offset: 1, 1
+  index: -1
+Fruit_2_3
+  rotate: true
+  xy: 518, 19
+  size: 281, 108
+  orig: 283, 110
+  offset: 1, 1
+  index: -1
+Fruit_2_4
+  rotate: false
+  xy: 1247, 375
+  size: 285, 130
+  orig: 287, 132
+  offset: 1, 1
+  index: -1
+Fruit_3
+  rotate: false
+  xy: 1782, 245
+  size: 146, 105
+  orig: 148, 107
+  offset: 1, 1
+  index: -1
+Fruit_3_1
+  rotate: false
+  xy: 911, 87
+  size: 250, 98
+  orig: 252, 100
+  offset: 1, 1
+  index: -1
+Fruit_3_2
+  rotate: false
+  xy: 946, 187
+  size: 272, 81
+  orig: 274, 83
+  offset: 1, 1
+  index: -1
+Fruit_3_3
+  rotate: false
+  xy: 628, 125
+  size: 281, 108
+  orig: 283, 110
+  offset: 1, 1
+  index: -1
+Fruit_3_4
+  rotate: false
+  xy: 1534, 375
+  size: 285, 130
+  orig: 287, 132
+  offset: 1, 1
+  index: -1
+Fruit_4
+  rotate: true
+  xy: 1930, 235
+  size: 115, 94
+  orig: 117, 96
+  offset: 1, 1
+  index: -1
+Fruit_4_1
+  rotate: false
+  xy: 1508, 199
+  size: 250, 84
+  orig: 252, 86
+  offset: 1, 1
+  index: -1
+Fruit_4_2
+  rotate: false
+  xy: 1234, 275
+  size: 272, 98
+  orig: 274, 100
+  offset: 1, 1
+  index: -1
+Fruit_4_3
+  rotate: false
+  xy: 628, 15
+  size: 281, 108
+  orig: 283, 110
+  offset: 1, 1
+  index: -1
+Fruit_4_4
+  rotate: false
+  xy: 659, 235
+  size: 285, 130
+  orig: 287, 132
+  offset: 1, 1
+  index: -1
+Fruit_Jug_Cutter1
+  rotate: true
+  xy: 1163, 13
+  size: 172, 42
+  orig: 174, 44
+  offset: 1, 1
+  index: -1
+Fruit_Jug_Cutter2
+  rotate: false
+  xy: 1821, 352
+  size: 168, 46
+  orig: 170, 48
+  offset: 1, 1
+  index: -1
+Fruit_Jug_Cutter3
+  rotate: true
+  xy: 1207, 19
+  size: 166, 46
+  orig: 168, 48
+  offset: 1, 1
+  index: -1
+Jug
+  rotate: false
+  xy: 2, 265
+  size: 355, 240
+  orig: 357, 242
+  offset: 1, 1
+  index: -1
+Jug_Up
+  rotate: false
+  xy: 359, 302
+  size: 298, 203
+  orig: 300, 205
+  offset: 1, 1
+  index: -1
+Masin
+  rotate: true
+  xy: 2, 2
+  size: 261, 285
+  orig: 263, 287
+  offset: 1, 1
+  index: -1
+Off
+  rotate: true
+  xy: 1340, 180
+  size: 93, 100
+  orig: 95, 102
+  offset: 1, 1
+  index: -1
+On
+  rotate: false
+  xy: 1992, 447
+  size: 46, 58
+  orig: 48, 60
+  offset: 1, 1
+  index: -1
+Top
+  rotate: false
+  xy: 659, 367
+  size: 299, 138
+  orig: 301, 140
+  offset: 1, 1
+  index: -1

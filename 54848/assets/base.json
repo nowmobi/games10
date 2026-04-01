@@ -1,0 +1,823 @@
+{
+  "frames": {
+    "dialog-about/button-close": {
+      "frame": {
+        "x": 1091,
+        "y": 1335,
+        "w": 234,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 235
+      }
+    },
+    "dialog-about/frame": {
+      "frame": {
+        "x": 5,
+        "y": 857,
+        "w": 1080,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1080,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      }
+    },
+    "dialog-menu/button-close": {
+      "frame": {
+        "x": 1909,
+        "y": 5,
+        "w": 114,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 113,
+        "h": 113
+      }
+    },
+    "dialog-menu/button-reg-exit": {
+      "frame": {
+        "x": 455,
+        "y": 1943,
+        "w": 450,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 449,
+        "h": 82
+      }
+    },
+    "dialog-menu/button-reg-language": {
+      "frame": {
+        "x": 455,
+        "y": 1943,
+        "w": 450,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 449,
+        "h": 81
+      }
+    },
+    "dialog-menu/button-reg-moregames": {
+      "frame": {
+        "x": 455,
+        "y": 1943,
+        "w": 450,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 449,
+        "h": 81
+      }
+    },
+    "dialog-menu/button-reg-newgame": {
+      "frame": {
+        "x": 455,
+        "y": 1943,
+        "w": 450,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 449,
+        "h": 81
+      }
+    },
+    "dialog-menu/button-reg-restart": {
+      "frame": {
+        "x": 455,
+        "y": 1943,
+        "w": 450,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 449,
+        "h": 82
+      }
+    },
+    "dialog-stats/button-close": {
+      "frame": {
+        "x": 1091,
+        "y": 1335,
+        "w": 234,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 235
+      }
+    },
+    "dialog-stats/frame": {
+      "frame": {
+        "x": 5,
+        "y": 857,
+        "w": 1080,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1080,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      }
+    },
+    "dialog-victory/button-menu": {
+      "frame": {
+        "x": 1593,
+        "y": 857,
+        "w": 240,
+        "h": 240
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 239,
+        "h": 240
+      }
+    },
+    "dialog-victory/button-more": {
+      "frame": {
+        "x": 5,
+        "y": 1943,
+        "w": 444,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 444,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 444,
+        "h": 98
+      }
+    },
+    "dialog-victory/button-moregames": {
+      "frame": {
+        "x": 1337,
+        "y": 1089,
+        "w": 238,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 237,
+        "h": 241
+      }
+    },
+    "dialog-victory/button-play": {
+      "frame": {
+        "x": 1091,
+        "y": 1089,
+        "w": 240,
+        "h": 240
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 240
+      }
+    },
+    "dialog-victory/frame": {
+      "frame": {
+        "x": 5,
+        "y": 857,
+        "w": 1080,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1080,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      }
+    },
+    "dialog-victory/rocket-icon": {
+      "frame": {
+        "x": 1741,
+        "y": 317,
+        "w": 300,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 134
+      }
+    },
+    "dialog-victory/rocket-icon_copy": {
+      "frame": {
+        "x": 1741,
+        "y": 317,
+        "w": 300,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 134
+      }
+    },
+    "dialog-victory/star1": {
+      "frame": {
+        "x": 571,
+        "y": 651,
+        "w": 168,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 163
+      }
+    },
+    "dialog-victory/star2": {
+      "frame": {
+        "x": 571,
+        "y": 651,
+        "w": 168,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 163
+      }
+    },
+    "dialog-victory/star3": {
+      "frame": {
+        "x": 571,
+        "y": 651,
+        "w": 168,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 163
+      }
+    },
+    "dialog-victory/starbg": {
+      "frame": {
+        "x": 745,
+        "y": 651,
+        "w": 168,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 163
+      }
+    },
+    "gameplay/bg_copy": {
+      "frame": {
+        "x": 5,
+        "y": 417,
+        "w": 1070,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1070,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 1070,
+        "h": 206
+      }
+    },
+    "gameplay/button-menu": {
+      "frame": {
+        "x": 5,
+        "y": 651,
+        "w": 184,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 184,
+        "h": 185
+      }
+    },
+    "gameplay/button-moregames": {
+      "frame": {
+        "x": 195,
+        "y": 651,
+        "w": 182,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 185
+      }
+    },
+    "gameplay/button-sound-off": {
+      "frame": {
+        "x": 1853,
+        "y": 125,
+        "w": 186,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "gameplay/button-sound": {
+      "frame": {
+        "x": 383,
+        "y": 651,
+        "w": 182,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 183
+      }
+    },
+    "gameplay/button-soundoff": {
+      "frame": {
+        "x": 1853,
+        "y": 125,
+        "w": 186,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "gameplay/frame": {
+      "frame": {
+        "x": 5,
+        "y": 857,
+        "w": 1080,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1080,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      }
+    },
+    "gameplay/panel": {
+      "frame": {
+        "x": 1199,
+        "y": 47,
+        "w": 648,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 648,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 647,
+        "h": 227
+      }
+    },
+    "gameplay/rocket-icon": {
+      "frame": {
+        "x": 1697,
+        "y": 457,
+        "w": 300,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 134
+      }
+    },
+    "loading/loadingBarBg": {
+      "frame": {
+        "x": 1199,
+        "y": 5,
+        "w": 704,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 704,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 704,
+        "h": 35
+      }
+    },
+    "menu/button-credits": {
+      "frame": {
+        "x": 1343,
+        "y": 837,
+        "w": 244,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 245
+      }
+    },
+    "menu/button-leaderboard": {
+      "frame": {
+        "x": 1091,
+        "y": 837,
+        "w": 246,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 245
+      }
+    },
+    "menu/button-moregames": {
+      "frame": {
+        "x": 1697,
+        "y": 597,
+        "w": 250,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 249,
+        "h": 253
+      }
+    },
+    "menu/button-play": {
+      "frame": {
+        "x": 1199,
+        "y": 337,
+        "w": 492,
+        "h": 494
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 492,
+        "h": 494
+      },
+      "sourceSize": {
+        "w": 491,
+        "h": 493
+      }
+    },
+    "menu/button-sound": {
+      "frame": {
+        "x": 1081,
+        "y": 535,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 109,
+        "h": 110
+      }
+    },
+    "menu/button-soundoff": {
+      "frame": {
+        "x": 1081,
+        "y": 417,
+        "w": 112,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 111,
+        "h": 111
+      }
+    },
+    "menu/logo": {
+      "frame": {
+        "x": 5,
+        "y": 5,
+        "w": 1188,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1188,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 1188,
+        "h": 405
+      }
+    },
+    "menu/Match_THREE_PLACEHOLDER": {
+      "frame": {
+        "x": 1199,
+        "y": 281,
+        "w": 536,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 536,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 535,
+        "h": 49
+      }
+    },
+    "menu/rocket-icon": {
+      "frame": {
+        "x": 1741,
+        "y": 317,
+        "w": 300,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 134
+      }
+    }
+  },
+  "animations": {
+    "dialog-victory/star": [
+      "dialog-victory/star1",
+      "dialog-victory/star2",
+      "dialog-victory/star3"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "base.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:a8ac21dfc745b00a7ec3c45edb597990:d8a759aab20fc7f06d5b35c682b9664d:784b4354dbb827f56561951d7d0651ac$"
+  }
+}

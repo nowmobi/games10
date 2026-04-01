@@ -1,0 +1,61 @@
+
+Character_3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 377, 281
+  size: 184, 208
+  orig: 186, 210
+  offset: 1, 1
+  index: -1
+Face
+  rotate: false
+  xy: 2, 147
+  size: 373, 342
+  orig: 373, 342
+  offset: 0, 0
+  index: -1
+Hend_L
+  rotate: false
+  xy: 2, 25
+  size: 114, 120
+  orig: 116, 122
+  offset: 1, 1
+  index: -1
+Hend_R
+  rotate: false
+  xy: 377, 159
+  size: 114, 120
+  orig: 116, 122
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 563, 347
+  size: 73, 142
+  orig: 75, 144
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 118, 72
+  size: 73, 142
+  orig: 75, 144
+  offset: 1, 1
+  index: -1
+Lip_1
+  rotate: true
+  xy: 493, 203
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+Lip_2
+  rotate: false
+  xy: 2, 2
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1

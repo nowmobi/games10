@@ -1,0 +1,76 @@
+
+Glitter animations.png
+size: 496,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 62 copy 5
+  rotate: false
+  xy: 2, 3
+  size: 20, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 174
+  size: 343, 341
+  orig: 378, 405
+  offset: 28, 32
+  index: -1
+glitter 1
+  rotate: true
+  xy: 297, 115
+  size: 57, 47
+  orig: 59, 50
+  offset: 1, 1
+  index: -1
+glitter 2
+  rotate: true
+  xy: 416, 2
+  size: 97, 70
+  orig: 102, 74
+  offset: 3, 2
+  index: -1
+glitter 3
+  rotate: false
+  xy: 297, 2
+  size: 117, 97
+  orig: 121, 101
+  offset: 2, 2
+  index: -1
+glitter 4
+  rotate: false
+  xy: 347, 231
+  size: 137, 137
+  orig: 141, 139
+  offset: 2, 1
+  index: -1
+glitter 5
+  rotate: false
+  xy: 150, 36
+  size: 145, 136
+  orig: 150, 141
+  offset: 3, 2
+  index: -1
+glitter 6
+  rotate: false
+  xy: 347, 370
+  size: 147, 145
+  orig: 154, 150
+  offset: 4, 2
+  index: -1
+glitter 7
+  rotate: false
+  xy: 2, 25
+  size: 146, 147
+  orig: 155, 154
+  offset: 5, 3
+  index: -1
+glitter 8
+  rotate: false
+  xy: 347, 101
+  size: 133, 128
+  orig: 135, 130
+  offset: 1, 1
+  index: -1

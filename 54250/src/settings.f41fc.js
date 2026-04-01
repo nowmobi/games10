@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Aoneup-lib/Splash/Splash/Scene/SplashPortrait.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",resources:"5f5a1",main:"32cb6"}};

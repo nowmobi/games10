@@ -1,0 +1,22 @@
+{
+  "id": "54619",
+  "title": "Forest Tiles",
+  "slug": "forest-tiles",
+  "description": "There are several coins on the 9 by 9 playing field. It is necessary to place the blocks on the playing field in such a way as to completely assemble a vertical or horizontal line. Gold coins can be used to reset unnecessary blocks and continue the game if you lose.",
+  "instructions": "Three blocks appear on the left of the playing field which must be placed on the playing field in order to assemble a horizontal or rotating line ",
+  "url": "https://html5.gamemonetize.com/0kkzoff1kef939jnpk4gkg01dsj33fr8/",
+  "category": "Puzzle",
+  "categorySlug": "puzzle",
+  "tags": [
+    "Animal",
+    "Forest",
+    "Match 3",
+    "Puzzle",
+    "Tetris"
+  ],
+  "thumb": "https://img.gamemonetize.com/0kkzoff1kef939jnpk4gkg01dsj33fr8/512x384.jpg",
+  "width": 1280,
+  "height": 720,
+  "publisher": "adgard",
+  "crawledAt": "2026-02-01T04:35:56.565Z"
+}

@@ -1,0 +1,286 @@
+{
+  "type": "Box",
+  "props": {
+    "y": 0,
+    "x": 0,
+    "width": 1080,
+    "var": "ui_down",
+    "presetID": 1,
+    "isPresetRoot": true,
+    "height": 260
+  },
+  "compId": 44,
+  "child": [
+    {
+      "type": "Image",
+      "props": {
+        "y": 34,
+        "x": 0,
+        "width": 1080,
+        "skin": "home/ui_Home_xiazhidi.png",
+        "sizeGrid": "90,25,56,27",
+        "presetID": 2,
+        "name": "ui_funcbg",
+        "height": 226
+      },
+      "compId": 65
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 148,
+        "x": 542,
+        "skin": "home/ui_Home_xuanzhong.png",
+        "presetID": 3,
+        "name": "ui_selected",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 66
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 138,
+        "x": 99,
+        "skin": "home/icon_Shop.png",
+        "presetID": 4,
+        "name": "btn_1",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 67,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "presetID": 5,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 79
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 52.5,
+            "x": 55.5,
+            "visible": false,
+            "skin": "home/ui_Home_suo.png",
+            "presetID": 6,
+            "name": "lunck"
+          },
+          "compId": 85
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 5.5,
+            "x": 114.5,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "presetID": 20,
+            "name": "redPoint"
+          },
+          "compId": 91
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 138,
+        "x": 281,
+        "skin": "home/icon_Forces.png",
+        "presetID": 7,
+        "name": "btn_2",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 68,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "presetID": 8,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 80
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 52,
+            "x": 55,
+            "visible": false,
+            "skin": "home/ui_Home_suo.png",
+            "presetID": 9,
+            "name": "lunck"
+          },
+          "compId": 86
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 5,
+            "x": 114,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "presetID": 21,
+            "name": "redPoint"
+          },
+          "compId": 94
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 138,
+        "x": 546,
+        "skin": "home/icon_Fight.png",
+        "presetID": 10,
+        "name": "btn_3",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 69,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "presetID": 11,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 81
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 52,
+            "x": 55,
+            "visible": false,
+            "skin": "home/ui_Home_suo.png",
+            "presetID": 12,
+            "name": "lunck"
+          },
+          "compId": 87
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 138,
+        "x": 784,
+        "skin": "home/icon_Activities.png",
+        "presetID": 13,
+        "name": "btn_4",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 70,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "presetID": 14,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 82
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 52,
+            "x": 55,
+            "visible": false,
+            "skin": "home/ui_Home_suo.png",
+            "presetID": 15,
+            "name": "lunck"
+          },
+          "compId": 88
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 5,
+            "x": 114,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "presetID": 23,
+            "name": "redPoint"
+          },
+          "compId": 96
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 138,
+        "x": 966,
+        "skin": "home/icon_Faith.png",
+        "presetID": 16,
+        "name": "btn_5",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 71,
+      "child": [
+        {
+          "type": "Script",
+          "props": {
+            "presetID": 17,
+            "runtime": "uiLogic/component/ButtonClick.ts"
+          },
+          "compId": 83
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 52,
+            "x": 55,
+            "visible": false,
+            "skin": "home/ui_Home_suo.png",
+            "presetID": 18,
+            "name": "lunck"
+          },
+          "compId": 89
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 5,
+            "x": 114,
+            "visible": false,
+            "texture": "allCommon/ui_hongdian.png",
+            "presetID": 24,
+            "name": "redPoint"
+          },
+          "compId": 97
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "presetID": 19,
+        "myPageType": "Home",
+        "runtime": "uiLogic/component/HomeFootUI.ts"
+      },
+      "compId": 90
+    }
+  ],
+  "loadList": [
+    "home/ui_Home_xiazhidi.png",
+    "home/ui_Home_xuanzhong.png",
+    "home/icon_Shop.png",
+    "home/ui_Home_suo.png",
+    "allCommon/ui_hongdian.png",
+    "home/icon_Forces.png",
+    "home/icon_Fight.png",
+    "home/icon_Activities.png",
+    "home/icon_Faith.png"
+  ],
+  "loadList3D": []
+}

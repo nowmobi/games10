@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "target": 100,
+    "res": "resources/Squares/Level1.lh"
+  },
+  {
+    "id": 1,
+    "target": 210,
+    "res": "resources/Squares/Level2.lh"
+  },
+  {
+    "id": 2,
+    "target": 260,
+    "res": "resources/Squares/Level3.lh"
+  },
+  {
+    "id": 3,
+    "target": 310,
+    "res": "resources/Squares/Level4.lh"
+  },
+  {
+    "id": 4,
+    "target": 360,
+    "res": "resources/Squares/Level5.lh"
+  },
+  {
+    "id": 5,
+    "target": 320,
+    "res": "resources/Squares/Level6.lh"
+  },
+  {
+    "id": 6,
+    "target": 360,
+    "res": "resources/Squares/Level7.lh"
+  },
+  {
+    "id": 7,
+    "target": 360,
+    "res": "resources/Squares/Level8.lh"
+  },
+  {
+    "id": 8,
+    "target": 410,
+    "res": "resources/Squares/Level9.lh"
+  },
+  {
+    "id": 9,
+    "target": 350,
+    "res": "resources/Squares/Level10.lh"
+  },
+  {
+    "id": 10,
+    "target": 510,
+    "res": "resources/Squares/Level11.lh"
+  },
+  {
+    "id": 11,
+    "target": 410,
+    "res": "resources/Squares/Level12.lh"
+  }
+]

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="YYGGAMES" content=" the game is powered by YYG">
+    <title>Princess Back Spa Salon</title>
+    <link rel='canonical' href='https://www.babygames.com/games/Princess-Back-Spa-Salon/index.html' />
+
+	<script type="text/javascript" src="https://h5gamessdk.yyggames.com/sdk/YYGGames.js"></script>
+    <script src="./js/phaser.min.js"></script>
+    <style>
+         body {
+            margin: 0;
+            padding: 0;
+            background-color:#b8175f;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+
+        @media (orientation: portrait) {
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                height: 100%;
+            }
+           
+        }
+
+    #game-container {
+                margin: 0;
+                padding: 0;
+                background-color: #b8175f;
+                overflow: hidden;
+                width: 100%;
+                height: 100%;
+            }
+    </style>
+    <script>
+         function showMetheAuthor() {
+            console.log("YYGGAMES:the game is powered by YYG");
+        }
+        showMetheAuthor();
+
+        document.onkeydown = function (e) {
+
+            if (e.keyCode == 123) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+                return false;
+            }
+        }
+
+    </script>
+    <link rel='canonical' href='https://www.babygames.com/Princess-Back-Spa-Salon'/>
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+<body>
+   <div id="game-container"></div>
+    <script src="./js/main.js"></script>
+    <script src="./js/relatedgames.js"></script>
+    <script src="./js/functions.js"></script>
+    <script type="text/javascript">
+        window["YYGGAMES_CONFIG"] = {
+            gamemonetizeId:"jgtg6c9vma8sovmaf5c6jazbe9clcn31"
+        }
+    </script>
+    
+</body>
+</html>
+
+

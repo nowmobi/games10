@@ -1,0 +1,182 @@
+{
+  "paths": {
+    "0": [
+      "mp3/tools selcet",
+      0
+    ],
+    "1": [
+      "mp3/brush",
+      0
+    ],
+    "2": [
+      "mp3/dollTouchDressUp_1",
+      0
+    ],
+    "3": [
+      "mp3/button",
+      0
+    ],
+    "4": [
+      "mp3/dollVoiceInMainMenu_1",
+      0
+    ],
+    "5": [
+      "mp3/start_over",
+      0
+    ],
+    "6": [
+      "mp3/cotton",
+      0
+    ],
+    "7": [
+      "mp3/swing",
+      0
+    ],
+    "8": [
+      "mp3/dollVoiceInMainMenu_2",
+      0
+    ],
+    "9": [
+      "mp3/shine",
+      0
+    ],
+    "10": [
+      "mp3/shower",
+      0
+    ],
+    "11": [
+      "mp3/photo",
+      0
+    ],
+    "12": [
+      "mp3/dollTouchDressUp_2",
+      0
+    ],
+    "13": [
+      "mp3/yeah",
+      0
+    ],
+    "14": [
+      "mp3/patch",
+      0
+    ],
+    "15": [
+      "mp3/music",
+      0
+    ],
+    "16": [
+      "mp3/cream",
+      0
+    ],
+    "17": [
+      "mp3/Particle",
+      0
+    ],
+    "18": [
+      "mp3/tweezers",
+      0
+    ]
+  },
+  "types": [
+    "cc.AudioClip"
+  ],
+  "uuids": [
+    "0102cSpFhNt7C94nmSl+QS",
+    "069EddbQdMdpsfWiPd1lLB",
+    "16reZj5SBKRLSnCVeSzjHn",
+    "1eBXlEjb1Hdp7JyTOYhe6k",
+    "2bmOa/yhJGpZxTnpfFV6xf",
+    "5exyBpKadIV5GcS3L9HYJl",
+    "6521sduYhI4aIqgo9VMYon",
+    "6fb/P5O3lBdYLosgTOtGgk",
+    "76qLtDmpZDjb0QkrtQnN/M",
+    "80QKqqMG9Ak5MS3YMyEA1t",
+    "9aieIzrbhB/oULjs0AY2Rx",
+    "9dRXjQegdIRIvhxO3BQY5X",
+    "bat7wqBJNMZIIWuZTl8hwE",
+    "bbHvkHIwFLiZqdpdP7/nfy",
+    "d2SdKi6R9JH7z1gLDn8Klq",
+    "dbCVFfZrlPiYVBuDeBB4re",
+    "dcQ/RwjDROgbDdhVOgC8yK",
+    "dc4MbYhShHL7EAKh0v12wc",
+    "f14MEFZNZHhaDC+wDoDk8T"
+  ],
+  "scenes": {},
+  "redirect": [],
+  "deps": [],
+  "packs": {
+    "0a4088640": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false,
+  "versions": {
+    "import": [
+      "0a4088640",
+      "7b25e"
+    ],
+    "native": [
+      0,
+      "68ed9",
+      1,
+      "b73a9",
+      2,
+      "89afc",
+      3,
+      "2e70e",
+      4,
+      "2792e",
+      5,
+      "ecc54",
+      6,
+      "3a525",
+      7,
+      "fa554",
+      8,
+      "d7346",
+      9,
+      "372c5",
+      10,
+      "e5b64",
+      11,
+      "5ffb8",
+      12,
+      "0f6e1",
+      13,
+      "7b424",
+      14,
+      "99432",
+      15,
+      "8edb5",
+      16,
+      "368f7",
+      17,
+      "389e2",
+      18,
+      "e0d40"
+    ]
+  }
+}

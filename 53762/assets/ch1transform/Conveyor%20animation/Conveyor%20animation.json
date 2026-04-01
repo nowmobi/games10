@@ -1,0 +1,132 @@
+{
+  "skeleton": {
+    "hash": "eiiJjR8eiyMIdxEZJLsV7TH4Teo",
+    "spine": "3.8.95",
+    "x": -0.34,
+    "y": -601,
+    "width": 798.32,
+    "height": 166,
+    "images": "",
+    "audio": "D:/Vignesh M/2023/SGS games/OGSGS20230901 - Ponyville Adventure The Great Unicorn Awakening/28.09.2023/Animation/Conveyor animation"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "Layer 1120 copy 6",
+      "parent": "root",
+      "x": 405.71,
+      "y": -526.02
+    },
+    {
+      "name": "Layer 1120 copy 7",
+      "parent": "root",
+      "x": 405.71,
+      "y": -526.02
+    }
+  ],
+  "slots": [
+    {
+      "name": "Mask",
+      "bone": "root",
+      "attachment": "Mask"
+    },
+    {
+      "name": "Group 3",
+      "bone": "root",
+      "attachment": "Group 3"
+    },
+    {
+      "name": "Layer 1120 copy 6",
+      "bone": "Layer 1120 copy 6",
+      "attachment": "Layer 1120 copy 6"
+    },
+    {
+      "name": "Layer 1120 copy 7",
+      "bone": "Layer 1120 copy 7",
+      "color": "ffffff7d"
+    },
+    {
+      "name": "Conveyor Top",
+      "bone": "root",
+      "attachment": "Conveyor Top"
+    },
+    {
+      "name": "Layer 1",
+      "bone": "root"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Conveyor Top": {
+          "Conveyor Top": {
+            "x": 400,
+            "y": -518,
+            "width": 802,
+            "height": 166
+          }
+        },
+        "Group 3": {
+          "Group 3": {
+            "x": 406,
+            "y": -523.5,
+            "width": 490,
+            "height": 129
+          }
+        },
+        "Layer 1120 copy 6": {
+          "Layer 1120 copy 6": {
+            "x": -5.71,
+            "y": 0.52,
+            "width": 802,
+            "height": 51
+          }
+        },
+        "Layer 1120 copy 7": {
+          "Layer 1120 copy 6": {
+            "x": -5.71,
+            "y": 0.52,
+            "width": 802,
+            "height": 51
+          }
+        },
+        "Mask": {
+          "Mask": {
+            "type": "clipping",
+            "end": "Mask",
+            "vertexCount": 4,
+            "vertices": [
+              -0.34,
+              -601.54,
+              797.32,
+              -600.35,
+              799.7,
+              0.27,
+              -0.34,
+              0.27
+            ],
+            "color": "ce3a3aff"
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "Conveyor animation": {
+      "bones": {
+        "Layer 1120 copy 6": {
+          "translate": [
+            {},
+            {
+              "time": 2,
+              "x": -101.24
+            }
+          ]
+        }
+      }
+    }
+  }
+}

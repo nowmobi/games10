@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0,
+	minimum-scale=1.0, width=device-width, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="full-screen" content="yes" />
+    <meta name="screen-orientation" content="portrait" />
+
+ <! -- GameMonetize SDK Setup --------------------------- >
+    <script type="text/javascript">
+    window.SDK_OPTIONS = {
+      gameId: "x8067olwnq0c607idq9b6mgcm7kbbvj4",
+      onEvent: function (a) {
+         switch (a.name) {
+            case "SDK_GAME_PAUSE":
+               // pause game logic / mute audio
+		if (window.game) {
+                        window.game.scene.pause();
+                        window.game.sound.mute = true;
+                    }
+               break;
+            case "SDK_GAME_START":
+               // advertisement done, resume game logic and unmute audio
+ 		if (window.game) {
+                   window.game.scene.resume();
+                   window.game.sound.mute = false;
+                }
+               break;
+            case "SDK_READY":
+               // when sdk is ready
+               break;
+         }
+      }
+   };
+  (function (a, b, c) {
+    var d = a.getElementsByTagName(b)[0];
+    a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+  })(document, "script", "gamemonetize-sdk"); 
+  </script>
+
+    <! --- Game Setup ---------------------------- >
+    <title>Colors - Bob The Painter</title>
+    <link rel="stylesheet" href="main.css">
+    <script type="text/javascript" src="phaser.min.js"></script>
+    <script type="text/javascript" src="game.js"></script>
+    <script type="text/javascript" src="levelSelect.js"></script>
+    <script type="text/javascript" src="level01.js"></script>
+    <script type="text/javascript" src="level02.js"></script>
+    <script type="text/javascript" src="level03.js"></script>
+    <script type="text/javascript" src="level04.js"></script>
+    <script type="text/javascript" src="level05.js"></script>
+    <script type="text/javascript" src="level06.js"></script>
+    <script type="text/javascript" src="level07.js"></script>
+    <script type="text/javascript" src="level08.js"></script>
+    <script type="text/javascript" src="level09.js"></script>
+    <script type="text/javascript" src="level10.js"></script>
+    <script type="text/javascript" src="level11.js"></script>
+    <script type="text/javascript" src="level12.js"></script>
+    <script type="text/javascript" src="level13.js"></script>
+    <script type="text/javascript" src="level14.js"></script>
+    <script type="text/javascript" src="level15.js"></script>
+  </head>
+  <body>
+    <!--  -->
+	<div id="gameID"></div> 
+  </body>
+</html>

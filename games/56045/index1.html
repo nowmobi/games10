@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Blocks Classic</title>
+  </head>
+  <body>
+    <div id="loader">
+      <div></div>
+      <div id="loading_content">
+        <div class="lds-ellipsis">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div class="text">Loading</div>
+      </div>
+      <button id="start_game">Start Game</button>
+    </div>
+    <div id="game"></div>
+    <div id="text">-</div>
+    <script src="ads.js"></script>
+    <script type="text/javascript" src="bundle.min.js"></script>
+  </body>
+  <script type="text/javascript">
+    window.SDK_OPTIONS = {
+      gameId: "8k4gor3uc0y2jsmc114le5nlxo0mqym6",
+      onEvent: function (a) {
+        switch (a.name) {
+          case "SDK_GAME_PAUSE":
+            // pause game logic / mute audio
+            Game.paused = true;
+            break;
+          case "SDK_GAME_START":
+            // advertisement done, resume game logic and unmute audio
+            Game.paused = false;
+            break;
+          case "SDK_READY":
+            // when sdk is ready
+            startGame();
+            break;
+        }
+      },
+    };
+    (function (a, b, c) {
+      var d = a.getElementsByTagName(b)[0];
+      a.getElementById(c) ||
+        ((a = a.createElement(b)),
+        (a.id = c),
+        (a.src = "https://api.gamemonetize.com/sdk.js"),
+        d.parentNode.insertBefore(a, d));
+    })(document, "script", "gamemonetize-sdk");
+  </script>
+</html>

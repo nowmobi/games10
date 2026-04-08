@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>FillItUpFast</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="robots" content="noindex,nofollow" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-title" content="Phaser App">
+	<meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<!-- non-retina iPhone pre iOS 7 -->
+	<link rel="apple-touch-icon" sizes="57x57" href="icons/app_icon_57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="icons/app_icon_60x60.png">
+	<!-- non-retina iPad pre iOS 7 -->
+	<link rel="apple-touch-icon" sizes="72x72" href="icons/app_icon_72x72.png">
+	<!-- non-retina iPad iOS 7 -->
+	<link rel="apple-touch-icon" sizes="76x76" href="icons/app_icon_76x76.png">
+	<!-- retina iPhone pre iOS 7 -->
+	<link rel="apple-touch-icon" sizes="114x114" href="icons/app_icon_114x114.png">
+	<!-- retina iPhone iOS 7 -->
+	<link rel="apple-touch-icon" sizes="120x120" href="icons/app_icon_120x120.png">
+	<!-- retina iPad pre iOS 7 -->
+	<link rel="apple-touch-icon" sizes="144x144" href="icons/app_icon_144x144.png">
+	<!-- retina iPad iOS 7 -->
+	<link rel="apple-touch-icon" sizes="152x152" href="icons/app_icon_152x152.png">
+	<link rel="apple-touch-icon" sizes="256x256" href="icons/app_icon_256x256.png">
+	<link rel="apple-touch-icon" sizes="512x512" href="icons/app_icon_512x512.png">
+	<link rel="apple-touch-icon" sizes="1024x1024" href="icons/app_icon_1024x1024.png">
+	<link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
+	<script src="js/phaser.min.js"></script>
+
+	<script src="src/Boot.js"></script>
+	<script src="src/Preloader.js"></script>
+	<script src="src/MainMenu.js"></script>
+
+	<script src="src/Game.js?r=1"></script>
+	<script src="src/Gameover.js"></script>
+	<script src="src/Levelup.js"></script>
+	<script src="src/LevelMap.js"></script>
+	<script src="src/KeyboardNavigation.js"></script>
+	<script src="src/Gamewon.js"></script>
+	<script src="src/Levels/Level1.js"></script>
+	<script src="src/Levels/Level2.js"></script>
+	<script src="src/Levels/Level3.js"></script>
+	<script src="src/Levels/Level4.js"></script>
+	<script src="src/Levels/Level5.js"></script>
+	<script src="src/Levels/Level6.js"></script>
+	<script src="src/Levels/Level7.js"></script>
+	<script src="src/Levels/Level8.js"></script>
+	<script src="src/Levels/Level9.js"></script>
+	<script src="src/Levels/Level10.js"></script>
+	<script src="src/Levels/Level11.js"></script>
+	<script src="src/Levels/Level12.js"></script>
+	<script src="src/Levels/Level13.js"></script>
+	<script src="src/Levels/Level14.js"></script>
+	<script src="src/Levels/Level15.js"></script>
+	<script src="src/Levels/Level16.js"></script>
+	<script src="src/Levels/Level17.js"></script>
+	<script src="src/Levels/Level18.js"></script>
+	<script src="src/Levels/Level19.js"></script>
+	<script src="src/Levels/Level20.js"></script>
+	<script src="src/Levels/Level1s.js"></script>
+	<a href="" id="link"></a>
+	<style>
+		#game {
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			background: rgb(0, 0, 0);
+		}
+
+		#overlay {
+			position: fixed;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			background: rgba(0, 0, 0, 0.5);
+		}
+	</style>
+</head>
+
+<body>
+
+	<div id="game"></div>
+	<div id="orientation"></div>
+
+
+
+	<script type="text/javascript">
+
+		/////GameDistribution API start
+
+		window["SDK_OPTIONS"] = {
+			"gameId": "ci3ya81zzr2zg9gykhbd1s5276xx3pig",
+			"onEvent": function (event) {
+				switch (event.name) {
+					case "SDK_GAME_START":
+						console.log("unpause")
+
+						BasicGame.adshowing = false;
+						BasicGame.paused = false;
+						//	if (BasicGame.soundbtnclicks == false) {
+						console.log(BasicGame.soundplay, "soundssssss")
+						if (BasicGame.soundplay == 1) {
+
+							BasicGame.music.play();
+							BasicGame.soundplay = 0;
+						}
+						//}
+
+
+						break;
+					case "SDK_GAME_PAUSE":
+						console.log("pause", BasicGame.sound)
+						BasicGame.paused = true;
+						BasicGame.adshowing = true;
+						//if (BasicGame.sound == 0) {
+						///console.log(",mmmm")
+						BasicGame.music.pause();
+						console.log(BasicGame.soundplay, "sound")
+						BasicGame.soundplay = 1;
+						//}
+						break;
+					case "SDK_READY":
+						console.log("SDK_READY", BasicGame.soundplay)
+						break;
+				}
+			},
+		};
+		(function (a, b, c) {
+			var d = a.getElementsByTagName(b)[0];
+			a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+		})(document, "script", "gamemonetize-sdk");
+
+		(function () {
+			BasicGame.srx = Math.max(window.innerWidth, window.innerHeight);
+			BasicGame.sry = Math.min(window.innerWidth, window.innerHeight);
+
+
+			if (BasicGame.srx > 960) {
+				BasicGame.screen = "large";
+				BasicGame.gameWidth = 1920;
+
+				BasicGame.logicWidth = 1920;
+				BasicGame.logicHeight = 1080;
+			} else {
+
+				BasicGame.screen = "small";
+				BasicGame.gameWidth = 960;
+
+				BasicGame.logicWidth = 960;
+				BasicGame.logicHeight = 540;
+			}
+			var r = BasicGame.logicWidth / BasicGame.logicHeight;
+
+			BasicGame.gameHeight = BasicGame.gameWidth / r;
+			//We need these methods later to convert the logical game position to display position, So convertWidth(logicWidth) will be right edge for all screens
+			BasicGame.convertWidth = function (value) {
+				return value / this.logicWidth * this.gameWidth;
+			};
+			BasicGame.convertHeight = function (value) {
+				return value / this.logicHeight * this.gameHeight;
+			};
+
+			//	Create your Phaser game and inject it into the game div.
+			//	We did it in a window.onload event, but you can do it anywhere (requireJS load, anonymous function, jQuery dom ready, - whatever floats your boat)
+			//	We're using a game size of 1024 x 768 here, but you can use whatever you feel makes sense for your game of course.
+			var game = new Phaser.Game(960, 540, Phaser.CANVAS, 'game');
+			//	document.getElementById('overlay').style.display = "none";
+
+			//	Add the States your game has.
+			//	You don't have to do this in the html, it could be done in your Boot state too, but for simplicity I'll keep it here.
+			game.state.add('Boot', BasicGame.Boot);
+			game.state.add('Preloader', BasicGame.Preloader);
+			game.state.add('MainMenu', BasicGame.MainMenu);
+
+			game.state.add('Game', BasicGame.Game);
+			game.state.add('Gameover', BasicGame.Gameover);
+			game.state.add('Levelup', BasicGame.Levelup);
+			game.state.add('LevelMap', BasicGame.LevelMap);
+			game.state.add('Gamewon', BasicGame.Gamewon);
+			game.state.add('Level1s', BasicGame.Level1s);
+			game.state.add('Level2', BasicGame.Level2);
+			game.state.add('Level3', BasicGame.Level3);
+			game.state.add('Level4', BasicGame.Level4);
+			game.state.add('Level5', BasicGame.Level5);
+			game.state.add('Level6', BasicGame.Level6);
+			game.state.add('Level7', BasicGame.Level7);
+			game.state.add('Level8', BasicGame.Level8);
+
+			game.state.add('Level9', BasicGame.Level9);
+			game.state.add('Level10', BasicGame.Level10);
+			game.state.add('Level11', BasicGame.Level11);
+			game.state.add('Level12', BasicGame.Level12);
+			game.state.add('Level13', BasicGame.Level13);
+			game.state.add('Level14', BasicGame.Level14);
+			game.state.add('Level15', BasicGame.Level15);
+			game.state.add('Level16', BasicGame.Level16);
+			game.state.add('Level17', BasicGame.Level17);
+			game.state.add('Level18', BasicGame.Level18);
+			game.state.add('Level19', BasicGame.Level19);
+			game.state.add('Level20', BasicGame.Level20);
+			game.state.add('Level1s', BasicGame.Level1s);
+
+			//	Now start the Boot state.
+			game.state.start('Boot');
+
+		})();
+	</script>
+
+</body>
+
+</html>

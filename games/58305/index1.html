@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Penty: Connect Colorful Gems for High Scores in this Exciting HTML5 Game</title>
+	<meta name="description" content="	">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="apple-touch-icon" sizes="256x256" href="icon-256.png">
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" sizes="256x256" href="icon-256.png">
+	<style>
+		* {
+			padding: 0;
+			margin: 0;
+		}
+		html, body {
+			background: #000;
+			color: #fff;
+			overflow: hidden;
+			touch-action: none;
+		}
+		canvas {
+			touch-action-delay: none;
+			touch-action: none;
+		}
+    </style>
+	<link rel="canonical" href="https://h5games.online/play/penty">
+</head>
+<body>
+	<div id="c2canvasdiv">
+	<canvas id="c2canvas" width="480" height="854"><h1>Penty: Connect Colorful Gems for High Scores in this Exciting HTML5 Game</h1><p>Penty is a fun and addictive HTML5 game where you need to connect adjacent gems of the same color to score big. With its simple yet challenging gameplay, Penty is sure to keep you entertained for hours. Play now and see how high you can score!</p></canvas>
+	</div>
+	<script src="jquery-2.1.1.min.js"></script>
+	<script src="c2runtime.js"></script>
+	<script>
+		jQuery(document).ready(function ()
+		{			
+			cr_createRuntime("c2canvas");
+		});
+		
+		function onVisibilityChanged() {
+			if (document.hidden || document.mozHidden || document.webkitHidden || document.msHidden)
+				cr_setSuspended(true);
+			else
+				cr_setSuspended(false);
+		};
+		
+		document.addEventListener("visibilitychange", onVisibilityChanged, false);
+		document.addEventListener("mozvisibilitychange", onVisibilityChanged, false);
+		document.addEventListener("webkitvisibilitychange", onVisibilityChanged, false);
+		document.addEventListener("msvisibilitychange", onVisibilityChanged, false);
+		
+		window.SDK_OPTIONS = {
+		  gameId: "r4dpgggva8y5dexih070qs3jyzi7uup5",
+		  onEvent: function (a) {
+			 switch (a.name) {
+				case "SDK_GAME_PAUSE":
+					cr_setSuspended(true);
+				   break;
+				case "SDK_GAME_START":
+					cr_setSuspended(false);
+				   break;
+				case "SDK_READY":
+				   break;
+			 }
+		  }
+		};
+		(function (a, b, c) {
+		   var d = a.getElementsByTagName(b)[0];
+		   a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+		})(document, "script", "gamemonetize-sdk");
+		const buttonsAd = ['t12', 't35'];
+		function showAd(){
+			if (typeof sdk !== 'undefined' && sdk.showBanner !== 'undefined') {
+				sdk.showBanner();
+			}
+		}
+    </script>
+</body>
+</html>

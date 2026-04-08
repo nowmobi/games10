@@ -1,0 +1,45 @@
+<!doctype html><html lang="en">
+    <head><meta charset="UTF-8">
+        <link rel="icon" type="image/png" href="/favicon.png">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta name="description" content="Play KangaHang: a witty word puzzle game where you challenge a cheeky kangaroo across 10 fun categories. Solve puzzles, avoid mistakes, and enjoy the banter!">
+        <link rel="stylesheet" href="css/style-dev.css">
+        <title>KangaHang</title>
+        <script src="https://acdn.adnxs.com/cmp/cmp.complete.bundle.js" async></script>
+      <script type="module" crossorigin src="./js/index-DF-uplUI.js"></script>
+      <link rel="modulepreload" crossorigin href="./js/phaser-C2_wa_Fb.js">
+    </head>
+    <body>
+        <div style="font-family:'PoppinsBold'; position:absolute; left:1px; visibility:hidden;">.</div>
+        <div style="font-family:'PoppinsMedium'; position:absolute; left:10px; visibility:hidden;">.</div>
+        <div id="app">
+            <div id="game-container"></div>
+        </div>
+
+        <script type="text/javascript">
+            window.SDK_OPTIONS = {
+               gameId: "7m1q5unty6a6s3stp1xrpgvu8tpr2j1k",
+               onEvent: function (a) {
+                  switch (a.name) {
+                     case "SDK_GAME_PAUSE":
+                        // pause game logic / mute audio
+                        break;
+                     case "SDK_GAME_START":
+                        // advertisement done, resume game logic and unmute audio
+                       
+                        break;
+                     case "SDK_READY":
+                        // when sdk is ready
+                        break;
+                  }
+               }
+            };
+         (function (a, b, c) {
+            var d = a.getElementsByTagName(b)[0];
+            a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+         })(document, "script", "gamemonetize-sdk"); 
+         </script>
+
+        <script src="js/data.js"></script>
+    </body>
+</html>

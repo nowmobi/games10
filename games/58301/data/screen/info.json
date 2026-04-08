@@ -1,0 +1,45 @@
+{
+  "height": 24,
+  "layers": [
+    {
+      "height": 24,
+      "image": "../img/info.png",
+      "name": "sfondo",
+      "opacity": 1,
+      "type": "imagelayer",
+      "visible": true,
+      "width": 32,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 24,
+      "name": "oggetti",
+      "objects": [
+        {
+          "height": 102,
+          "name": "but_gohome",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 220,
+          "x": 31,
+          "y": 639
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "width": 32,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "orientation": "orthogonal",
+  "properties": {},
+  "tileheight": 32,
+  "tilesets": [],
+  "tilewidth": 32,
+  "version": 1,
+  "width": 32
+}

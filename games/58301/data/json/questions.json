@@ -1,0 +1,3402 @@
+[
+  {
+    "question": "68+2= ?",
+    "answers": [
+      {
+        "answer": "70",
+        "score": "2"
+      },
+      {
+        "answer": "69",
+        "score": "-2"
+      },
+      {
+        "answer": "82",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "4+89= ?",
+    "answers": [
+      {
+        "answer": "93",
+        "score": "2"
+      },
+      {
+        "answer": "95",
+        "score": "-2"
+      },
+      {
+        "answer": "97",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "4+8= ?",
+    "answers": [
+      {
+        "answer": "12",
+        "score": "2"
+      },
+      {
+        "answer": "8",
+        "score": "-2"
+      },
+      {
+        "answer": "21",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "67+18= ?",
+    "answers": [
+      {
+        "answer": "85",
+        "score": "2"
+      },
+      {
+        "answer": "87",
+        "score": "-2"
+      },
+      {
+        "answer": "92",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "39+29= ?",
+    "answers": [
+      {
+        "answer": "68",
+        "score": "2"
+      },
+      {
+        "answer": "66",
+        "score": "-2"
+      },
+      {
+        "answer": "61",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "17+99= ?",
+    "answers": [
+      {
+        "answer": "116",
+        "score": "2"
+      },
+      {
+        "answer": "120",
+        "score": "-2"
+      },
+      {
+        "answer": "125",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "48+39= ?",
+    "answers": [
+      {
+        "answer": "87",
+        "score": "2"
+      },
+      {
+        "answer": "84",
+        "score": "-2"
+      },
+      {
+        "answer": "106",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "29+8= ?",
+    "answers": [
+      {
+        "answer": "37",
+        "score": "2"
+      },
+      {
+        "answer": "37",
+        "score": "-2"
+      },
+      {
+        "answer": "39",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "7+14= ?",
+    "answers": [
+      {
+        "answer": "21",
+        "score": "2"
+      },
+      {
+        "answer": "39",
+        "score": "-2"
+      },
+      {
+        "answer": "37",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "78+18= ?",
+    "answers": [
+      {
+        "answer": "96",
+        "score": "2"
+      },
+      {
+        "answer": "108",
+        "score": "-2"
+      },
+      {
+        "answer": "105",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "89+29= ?",
+    "answers": [
+      {
+        "answer": "118",
+        "score": "2"
+      },
+      {
+        "answer": "108",
+        "score": "-2"
+      },
+      {
+        "answer": "126",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "38+7= ?",
+    "answers": [
+      {
+        "answer": "45",
+        "score": "2"
+      },
+      {
+        "answer": "49",
+        "score": "-2"
+      },
+      {
+        "answer": "37",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "71+59= ?",
+    "answers": [
+      {
+        "answer": "130",
+        "score": "2"
+      },
+      {
+        "answer": "128",
+        "score": "-2"
+      },
+      {
+        "answer": "148",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "85+47= ?",
+    "answers": [
+      {
+        "answer": "132",
+        "score": "2"
+      },
+      {
+        "answer": "129",
+        "score": "-2"
+      },
+      {
+        "answer": "136",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "27+79= ?",
+    "answers": [
+      {
+        "answer": "106",
+        "score": "2"
+      },
+      {
+        "answer": "111",
+        "score": "-2"
+      },
+      {
+        "answer": "114",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "94+15= ?",
+    "answers": [
+      {
+        "answer": "109",
+        "score": "2"
+      },
+      {
+        "answer": "124",
+        "score": "-2"
+      },
+      {
+        "answer": "117",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "32+64= ?",
+    "answers": [
+      {
+        "answer": "96",
+        "score": "2"
+      },
+      {
+        "answer": "97",
+        "score": "-2"
+      },
+      {
+        "answer": "96",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "39+85= ?",
+    "answers": [
+      {
+        "answer": "124",
+        "score": "2"
+      },
+      {
+        "answer": "143",
+        "score": "-2"
+      },
+      {
+        "answer": "119",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "62+88= ?",
+    "answers": [
+      {
+        "answer": "150",
+        "score": "2"
+      },
+      {
+        "answer": "161",
+        "score": "-2"
+      },
+      {
+        "answer": "168",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "96+33= ?",
+    "answers": [
+      {
+        "answer": "129",
+        "score": "2"
+      },
+      {
+        "answer": "130",
+        "score": "-2"
+      },
+      {
+        "answer": "148",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "90+28= ?",
+    "answers": [
+      {
+        "answer": "118",
+        "score": "2"
+      },
+      {
+        "answer": "114",
+        "score": "-2"
+      },
+      {
+        "answer": "110",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "40+33= ?",
+    "answers": [
+      {
+        "answer": "73",
+        "score": "2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      },
+      {
+        "answer": "84",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "93+57= ?",
+    "answers": [
+      {
+        "answer": "150",
+        "score": "2"
+      },
+      {
+        "answer": "159",
+        "score": "-2"
+      },
+      {
+        "answer": "158",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "46+60= ?",
+    "answers": [
+      {
+        "answer": "106",
+        "score": "2"
+      },
+      {
+        "answer": "101",
+        "score": "-2"
+      },
+      {
+        "answer": "100",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "45+51= ?",
+    "answers": [
+      {
+        "answer": "96",
+        "score": "2"
+      },
+      {
+        "answer": "108",
+        "score": "-2"
+      },
+      {
+        "answer": "92",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "88+89= ?",
+    "answers": [
+      {
+        "answer": "177",
+        "score": "2"
+      },
+      {
+        "answer": "167",
+        "score": "-2"
+      },
+      {
+        "answer": "169",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "22+85= ?",
+    "answers": [
+      {
+        "answer": "107",
+        "score": "2"
+      },
+      {
+        "answer": "105",
+        "score": "-2"
+      },
+      {
+        "answer": "116",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "42+96= ?",
+    "answers": [
+      {
+        "answer": "138",
+        "score": "2"
+      },
+      {
+        "answer": "133",
+        "score": "-2"
+      },
+      {
+        "answer": "134",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "97+33= ?",
+    "answers": [
+      {
+        "answer": "130",
+        "score": "2"
+      },
+      {
+        "answer": "150",
+        "score": "-2"
+      },
+      {
+        "answer": "139",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "83+56= ?",
+    "answers": [
+      {
+        "answer": "139",
+        "score": "2"
+      },
+      {
+        "answer": "140",
+        "score": "-2"
+      },
+      {
+        "answer": "138",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "47+72= ?",
+    "answers": [
+      {
+        "answer": "119",
+        "score": "2"
+      },
+      {
+        "answer": "128",
+        "score": "-2"
+      },
+      {
+        "answer": "139",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "86+42= ?",
+    "answers": [
+      {
+        "answer": "128",
+        "score": "2"
+      },
+      {
+        "answer": "130",
+        "score": "-2"
+      },
+      {
+        "answer": "120",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "46+75= ?",
+    "answers": [
+      {
+        "answer": "121",
+        "score": "2"
+      },
+      {
+        "answer": "140",
+        "score": "-2"
+      },
+      {
+        "answer": "124",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "25+31= ?",
+    "answers": [
+      {
+        "answer": "56",
+        "score": "2"
+      },
+      {
+        "answer": "76",
+        "score": "-2"
+      },
+      {
+        "answer": "57",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "69+19= ?",
+    "answers": [
+      {
+        "answer": "88",
+        "score": "2"
+      },
+      {
+        "answer": "99",
+        "score": "-2"
+      },
+      {
+        "answer": "99",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "76+97= ?",
+    "answers": [
+      {
+        "answer": "173",
+        "score": "2"
+      },
+      {
+        "answer": "189",
+        "score": "-2"
+      },
+      {
+        "answer": "188",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "92+77= ?",
+    "answers": [
+      {
+        "answer": "169",
+        "score": "2"
+      },
+      {
+        "answer": "178",
+        "score": "-2"
+      },
+      {
+        "answer": "176",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "14+16= ?",
+    "answers": [
+      {
+        "answer": "30",
+        "score": "2"
+      },
+      {
+        "answer": "43",
+        "score": "-2"
+      },
+      {
+        "answer": "28",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "88+25= ?",
+    "answers": [
+      {
+        "answer": "113",
+        "score": "2"
+      },
+      {
+        "answer": "118",
+        "score": "-2"
+      },
+      {
+        "answer": "126",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "13+62= ?",
+    "answers": [
+      {
+        "answer": "75",
+        "score": "2"
+      },
+      {
+        "answer": "80",
+        "score": "-2"
+      },
+      {
+        "answer": "77",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "34+37= ?",
+    "answers": [
+      {
+        "answer": "71",
+        "score": "2"
+      },
+      {
+        "answer": "62",
+        "score": "-2"
+      },
+      {
+        "answer": "62",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "49+10= ?",
+    "answers": [
+      {
+        "answer": "59",
+        "score": "2"
+      },
+      {
+        "answer": "73",
+        "score": "-2"
+      },
+      {
+        "answer": "49",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "4+90= ?",
+    "answers": [
+      {
+        "answer": "94",
+        "score": "2"
+      },
+      {
+        "answer": "84",
+        "score": "-2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "97+36= ?",
+    "answers": [
+      {
+        "answer": "133",
+        "score": "2"
+      },
+      {
+        "answer": "135",
+        "score": "-2"
+      },
+      {
+        "answer": "148",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "74+57= ?",
+    "answers": [
+      {
+        "answer": "131",
+        "score": "2"
+      },
+      {
+        "answer": "125",
+        "score": "-2"
+      },
+      {
+        "answer": "147",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "31+14= ?",
+    "answers": [
+      {
+        "answer": "45",
+        "score": "2"
+      },
+      {
+        "answer": "36",
+        "score": "-2"
+      },
+      {
+        "answer": "53",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "17+15= ?",
+    "answers": [
+      {
+        "answer": "32",
+        "score": "2"
+      },
+      {
+        "answer": "29",
+        "score": "-2"
+      },
+      {
+        "answer": "50",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "28+19= ?",
+    "answers": [
+      {
+        "answer": "47",
+        "score": "2"
+      },
+      {
+        "answer": "52",
+        "score": "-2"
+      },
+      {
+        "answer": "40",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "10+37= ?",
+    "answers": [
+      {
+        "answer": "47",
+        "score": "2"
+      },
+      {
+        "answer": "37",
+        "score": "-2"
+      },
+      {
+        "answer": "38",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "61+27= ?",
+    "answers": [
+      {
+        "answer": "88",
+        "score": "2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      },
+      {
+        "answer": "79",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "27+99= ?",
+    "answers": [
+      {
+        "answer": "126",
+        "score": "2"
+      },
+      {
+        "answer": "122",
+        "score": "-2"
+      },
+      {
+        "answer": "146",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "5+12= ?",
+    "answers": [
+      {
+        "answer": "17",
+        "score": "2"
+      },
+      {
+        "answer": "32",
+        "score": "-2"
+      },
+      {
+        "answer": "13",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "43+76= ?",
+    "answers": [
+      {
+        "answer": "119",
+        "score": "2"
+      },
+      {
+        "answer": "126",
+        "score": "-2"
+      },
+      {
+        "answer": "125",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "37+49= ?",
+    "answers": [
+      {
+        "answer": "86",
+        "score": "2"
+      },
+      {
+        "answer": "81",
+        "score": "-2"
+      },
+      {
+        "answer": "86",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "34+42= ?",
+    "answers": [
+      {
+        "answer": "76",
+        "score": "2"
+      },
+      {
+        "answer": "92",
+        "score": "-2"
+      },
+      {
+        "answer": "79",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "30+14= ?",
+    "answers": [
+      {
+        "answer": "44",
+        "score": "2"
+      },
+      {
+        "answer": "44",
+        "score": "-2"
+      },
+      {
+        "answer": "39",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "73+74= ?",
+    "answers": [
+      {
+        "answer": "147",
+        "score": "2"
+      },
+      {
+        "answer": "163",
+        "score": "-2"
+      },
+      {
+        "answer": "149",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "60+81= ?",
+    "answers": [
+      {
+        "answer": "141",
+        "score": "2"
+      },
+      {
+        "answer": "133",
+        "score": "-2"
+      },
+      {
+        "answer": "145",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "37+45= ?",
+    "answers": [
+      {
+        "answer": "82",
+        "score": "2"
+      },
+      {
+        "answer": "79",
+        "score": "-2"
+      },
+      {
+        "answer": "78",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "1+26= ?",
+    "answers": [
+      {
+        "answer": "27",
+        "score": "2"
+      },
+      {
+        "answer": "20",
+        "score": "-2"
+      },
+      {
+        "answer": "46",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "100+31= ?",
+    "answers": [
+      {
+        "answer": "131",
+        "score": "2"
+      },
+      {
+        "answer": "147",
+        "score": "-2"
+      },
+      {
+        "answer": "139",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "30+22= ?",
+    "answers": [
+      {
+        "answer": "52",
+        "score": "2"
+      },
+      {
+        "answer": "47",
+        "score": "-2"
+      },
+      {
+        "answer": "55",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "37+8= ?",
+    "answers": [
+      {
+        "answer": "45",
+        "score": "2"
+      },
+      {
+        "answer": "46",
+        "score": "-2"
+      },
+      {
+        "answer": "44",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "20+46= ?",
+    "answers": [
+      {
+        "answer": "66",
+        "score": "2"
+      },
+      {
+        "answer": "58",
+        "score": "-2"
+      },
+      {
+        "answer": "74",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "24+48= ?",
+    "answers": [
+      {
+        "answer": "72",
+        "score": "2"
+      },
+      {
+        "answer": "79",
+        "score": "-2"
+      },
+      {
+        "answer": "66",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "46+73= ?",
+    "answers": [
+      {
+        "answer": "119",
+        "score": "2"
+      },
+      {
+        "answer": "125",
+        "score": "-2"
+      },
+      {
+        "answer": "116",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "35+29= ?",
+    "answers": [
+      {
+        "answer": "64",
+        "score": "2"
+      },
+      {
+        "answer": "59",
+        "score": "-2"
+      },
+      {
+        "answer": "78",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "85+77= ?",
+    "answers": [
+      {
+        "answer": "162",
+        "score": "2"
+      },
+      {
+        "answer": "160",
+        "score": "-2"
+      },
+      {
+        "answer": "154",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "44+25= ?",
+    "answers": [
+      {
+        "answer": "69",
+        "score": "2"
+      },
+      {
+        "answer": "59",
+        "score": "-2"
+      },
+      {
+        "answer": "59",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "10+33= ?",
+    "answers": [
+      {
+        "answer": "43",
+        "score": "2"
+      },
+      {
+        "answer": "35",
+        "score": "-2"
+      },
+      {
+        "answer": "60",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "29+10= ?",
+    "answers": [
+      {
+        "answer": "39",
+        "score": "2"
+      },
+      {
+        "answer": "51",
+        "score": "-2"
+      },
+      {
+        "answer": "47",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "97+16= ?",
+    "answers": [
+      {
+        "answer": "113",
+        "score": "2"
+      },
+      {
+        "answer": "124",
+        "score": "-2"
+      },
+      {
+        "answer": "116",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "62+60= ?",
+    "answers": [
+      {
+        "answer": "122",
+        "score": "2"
+      },
+      {
+        "answer": "116",
+        "score": "-2"
+      },
+      {
+        "answer": "119",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "21+2= ?",
+    "answers": [
+      {
+        "answer": "23",
+        "score": "2"
+      },
+      {
+        "answer": "39",
+        "score": "-2"
+      },
+      {
+        "answer": "25",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "20+51= ?",
+    "answers": [
+      {
+        "answer": "71",
+        "score": "2"
+      },
+      {
+        "answer": "61",
+        "score": "-2"
+      },
+      {
+        "answer": "83",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "56+65= ?",
+    "answers": [
+      {
+        "answer": "121",
+        "score": "2"
+      },
+      {
+        "answer": "121",
+        "score": "-2"
+      },
+      {
+        "answer": "129",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "76+55= ?",
+    "answers": [
+      {
+        "answer": "131",
+        "score": "2"
+      },
+      {
+        "answer": "121",
+        "score": "-2"
+      },
+      {
+        "answer": "146",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "78+81= ?",
+    "answers": [
+      {
+        "answer": "159",
+        "score": "2"
+      },
+      {
+        "answer": "175",
+        "score": "-2"
+      },
+      {
+        "answer": "172",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "7+50= ?",
+    "answers": [
+      {
+        "answer": "57",
+        "score": "2"
+      },
+      {
+        "answer": "77",
+        "score": "-2"
+      },
+      {
+        "answer": "54",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "62+24= ?",
+    "answers": [
+      {
+        "answer": "86",
+        "score": "2"
+      },
+      {
+        "answer": "81",
+        "score": "-2"
+      },
+      {
+        "answer": "95",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "88+10= ?",
+    "answers": [
+      {
+        "answer": "98",
+        "score": "2"
+      },
+      {
+        "answer": "107",
+        "score": "-2"
+      },
+      {
+        "answer": "110",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "82+69= ?",
+    "answers": [
+      {
+        "answer": "151",
+        "score": "2"
+      },
+      {
+        "answer": "142",
+        "score": "-2"
+      },
+      {
+        "answer": "170",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "92+9= ?",
+    "answers": [
+      {
+        "answer": "101",
+        "score": "2"
+      },
+      {
+        "answer": "112",
+        "score": "-2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "14+91= ?",
+    "answers": [
+      {
+        "answer": "105",
+        "score": "2"
+      },
+      {
+        "answer": "102",
+        "score": "-2"
+      },
+      {
+        "answer": "109",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "96+24= ?",
+    "answers": [
+      {
+        "answer": "120",
+        "score": "2"
+      },
+      {
+        "answer": "139",
+        "score": "-2"
+      },
+      {
+        "answer": "140",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "33+66= ?",
+    "answers": [
+      {
+        "answer": "99",
+        "score": "2"
+      },
+      {
+        "answer": "104",
+        "score": "-2"
+      },
+      {
+        "answer": "119",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "74+28= ?",
+    "answers": [
+      {
+        "answer": "102",
+        "score": "2"
+      },
+      {
+        "answer": "95",
+        "score": "-2"
+      },
+      {
+        "answer": "99",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "14+68= ?",
+    "answers": [
+      {
+        "answer": "82",
+        "score": "2"
+      },
+      {
+        "answer": "88",
+        "score": "-2"
+      },
+      {
+        "answer": "77",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "1+97= ?",
+    "answers": [
+      {
+        "answer": "98",
+        "score": "2"
+      },
+      {
+        "answer": "117",
+        "score": "-2"
+      },
+      {
+        "answer": "106",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "31+73= ?",
+    "answers": [
+      {
+        "answer": "104",
+        "score": "2"
+      },
+      {
+        "answer": "98",
+        "score": "-2"
+      },
+      {
+        "answer": "120",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "52+6= ?",
+    "answers": [
+      {
+        "answer": "58",
+        "score": "2"
+      },
+      {
+        "answer": "55",
+        "score": "-2"
+      },
+      {
+        "answer": "72",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "60+55= ?",
+    "answers": [
+      {
+        "answer": "115",
+        "score": "2"
+      },
+      {
+        "answer": "106",
+        "score": "-2"
+      },
+      {
+        "answer": "127",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "3+30= ?",
+    "answers": [
+      {
+        "answer": "33",
+        "score": "2"
+      },
+      {
+        "answer": "45",
+        "score": "-2"
+      },
+      {
+        "answer": "39",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "76+89= ?",
+    "answers": [
+      {
+        "answer": "165",
+        "score": "2"
+      },
+      {
+        "answer": "155",
+        "score": "-2"
+      },
+      {
+        "answer": "172",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "28+43= ?",
+    "answers": [
+      {
+        "answer": "71",
+        "score": "2"
+      },
+      {
+        "answer": "64",
+        "score": "-2"
+      },
+      {
+        "answer": "80",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "54+51= ?",
+    "answers": [
+      {
+        "answer": "105",
+        "score": "2"
+      },
+      {
+        "answer": "118",
+        "score": "-2"
+      },
+      {
+        "answer": "98",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "2+21= ?",
+    "answers": [
+      {
+        "answer": "23",
+        "score": "2"
+      },
+      {
+        "answer": "18",
+        "score": "-2"
+      },
+      {
+        "answer": "38",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "68+15= ?",
+    "answers": [
+      {
+        "answer": "83",
+        "score": "2"
+      },
+      {
+        "answer": "75",
+        "score": "-2"
+      },
+      {
+        "answer": "77",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "100+40= ?",
+    "answers": [
+      {
+        "answer": "140",
+        "score": "2"
+      },
+      {
+        "answer": "151",
+        "score": "-2"
+      },
+      {
+        "answer": "156",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "94+56= ?",
+    "answers": [
+      {
+        "answer": "150",
+        "score": "2"
+      },
+      {
+        "answer": "162",
+        "score": "-2"
+      },
+      {
+        "answer": "150",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "97+73= ?",
+    "answers": [
+      {
+        "answer": "170",
+        "score": "2"
+      },
+      {
+        "answer": "171",
+        "score": "-2"
+      },
+      {
+        "answer": "174",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "7+50= ?",
+    "answers": [
+      {
+        "answer": "57",
+        "score": "2"
+      },
+      {
+        "answer": "59",
+        "score": "-2"
+      },
+      {
+        "answer": "63",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "69+96= ?",
+    "answers": [
+      {
+        "answer": "165",
+        "score": "2"
+      },
+      {
+        "answer": "185",
+        "score": "-2"
+      },
+      {
+        "answer": "167",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "81+71= ?",
+    "answers": [
+      {
+        "answer": "152",
+        "score": "2"
+      },
+      {
+        "answer": "169",
+        "score": "-2"
+      },
+      {
+        "answer": "155",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "90+83= ?",
+    "answers": [
+      {
+        "answer": "173",
+        "score": "2"
+      },
+      {
+        "answer": "171",
+        "score": "-2"
+      },
+      {
+        "answer": "176",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "92+94= ?",
+    "answers": [
+      {
+        "answer": "186",
+        "score": "2"
+      },
+      {
+        "answer": "198",
+        "score": "-2"
+      },
+      {
+        "answer": "195",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "35+11= ?",
+    "answers": [
+      {
+        "answer": "46",
+        "score": "2"
+      },
+      {
+        "answer": "66",
+        "score": "-2"
+      },
+      {
+        "answer": "45",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "15+95= ?",
+    "answers": [
+      {
+        "answer": "110",
+        "score": "2"
+      },
+      {
+        "answer": "107",
+        "score": "-2"
+      },
+      {
+        "answer": "111",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "79+54= ?",
+    "answers": [
+      {
+        "answer": "133",
+        "score": "2"
+      },
+      {
+        "answer": "150",
+        "score": "-2"
+      },
+      {
+        "answer": "146",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "24+48= ?",
+    "answers": [
+      {
+        "answer": "72",
+        "score": "2"
+      },
+      {
+        "answer": "82",
+        "score": "-2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "98+86= ?",
+    "answers": [
+      {
+        "answer": "184",
+        "score": "2"
+      },
+      {
+        "answer": "193",
+        "score": "-2"
+      },
+      {
+        "answer": "189",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "96+28= ?",
+    "answers": [
+      {
+        "answer": "124",
+        "score": "2"
+      },
+      {
+        "answer": "140",
+        "score": "-2"
+      },
+      {
+        "answer": "117",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "65+83= ?",
+    "answers": [
+      {
+        "answer": "148",
+        "score": "2"
+      },
+      {
+        "answer": "145",
+        "score": "-2"
+      },
+      {
+        "answer": "151",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "4+11= ?",
+    "answers": [
+      {
+        "answer": "15",
+        "score": "2"
+      },
+      {
+        "answer": "24",
+        "score": "-2"
+      },
+      {
+        "answer": "30",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "57+20= ?",
+    "answers": [
+      {
+        "answer": "77",
+        "score": "2"
+      },
+      {
+        "answer": "72",
+        "score": "-2"
+      },
+      {
+        "answer": "71",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "23+71= ?",
+    "answers": [
+      {
+        "answer": "94",
+        "score": "2"
+      },
+      {
+        "answer": "105",
+        "score": "-2"
+      },
+      {
+        "answer": "106",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "49+72= ?",
+    "answers": [
+      {
+        "answer": "121",
+        "score": "2"
+      },
+      {
+        "answer": "120",
+        "score": "-2"
+      },
+      {
+        "answer": "124",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "30+83= ?",
+    "answers": [
+      {
+        "answer": "113",
+        "score": "2"
+      },
+      {
+        "answer": "127",
+        "score": "-2"
+      },
+      {
+        "answer": "121",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "14+13= ?",
+    "answers": [
+      {
+        "answer": "27",
+        "score": "2"
+      },
+      {
+        "answer": "28",
+        "score": "-2"
+      },
+      {
+        "answer": "19",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "98+23= ?",
+    "answers": [
+      {
+        "answer": "121",
+        "score": "2"
+      },
+      {
+        "answer": "133",
+        "score": "-2"
+      },
+      {
+        "answer": "116",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "29+20= ?",
+    "answers": [
+      {
+        "answer": "49",
+        "score": "2"
+      },
+      {
+        "answer": "41",
+        "score": "-2"
+      },
+      {
+        "answer": "63",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "3+65= ?",
+    "answers": [
+      {
+        "answer": "68",
+        "score": "2"
+      },
+      {
+        "answer": "63",
+        "score": "-2"
+      },
+      {
+        "answer": "65",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "67+66= ?",
+    "answers": [
+      {
+        "answer": "133",
+        "score": "2"
+      },
+      {
+        "answer": "130",
+        "score": "-2"
+      },
+      {
+        "answer": "133",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "19+84= ?",
+    "answers": [
+      {
+        "answer": "103",
+        "score": "2"
+      },
+      {
+        "answer": "123",
+        "score": "-2"
+      },
+      {
+        "answer": "108",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "6+28= ?",
+    "answers": [
+      {
+        "answer": "34",
+        "score": "2"
+      },
+      {
+        "answer": "42",
+        "score": "-2"
+      },
+      {
+        "answer": "39",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "23+56= ?",
+    "answers": [
+      {
+        "answer": "79",
+        "score": "2"
+      },
+      {
+        "answer": "94",
+        "score": "-2"
+      },
+      {
+        "answer": "90",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "18+79= ?",
+    "answers": [
+      {
+        "answer": "97",
+        "score": "2"
+      },
+      {
+        "answer": "113",
+        "score": "-2"
+      },
+      {
+        "answer": "117",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "88+55= ?",
+    "answers": [
+      {
+        "answer": "143",
+        "score": "2"
+      },
+      {
+        "answer": "146",
+        "score": "-2"
+      },
+      {
+        "answer": "152",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "79+95= ?",
+    "answers": [
+      {
+        "answer": "174",
+        "score": "2"
+      },
+      {
+        "answer": "188",
+        "score": "-2"
+      },
+      {
+        "answer": "180",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "89+56= ?",
+    "answers": [
+      {
+        "answer": "145",
+        "score": "2"
+      },
+      {
+        "answer": "154",
+        "score": "-2"
+      },
+      {
+        "answer": "135",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "65+50= ?",
+    "answers": [
+      {
+        "answer": "115",
+        "score": "2"
+      },
+      {
+        "answer": "110",
+        "score": "-2"
+      },
+      {
+        "answer": "133",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "3+35= ?",
+    "answers": [
+      {
+        "answer": "38",
+        "score": "2"
+      },
+      {
+        "answer": "32",
+        "score": "-2"
+      },
+      {
+        "answer": "47",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "50+21= ?",
+    "answers": [
+      {
+        "answer": "71",
+        "score": "2"
+      },
+      {
+        "answer": "84",
+        "score": "-2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "3+66= ?",
+    "answers": [
+      {
+        "answer": "69",
+        "score": "2"
+      },
+      {
+        "answer": "80",
+        "score": "-2"
+      },
+      {
+        "answer": "64",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "9+81= ?",
+    "answers": [
+      {
+        "answer": "90",
+        "score": "2"
+      },
+      {
+        "answer": "87",
+        "score": "-2"
+      },
+      {
+        "answer": "87",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "65+25= ?",
+    "answers": [
+      {
+        "answer": "90",
+        "score": "2"
+      },
+      {
+        "answer": "81",
+        "score": "-2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "17+7= ?",
+    "answers": [
+      {
+        "answer": "24",
+        "score": "2"
+      },
+      {
+        "answer": "26",
+        "score": "-2"
+      },
+      {
+        "answer": "33",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "64+86= ?",
+    "answers": [
+      {
+        "answer": "150",
+        "score": "2"
+      },
+      {
+        "answer": "170",
+        "score": "-2"
+      },
+      {
+        "answer": "145",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "50+72= ?",
+    "answers": [
+      {
+        "answer": "122",
+        "score": "2"
+      },
+      {
+        "answer": "142",
+        "score": "-2"
+      },
+      {
+        "answer": "139",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "74+24= ?",
+    "answers": [
+      {
+        "answer": "98",
+        "score": "2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      },
+      {
+        "answer": "91",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "82+52= ?",
+    "answers": [
+      {
+        "answer": "134",
+        "score": "2"
+      },
+      {
+        "answer": "147",
+        "score": "-2"
+      },
+      {
+        "answer": "146",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "71+14= ?",
+    "answers": [
+      {
+        "answer": "85",
+        "score": "2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      },
+      {
+        "answer": "75",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "88+21= ?",
+    "answers": [
+      {
+        "answer": "109",
+        "score": "2"
+      },
+      {
+        "answer": "113",
+        "score": "-2"
+      },
+      {
+        "answer": "126",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "30+32= ?",
+    "answers": [
+      {
+        "answer": "62",
+        "score": "2"
+      },
+      {
+        "answer": "68",
+        "score": "-2"
+      },
+      {
+        "answer": "71",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "43+56= ?",
+    "answers": [
+      {
+        "answer": "99",
+        "score": "2"
+      },
+      {
+        "answer": "115",
+        "score": "-2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "25+52= ?",
+    "answers": [
+      {
+        "answer": "77",
+        "score": "2"
+      },
+      {
+        "answer": "72",
+        "score": "-2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "23+31= ?",
+    "answers": [
+      {
+        "answer": "54",
+        "score": "2"
+      },
+      {
+        "answer": "65",
+        "score": "-2"
+      },
+      {
+        "answer": "50",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "32+50= ?",
+    "answers": [
+      {
+        "answer": "82",
+        "score": "2"
+      },
+      {
+        "answer": "75",
+        "score": "-2"
+      },
+      {
+        "answer": "102",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "1+20= ?",
+    "answers": [
+      {
+        "answer": "21",
+        "score": "2"
+      },
+      {
+        "answer": "32",
+        "score": "-2"
+      },
+      {
+        "answer": "38",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "26+100= ?",
+    "answers": [
+      {
+        "answer": "126",
+        "score": "2"
+      },
+      {
+        "answer": "119",
+        "score": "-2"
+      },
+      {
+        "answer": "123",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "54+99= ?",
+    "answers": [
+      {
+        "answer": "153",
+        "score": "2"
+      },
+      {
+        "answer": "161",
+        "score": "-2"
+      },
+      {
+        "answer": "170",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "82+77= ?",
+    "answers": [
+      {
+        "answer": "159",
+        "score": "2"
+      },
+      {
+        "answer": "176",
+        "score": "-2"
+      },
+      {
+        "answer": "155",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "56+43= ?",
+    "answers": [
+      {
+        "answer": "99",
+        "score": "2"
+      },
+      {
+        "answer": "95",
+        "score": "-2"
+      },
+      {
+        "answer": "119",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "74+57= ?",
+    "answers": [
+      {
+        "answer": "131",
+        "score": "2"
+      },
+      {
+        "answer": "128",
+        "score": "-2"
+      },
+      {
+        "answer": "140",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "83+27= ?",
+    "answers": [
+      {
+        "answer": "110",
+        "score": "2"
+      },
+      {
+        "answer": "107",
+        "score": "-2"
+      },
+      {
+        "answer": "128",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "78+13= ?",
+    "answers": [
+      {
+        "answer": "91",
+        "score": "2"
+      },
+      {
+        "answer": "109",
+        "score": "-2"
+      },
+      {
+        "answer": "88",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "8+26= ?",
+    "answers": [
+      {
+        "answer": "34",
+        "score": "2"
+      },
+      {
+        "answer": "38",
+        "score": "-2"
+      },
+      {
+        "answer": "37",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "69+23= ?",
+    "answers": [
+      {
+        "answer": "92",
+        "score": "2"
+      },
+      {
+        "answer": "101",
+        "score": "-2"
+      },
+      {
+        "answer": "108",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "8+14= ?",
+    "answers": [
+      {
+        "answer": "22",
+        "score": "2"
+      },
+      {
+        "answer": "30",
+        "score": "-2"
+      },
+      {
+        "answer": "21",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "22+59= ?",
+    "answers": [
+      {
+        "answer": "81",
+        "score": "2"
+      },
+      {
+        "answer": "75",
+        "score": "-2"
+      },
+      {
+        "answer": "75",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "57+68= ?",
+    "answers": [
+      {
+        "answer": "125",
+        "score": "2"
+      },
+      {
+        "answer": "128",
+        "score": "-2"
+      },
+      {
+        "answer": "122",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "11+98= ?",
+    "answers": [
+      {
+        "answer": "109",
+        "score": "2"
+      },
+      {
+        "answer": "105",
+        "score": "-2"
+      },
+      {
+        "answer": "127",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "30+61= ?",
+    "answers": [
+      {
+        "answer": "91",
+        "score": "2"
+      },
+      {
+        "answer": "102",
+        "score": "-2"
+      },
+      {
+        "answer": "81",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "12+15= ?",
+    "answers": [
+      {
+        "answer": "27",
+        "score": "2"
+      },
+      {
+        "answer": "34",
+        "score": "-2"
+      },
+      {
+        "answer": "44",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "3+69= ?",
+    "answers": [
+      {
+        "answer": "72",
+        "score": "2"
+      },
+      {
+        "answer": "65",
+        "score": "-2"
+      },
+      {
+        "answer": "73",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "100+83= ?",
+    "answers": [
+      {
+        "answer": "183",
+        "score": "2"
+      },
+      {
+        "answer": "173",
+        "score": "-2"
+      },
+      {
+        "answer": "195",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "49+67= ?",
+    "answers": [
+      {
+        "answer": "116",
+        "score": "2"
+      },
+      {
+        "answer": "120",
+        "score": "-2"
+      },
+      {
+        "answer": "107",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "49+79= ?",
+    "answers": [
+      {
+        "answer": "128",
+        "score": "2"
+      },
+      {
+        "answer": "125",
+        "score": "-2"
+      },
+      {
+        "answer": "132",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "45+30= ?",
+    "answers": [
+      {
+        "answer": "75",
+        "score": "2"
+      },
+      {
+        "answer": "81",
+        "score": "-2"
+      },
+      {
+        "answer": "91",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "35+77= ?",
+    "answers": [
+      {
+        "answer": "112",
+        "score": "2"
+      },
+      {
+        "answer": "102",
+        "score": "-2"
+      },
+      {
+        "answer": "119",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "65+32= ?",
+    "answers": [
+      {
+        "answer": "97",
+        "score": "2"
+      },
+      {
+        "answer": "117",
+        "score": "-2"
+      },
+      {
+        "answer": "101",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "33+53= ?",
+    "answers": [
+      {
+        "answer": "86",
+        "score": "2"
+      },
+      {
+        "answer": "79",
+        "score": "-2"
+      },
+      {
+        "answer": "103",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "85+50= ?",
+    "answers": [
+      {
+        "answer": "135",
+        "score": "2"
+      },
+      {
+        "answer": "144",
+        "score": "-2"
+      },
+      {
+        "answer": "145",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "17+81= ?",
+    "answers": [
+      {
+        "answer": "98",
+        "score": "2"
+      },
+      {
+        "answer": "96",
+        "score": "-2"
+      },
+      {
+        "answer": "92",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "78+57= ?",
+    "answers": [
+      {
+        "answer": "135",
+        "score": "2"
+      },
+      {
+        "answer": "132",
+        "score": "-2"
+      },
+      {
+        "answer": "131",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "64+36= ?",
+    "answers": [
+      {
+        "answer": "100",
+        "score": "2"
+      },
+      {
+        "answer": "96",
+        "score": "-2"
+      },
+      {
+        "answer": "94",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "21+29= ?",
+    "answers": [
+      {
+        "answer": "50",
+        "score": "2"
+      },
+      {
+        "answer": "55",
+        "score": "-2"
+      },
+      {
+        "answer": "65",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "47+94= ?",
+    "answers": [
+      {
+        "answer": "141",
+        "score": "2"
+      },
+      {
+        "answer": "153",
+        "score": "-2"
+      },
+      {
+        "answer": "149",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "88+41= ?",
+    "answers": [
+      {
+        "answer": "129",
+        "score": "2"
+      },
+      {
+        "answer": "124",
+        "score": "-2"
+      },
+      {
+        "answer": "128",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "41+29= ?",
+    "answers": [
+      {
+        "answer": "70",
+        "score": "2"
+      },
+      {
+        "answer": "76",
+        "score": "-2"
+      },
+      {
+        "answer": "68",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "54+68= ?",
+    "answers": [
+      {
+        "answer": "122",
+        "score": "2"
+      },
+      {
+        "answer": "113",
+        "score": "-2"
+      },
+      {
+        "answer": "122",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "23+17= ?",
+    "answers": [
+      {
+        "answer": "40",
+        "score": "2"
+      },
+      {
+        "answer": "42",
+        "score": "-2"
+      },
+      {
+        "answer": "57",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "94+85= ?",
+    "answers": [
+      {
+        "answer": "179",
+        "score": "2"
+      },
+      {
+        "answer": "195",
+        "score": "-2"
+      },
+      {
+        "answer": "191",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "66+31= ?",
+    "answers": [
+      {
+        "answer": "97",
+        "score": "2"
+      },
+      {
+        "answer": "89",
+        "score": "-2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "84+66= ?",
+    "answers": [
+      {
+        "answer": "150",
+        "score": "2"
+      },
+      {
+        "answer": "150",
+        "score": "-2"
+      },
+      {
+        "answer": "145",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "46+48= ?",
+    "answers": [
+      {
+        "answer": "94",
+        "score": "2"
+      },
+      {
+        "answer": "93",
+        "score": "-2"
+      },
+      {
+        "answer": "84",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "98+87= ?",
+    "answers": [
+      {
+        "answer": "185",
+        "score": "2"
+      },
+      {
+        "answer": "181",
+        "score": "-2"
+      },
+      {
+        "answer": "187",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "37+43= ?",
+    "answers": [
+      {
+        "answer": "80",
+        "score": "2"
+      },
+      {
+        "answer": "96",
+        "score": "-2"
+      },
+      {
+        "answer": "70",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "11+24= ?",
+    "answers": [
+      {
+        "answer": "35",
+        "score": "2"
+      },
+      {
+        "answer": "35",
+        "score": "-2"
+      },
+      {
+        "answer": "37",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "16+90= ?",
+    "answers": [
+      {
+        "answer": "106",
+        "score": "2"
+      },
+      {
+        "answer": "109",
+        "score": "-2"
+      },
+      {
+        "answer": "126",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "98+50= ?",
+    "answers": [
+      {
+        "answer": "148",
+        "score": "2"
+      },
+      {
+        "answer": "148",
+        "score": "-2"
+      },
+      {
+        "answer": "157",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "56+64= ?",
+    "answers": [
+      {
+        "answer": "120",
+        "score": "2"
+      },
+      {
+        "answer": "135",
+        "score": "-2"
+      },
+      {
+        "answer": "130",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "35+41= ?",
+    "answers": [
+      {
+        "answer": "76",
+        "score": "2"
+      },
+      {
+        "answer": "67",
+        "score": "-2"
+      },
+      {
+        "answer": "94",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "32+40= ?",
+    "answers": [
+      {
+        "answer": "72",
+        "score": "2"
+      },
+      {
+        "answer": "85",
+        "score": "-2"
+      },
+      {
+        "answer": "86",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "95+71= ?",
+    "answers": [
+      {
+        "answer": "166",
+        "score": "2"
+      },
+      {
+        "answer": "161",
+        "score": "-2"
+      },
+      {
+        "answer": "158",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "21+94= ?",
+    "answers": [
+      {
+        "answer": "115",
+        "score": "2"
+      },
+      {
+        "answer": "105",
+        "score": "-2"
+      },
+      {
+        "answer": "109",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "55+17= ?",
+    "answers": [
+      {
+        "answer": "72",
+        "score": "2"
+      },
+      {
+        "answer": "77",
+        "score": "-2"
+      },
+      {
+        "answer": "87",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "96+100= ?",
+    "answers": [
+      {
+        "answer": "196",
+        "score": "2"
+      },
+      {
+        "answer": "190",
+        "score": "-2"
+      },
+      {
+        "answer": "192",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "90+52= ?",
+    "answers": [
+      {
+        "answer": "142",
+        "score": "2"
+      },
+      {
+        "answer": "154",
+        "score": "-2"
+      },
+      {
+        "answer": "159",
+        "score": "-2"
+      }
+    ]
+  },
+  {
+    "question": "33+33= ?",
+    "answers": [
+      {
+        "answer": "66",
+        "score": "2"
+      },
+      {
+        "answer": "69",
+        "score": "-2"
+      },
+      {
+        "answer": "70",
+        "score": "-2"
+      }
+    ]
+  }
+]

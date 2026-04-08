@@ -1,0 +1,104 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "main",
+  "deps": [],
+  "uuids": [
+    "02+bW7GwNHnbLulIVOtxeP",
+    "0a51d96ac",
+    "0a7f6d754",
+    "53kRaK0K9L07YJkGVChxcl",
+    "98sBkoFKtPio8ERlj8yvIp",
+    "98sBkoFKtPio8ERlj8yvIp@6c48a",
+    "98sBkoFKtPio8ERlj8yvIp@f9941",
+    "b7MFJ8MjNBwqr3fNq1j5dJ",
+    "b7MFJ8MjNBwqr3fNq1j5dJ@6c48a",
+    "b7MFJ8MjNBwqr3fNq1j5dJ@f9941",
+    "baIUdvKGZPgZxNbjWTFuRI",
+    "c563rDs7tK3a/xonhKg8TF",
+    "c563rDs7tK3a/xonhKg8TF@6c48a",
+    "c563rDs7tK3a/xonhKg8TF@f9941",
+    "d5N035MAhFE4qpYcBPEw1q",
+    "ddDhJrfH5IgKd1ltuVBKRB",
+    "fdjsU2o1RKF5x0TziDw3jI"
+  ],
+  "paths": {
+    "3": [
+      "db:/assets/Scenes/Entrance",
+      0
+    ],
+    "10": [
+      "db:/internal/physics/default-physics-material",
+      2
+    ],
+    "16": [
+      "db:/internal/default_renderpipeline/builtin-forward",
+      1
+    ]
+  },
+  "scenes": {
+    "db://assets/Scenes/Entrance.scene": 3
+  },
+  "packs": {
+    "0a51d96ac": [
+      "5",
+      "8",
+      "12"
+    ],
+    "0a7f6d754": [
+      "3",
+      "6",
+      "9",
+      "13",
+      "14"
+    ]
+  },
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [],
+  "debug": false,
+  "extensionMap": {
+    ".cconb": [
+      "0",
+      "15"
+    ]
+  },
+  "hasPreloadScript": true,
+  "dependencyRelationships": {
+    "3": [
+      "14"
+    ],
+    "5": [
+      "4"
+    ],
+    "6": [
+      "5"
+    ],
+    "8": [
+      "7"
+    ],
+    "9": [
+      "8"
+    ],
+    "12": [
+      "11"
+    ],
+    "13": [
+      "12"
+    ],
+    "14": [
+      "9",
+      "6",
+      "13",
+      "15",
+      "0"
+    ]
+  },
+  "types": [
+    "cc.SceneAsset",
+    "cc.RenderPipeline",
+    "cc.PhysicsMaterial"
+  ]
+}

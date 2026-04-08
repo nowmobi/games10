@@ -1,0 +1,75 @@
+{
+  "height": 24,
+  "layers": [
+    {
+      "height": 24,
+      "image": "../img/home.png",
+      "name": "sfondo",
+      "opacity": 1,
+      "type": "imagelayer",
+      "visible": true,
+      "width": 32,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 24,
+      "name": "oggetti",
+      "objects": [
+        {
+          "height": 160,
+          "name": "but_help",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 160,
+          "x": 1056,
+          "y": 384
+        },
+        {
+          "height": 96,
+          "name": "but_link",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 147,
+          "x": 167,
+          "y": 629
+        },
+        {
+          "height": 99,
+          "name": "but_info",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 144,
+          "x": 370,
+          "y": 626
+        },
+        {
+          "height": 135,
+          "name": "but_play",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 209,
+          "x": 235,
+          "y": 453
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "width": 32,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "orientation": "orthogonal",
+  "properties": {},
+  "tileheight": 32,
+  "tilesets": [],
+  "tilewidth": 32,
+  "version": 1,
+  "width": 32
+}

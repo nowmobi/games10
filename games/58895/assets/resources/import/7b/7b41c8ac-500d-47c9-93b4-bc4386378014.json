@@ -1,0 +1,45 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "cc_YYGGames",
+      {
+        "buildPath": "",
+        "status": "发布",
+        "projName": "Meet My Girlfriend - Puzzles",
+        "projTitle": "Meet My Girlfriend - Puzzles",
+        "appName": "Meet-My-Girlfriend-Puzzles",
+        "channel": "5",
+        "resolutionWidth": 750,
+        "resolutionHeight": 1334,
+        "version": "1.0.18"
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

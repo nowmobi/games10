@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Speed Math</title>
+	<script type="text/javascript" src="js/phaser.min.js"></script>
+
+<script src="js/gm.js"></script>	
+<script src="js/boot.js"></script>
+<script src="js/preload.js"></script>
+<script src="js/menu.js"></script>
+<script src="js/tips.js"></script>
+<script src="js/levels.js"></script>
+<script src="js/settings.js"></script>
+<script src="js/theGame.js"></script>
+<script src="js/theMediumGame.js"></script>
+<script src="js/theHardGame.js"></script>
+<script src="js/gameOver.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />	
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="mobile-web-app-capable" content="yes" />
+
+
+    <style type="text/css">
+        body {
+            margin: 0;
+        }
+
+    </style>
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+<body>
+    <script type="text/javascript">
+        window.SDK_OPTIONS = {
+           gameId: "mo4dmfvsrwe2ra49uit0eifv3sxn459c",
+           onEvent: function (a) {
+              switch (a.name) {
+                 case "SDK_GAME_PAUSE":
+                    // pause game logic / mute audio
+                    break;
+                 case "SDK_GAME_START":
+                    // advertisement done, resume game logic and unmute audio
+                    break;
+                 case "SDK_READY":
+                    // when sdk is ready
+                    break;
+              }
+           }
+        };
+     (function (a, b, c) {
+        var d = a.getElementsByTagName(b)[0];
+        a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+     })(document, "script", "gamemonetize-sdk"); 
+     </script>
+<script type="text/javascript">
+ var loadPath = "";
+/* var AdMob;*/
+var isAdReady = false;
+var currentDevice="HD";
+var isVideoAdReady = false;
+var isRevMob = false;
+var connectionStatus;
+var isVideoAdViewd = false;
+var isVideoAdStartedLoading = false;
+var isFullScreenAdReady = false;
+var androidApplicationLicenseKey = "";
+var productIds = "";
+var appId = "";
+var leaderboardId = "";
+var existing_purchases = [];
+var product_info = {};
+var isAdRemoved;
+var videoAdPlacementId = "defaultZone";
+var rewardedVideoAdPlacementId = "rewardedVideo";
+var isTest = false;
+var revmob;
+var isEffects;
+
+
+(function() {
+
+    var currentLevel;
+    var pauseCounter;
+    var screenWidth;
+    var screenHeight;
+
+  
+    screenWidth = 720;
+    screenHeight = 1280;
+    loadPath = "assets/SHD/";
+    currentDevice = "SHD";
+  
+    var game = new Phaser.Game(screenWidth, screenHeight, Phaser.AUTO, "game");
+    isEffects = localStorage.getItem("isEffects");
+    if(isEffects == undefined || isEffects == null)
+    {
+        localStorage.setItem("isEffects","true");
+        isEffects = "true";
+    }
+
+    localStorage.setItem("isMute","true");
+    //var game = new Phaser.Game(720, 1230, Phaser.AUTO, "game");
+    game.state.add("Boot", boot);
+
+    game.state.add("Preload", preload);
+    game.state.add("menu", menu);
+    game.state.add("tips", tips);
+
+    game.state.add("levels", levels);
+    game.state.add("settings", settings);
+    game.state.add("TheGame", theGame);
+
+    game.state.add("TheMediumGame", theMediumGame);
+    game.state.add("TheHardGame", theHardGame);
+    game.state.add("GameOver", gameOver);
+    game.state.start("Boot");
+    
+   
+
+})();
+
+</script>
+
+</body>
+</html>

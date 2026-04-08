@@ -1,0 +1,59 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "Data",
+  "deps": [],
+  "uuids": [
+    "378uTH7PNCoYhF0wKO0BAq",
+    "3b9GYXtb9E95sA4mZI062e",
+    "4fhTnlu5FMXYCpTc3HWN1H",
+    "829xFk451HxZTOTQAzMUgo",
+    "a4heFjKCJCnKwLUHwR3D5S",
+    "cfqBuHy4pP5o7+iNwppvG9",
+    "e5dk9F5oRCBL4KKMwgcf6V"
+  ],
+  "paths": {
+    "0": [
+      "LanguageData",
+      0
+    ],
+    "1": [
+      "MergeDicePrefabLevelData",
+      0
+    ],
+    "2": [
+      "ThemeData",
+      0
+    ],
+    "3": [
+      "PrefabLevelData",
+      0
+    ],
+    "4": [
+      "ItemData",
+      0
+    ],
+    "5": [
+      "GameMergeDiceLevelUpData",
+      0
+    ],
+    "6": [
+      "LevelModeData",
+      0
+    ]
+  },
+  "scenes": {},
+  "packs": {},
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [],
+  "debug": false,
+  "extensionMap": {},
+  "hasPreloadScript": true,
+  "dependencyRelationships": {},
+  "types": [
+    "cc.JsonAsset"
+  ]
+}

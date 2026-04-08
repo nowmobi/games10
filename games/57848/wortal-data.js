@@ -1,0 +1,1 @@
+window.wortalGameID = '663363c99e33080001a6c054'; window.legacyGameID = 223;

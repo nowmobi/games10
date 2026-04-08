@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script type="text/javascript">
+        window.SDK_OPTIONS = {
+            gameId: "vi4f4xiuguam5hir11p0d6p8o89e183o",
+            onEvent: function (a) {
+                switch (a.name) {
+                    case "SDK_GAME_PAUSE":
+                        // pause game logic / mute audio
+                        console.log("pause game logic / mute audio");
+                        
+                        break;
+                    case "SDK_GAME_START":
+                        // advertisement done, resume game logic and unmute audio
+                        console.log("advertisement done, resume game logic and unmute audio");
+            
+                        break;
+                    case "SDK_READY":
+                        // when sdk is ready
+                        break;
+                }
+            }
+        };
+        (function (a, b, c) {
+            var d = a.getElementsByTagName(b)[0];
+            a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+        })(document, "script", "gamemonetize-sdk"); 
+    </script>
+
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+
+    <script type="text/javascript">
+        function showAd() {
+            console.log("Calling gamemonetize showAd...");
+            if (typeof sdk !== 'undefined' && sdk.showBanner !== 'undefined') {
+                sdk.showBanner();
+            }
+        }
+
+        // Configura swfobject per caricare il file SWF con Ruffle
+        var flashvars = {};
+        var params = {
+            allowScriptAccess: "always", // Cruciale per ExternalInterface
+        };
+        var attributes = {
+            id: "mySWF",
+            name: "mySWF"
+        };
+
+        // Inizializza Ruffle per emulare Flash
+        window.addEventListener("load", function () {
+            var ruffle = window.RufflePlayer.newest();
+            var player = ruffle.createPlayer();
+            document.getElementById("ruffleContainer").appendChild(player);
+            player.load({ url: "AncientEgyptEscape.swf" });
+        });
+
+        // Usa swfobject per incorporare il SWF
+        window.addEventListener("load", function () {
+            swfobject.embedSWF("AncientEgyptEscape.swf", "ruffleContainer", "800", "600", "10.0.0", null, flashvars, params, attributes);
+        });
+    </script>
+</head>
+
+<body>
+    <div id="ruffleContainer">
+</body>
+
+</html>

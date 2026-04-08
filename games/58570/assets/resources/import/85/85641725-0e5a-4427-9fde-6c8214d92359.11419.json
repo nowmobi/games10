@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bdn+yxeB5DNKBiAigb8GDX"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "icon-22",
+      "rect": [
+        52,
+        0,
+        251,
+        286
+      ],
+      "offset": [
+        3,
+        0
+      ],
+      "originalSize": [
+        349,
+        286
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

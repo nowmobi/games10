@@ -1,0 +1,293 @@
+{
+  "type": "Scene",
+  "props": {
+    "width": 1080,
+    "height": 1920
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Script",
+      "props": {
+        "y": -1,
+        "x": 0,
+        "runtime": "Srcipt/game/Game_App.ts"
+      },
+      "compId": 5
+    },
+    {
+      "type": "Script",
+      "props": {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0,
+        "runtime": "laya.ui.Widget"
+      },
+      "compId": 6
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": -2,
+        "x": 2,
+        "width": 1080,
+        "skin": "res/UI/Start/jiazaiye.jpg",
+        "name": "LoadPanel",
+        "height": 1920
+      },
+      "compId": 10,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "width": 946,
+            "visible": false,
+            "skin": "res/UI/Start/logo.png",
+            "name": "logo",
+            "height": 371,
+            "centerY": -176,
+            "centerX": 1
+          },
+          "compId": 390,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 401,
+                "x": 747,
+                "width": 243,
+                "skin": "res/UI/Icon/tubiao_3.png",
+                "rotation": -32,
+                "height": 231
+              },
+              "compId": 391
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": -62.5,
+                "x": 231,
+                "width": 234,
+                "skin": "res/UI/Icon/naozhong.png",
+                "rotation": -30,
+                "height": 224
+              },
+              "compId": 393
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 270,
+                "x": 28,
+                "width": 194,
+                "skin": "res/UI/Icon/yinliao.png",
+                "rotation": 30,
+                "height": 186
+              },
+              "compId": 394
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": -58,
+                "x": -60,
+                "width": 185,
+                "skin": "res/UI/Icon/posuiicon.png",
+                "rotation": 0,
+                "height": 177
+              },
+              "compId": 395
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": -58,
+                "x": 771,
+                "width": 250,
+                "skin": "res/UI/Icon/suilie_1.png",
+                "rotation": 0,
+                "height": 239
+              },
+              "compId": 396
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 960,
+            "x": 540,
+            "width": 1,
+            "name": "center",
+            "height": 1
+          },
+          "compId": 13,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "centerY": 0,
+                "centerX": 0,
+                "runtime": "laya.ui.Widget"
+              },
+              "compId": 14
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 785,
+                "x": -145,
+                "wordWrap": true,
+                "width": 870,
+                "visible": true,
+                "valign": "middle",
+                "text": "",
+                "stroke": 2,
+                "pivotY": 74,
+                "pivotX": 289,
+                "name": "counsel_label",
+                "leading": 8,
+                "height": 230,
+                "fontSize": 30,
+                "font": "Microsoft YaHei",
+                "color": "#ffffff",
+                "bold": true,
+                "align": "center"
+              },
+              "compId": 17
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 589,
+                "x": -138.5,
+                "width": 279,
+                "visible": true,
+                "valign": "middle",
+                "text": "Loading resource",
+                "stroke": 2,
+                "name": "msg_label",
+                "height": 50,
+                "fontSize": 30,
+                "font": "SimHei",
+                "color": "#ffffff",
+                "bold": true,
+                "align": "center"
+              },
+              "compId": 380
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 653,
+                "x": -474,
+                "width": 949,
+                "skin": "res/UI/Load/jindutiaodi.png",
+                "sizeGrid": "14,37,17,39",
+                "name": "progress",
+                "height": 48
+              },
+              "compId": 378,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 2,
+                    "x": 1,
+                    "width": 947,
+                    "skin": "res/UI/Load/jindutiaodi_1.png",
+                    "sizeGrid": "0,39,0,39",
+                    "scaleX": 1,
+                    "name": "value",
+                    "height": 44
+                  },
+                  "compId": 379
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": -817,
+                "x": -498,
+                "width": 107,
+                "skin": "UIRes1/slts.png",
+                "height": 143
+              },
+              "compId": 397
+            }
+          ]
+        },
+        {
+          "type": "Script",
+          "props": {
+            "top": 0,
+            "right": 0,
+            "left": 0,
+            "bottom": 0,
+            "runtime": "laya.ui.Widget"
+          },
+          "compId": 12
+        },
+        {
+          "type": "Script",
+          "props": {
+            "time": 1500,
+            "label": "@node:380",
+            "runtime": "Srcipt/utils/LoadShufflingText.ts"
+          },
+          "compId": 381
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 33,
+            "x": 46,
+            "width": 104,
+            "valign": "middle",
+            "name": "vsionCode",
+            "height": 41,
+            "fontSize": 50,
+            "font": "Arial",
+            "color": "#363636",
+            "align": "center"
+          },
+          "compId": 382,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": -1,
+                "x": -2,
+                "width": 104,
+                "valign": "middle",
+                "text": "v1.0.0",
+                "name": "vsionCode",
+                "height": 41,
+                "fontSize": 55,
+                "font": "Arial",
+                "color": "#f4f4f4",
+                "align": "center"
+              },
+              "compId": 384
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "loadList": [
+    "res/UI/Start/jiazaiye.jpg",
+    "res/UI/Start/logo.png",
+    "res/UI/Icon/tubiao_3.png",
+    "res/UI/Icon/naozhong.png",
+    "res/UI/Icon/yinliao.png",
+    "res/UI/Icon/posuiicon.png",
+    "res/UI/Icon/suilie_1.png",
+    "res/UI/Load/jindutiaodi.png",
+    "res/UI/Load/jindutiaodi_1.png",
+    "UIRes1/slts.png"
+  ],
+  "loadList3D": []
+}

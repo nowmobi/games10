@@ -1,0 +1,1330 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="memory">
+		<EN>
+			<TEXT>Collect all the same cards</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Collectez toutes les mêmes cartes</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Reúne todas las cartas iguales</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Sammle alle gleichen Karten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Colleziona tutte le stesse carte</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="word">
+		<EN>
+			<TEXT>Select the emojis that matches the phrase</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Sélectionnez les émojis qui correspondent à la phrase</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Selecciona los emojis que coinciden con la frase</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Wählen Sie die Emojis aus, die dem Satz entsprechen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Seleziona gli emoji che corrispondono alla frase</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="related">
+		<EN>
+			<TEXT>Drag and drop each emoji into the related group</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Faites glisser et déposez chaque emoji dans le groupe associé</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Arrastre y suelte cada emoji en el grupo relacionado</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Ziehen Sie jedes Emoji per Drag &amp; Drop in die entsprechende Gruppe</TEXT>
+			<SIZE>-6</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Trascina e rilascia ogni emoji nel gruppo correlato</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="shadow">
+		<EN>
+			<TEXT>Drag and drop each emoji into its silhouette</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Faites glisser et déposez chaque emoji dans sa silhouette</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Arrastre y suelte cada emoji en su silueta.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Ziehen Sie jedes Emoji per Drag &amp; Drop in seine Silhouette</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Trascina e rilascia ogni emoji nella sua silhouette</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="crop">
+		<EN>
+			<TEXT>Drag and drop each emoji into another half</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Faites glisser et déposez chaque emoji dans une autre moitié</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Arrastre y suelte cada emoji en otra mitad.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Ziehen Sie jedes Emoji per Drag &amp; Drop in eine andere Hälfte</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Trascina e rilascia ogni emoji in un'altra metà</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="link">
+		<EN>
+			<TEXT>Connect related emojis from different columns</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Connectez les émojis associés à partir de différentes colonnes</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Conecta emojis relacionados de diferentes columnas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Verbinde verwandte Emojis aus verschiedenen Spalten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Collega emoji correlate da colonne diverse</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="bad_hair">
+		<EN>
+			<TEXT>Bad haircut</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Mauvaise coupe de cheveux</TEXT>
+			<SIZE>-8</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Mal corte de pelo</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Schlechter Haarschnitt</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Brutto taglio di capelli</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="instant_success">
+		<EN>
+			<TEXT>Instant success</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Succès instantané</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Éxito instantáneo</TEXT>
+			<SIZE>-8</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Sofortiger Erfolg</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Successo immediato</TEXT>
+			<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="game_candle">
+		<EN>
+			<TEXT>The game is not worth the candle</TEXT>
+			<SIZE>-10</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Le jeu n'en vaut pas la chandelle</TEXT>
+			<SIZE>-10</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>El juego no vale la pena</TEXT>
+			<SIZE>-10</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Das Spiel ist die Kerze nicht wert</TEXT>
+			<SIZE>-10</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Il gioco non vale la candela</TEXT>
+			<SIZE>-10</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="game_thrones">
+		<EN>
+			<TEXT>Game of Thrones</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Game of Thrones</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Game of Thrones</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Game of Thrones</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Game of Thrones</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="beauty_beast">
+		<EN>
+			<TEXT>Beauty and the Beast</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>La belle et la Bête</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>La bella y la bestia</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Die Schöne und das Biest</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>La bella e la bestia</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="starbucks">
+		<EN>
+			<TEXT>Starbucks</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Starbucks</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Starbucks</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Starbucks</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>La stella</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="burger_king">
+		<EN>
+			<TEXT>Burger King</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Burger King</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Rey de la hamburguesa</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Burger King</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Il re degli hamburger</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="puppy">
+		<EN>
+			<TEXT>Puppy Tenderness</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Tendresse du chiot</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Ternura de cachorro</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Zärtlichkeit bei Welpen</TEXT>
+			<SIZE>-6</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Tenerezza del cucciolo</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="love">
+		<EN>
+			<TEXT>Love at first sight</TEXT>
+			<SIZE>-8</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Coup de foudre</TEXT>
+			<SIZE>-8</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Amor a primera vista</TEXT>
+			<SIZE>-8</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Liebe auf den ersten Blick</TEXT>
+			<SIZE>-8</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Amore a prima vista</TEXT>
+			<SIZE>-8</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="black_panther">
+		<EN>
+			<TEXT>Black Panther</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Panthère noire</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>pantera negra</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Schwarzer Panther</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Pantera Nera</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="lamb">
+		<EN>
+			<TEXT>Silence of the lambs</TEXT>
+			<SIZE>-10</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Silence des agneaux</TEXT>
+			<SIZE>-10</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Silencio de los corderos</TEXT>
+			<SIZE>-10</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Schweigen der Lämmer</TEXT>
+			<SIZE>-10</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Il silenzio degli agnelli</TEXT>
+			<SIZE>-10</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="blue_blood">
+		<EN>
+			<TEXT>Blue blood</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Sang bleu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Sangre azul</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Blaues Blut</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Sangue blu</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="nemo">
+		<EN>
+			<TEXT>Finding Nemo</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Trouver Nemo</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Buscando a Nemo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Nemo finden</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Alla ricerca di Nemo</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="star_wars">
+		<EN>
+			<TEXT>Star Wars</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Guerres des étoiles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>guerra de las galaxias</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Star Wars</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Guerre stellari</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="ninja_turtles">
+		<EN>
+			<TEXT>Teenage Mutant Ninja Turtles</TEXT>
+			<SIZE>-10</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Tortues Ninja adolescentes mutantes</TEXT>
+			<SIZE>-10</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Tortugas Ninjas mutantes adolescentes</TEXT>
+			<SIZE>-10</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Teenage Mutant Ninja Turtles</TEXT>
+			<SIZE>-10</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Tartarughe Ninja adolescenti mutanti</TEXT>
+			<SIZE>-10</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="iphone">
+		<EN>
+			<TEXT>iPhone</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>iPhone</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>iPhone</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>iPhone</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>iPhone</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="word_puzzle" item_id="word_puzzle"  phrase_id="lion">
+		<EN>
+			<TEXT>Lion king</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Roi Lion</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Rey León</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>König der Löwen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Re Leone</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="demo"  phrase_id="1">
+	  <EN>
+		<TEXT>This is a demo version. Purchase the full project to access all levels.</TEXT>
+		<SIZE>0</SIZE>
+	  </EN>
+          <FR>
+		<TEXT>Ceci est une version de démonstration. Achetez le projet complet pour accéder à tous les niveaux.</TEXT>
+		<SIZE>-6</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Esta es una versión demo. Compra el proyecto completo para acceder a todos los niveles.</TEXT>
+		<SIZE>-6</SIZE>		
+	  </ES>
+          <DE>
+		<TEXT>Dies ist eine Demoversion. Kaufen Sie das vollständige Projekt, um auf alle Ebenen zuzugreifen.</TEXT>
+		<SIZE>-6</SIZE>		
+	  </DE>
+	  	<IT>
+			<TEXT>Questa è una versione demo. Acquista il progetto completo per accedere a tutti i livelli.</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+    </DYNAMIC_PHRASE> 
+    <DYNAMIC_PHRASE scene_id="game_map" item_id="level_inavailable"  phrase_id="1">
+	  <EN>
+		<TEXT>Please, pass all previous levels to play this one</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+          <FR>
+		<TEXT>SVP passez tous les niveaux précédents pour jouer à celui-ci</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Por favor, pasa todos los niveles anteriores para jugar este</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <DE>
+		<TEXT>Bitte führen Sie alle vorherigen Levels, um diese zu spielen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  	<IT>
+			<TEXT>Per favore, supera tutti i livelli precedenti per giocare a questo</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+    </DYNAMIC_PHRASE> 
+<DYNAMIC_PHRASE scene_id="test_ad" item_id="rewarded"  phrase_id="1">
+		<EN>
+			<TEXT>Rewarded ad call</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Appel publicitaire récompensé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Llamada publicitaria recompensada</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Anzeigenaufruf mit Prämie</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Chiamata pubblicitaria con premio</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="test_ad" item_id="interstitial"  phrase_id="1">
+		<EN>
+			<TEXT>Interstitial ad call</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Appel d'annonce interstitielle</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Llamada de anuncio intersticial</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Interstitial-Anzeigenaufruf</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Chiamata dell'annuncio interstitial</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="1">
+		<EN>
+			<TEXT>Purchase failed</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>L’achat n’est pas réalisé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>La compra falló</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Kauf gescheitert</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Acquisto fallito</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar modo</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Weite</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="1">
+		<EN>
+			<TEXT>Purchase is successfully completed!</TEXT>
+			<SIZE>-6</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>L’achat est réalisé!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>¡La compra fue exitosa!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Kauf erfolgreich abgeschlossen!</TEXT>
+			<SIZE>-6</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Acquisto completato con successo!</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>  
+			<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar modo</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<DE>
+			<TEXT>Weite</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="remove_ads"  phrase_id="1">
+		<EN>
+			<TEXT>Disable ads</TEXT>
+			<SIZE>0</SIZE>
+		</EN>
+		<FR>
+			<TEXT>Désactiver les publicités</TEXT>
+			<SIZE>-12</SIZE>
+		</FR>
+		<ES>
+			<TEXT>Desactivar los anuncios</TEXT>
+			<SIZE>-12</SIZE>
+		</ES>
+		<DE>
+			<TEXT>Werbungen ausschalten</TEXT>
+			<SIZE>-12</SIZE>
+		</DE>
+		<IT>
+			<TEXT>Disattiva gli annunci</TEXT>
+			<SIZE>-8</SIZE>
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="play"  phrase_id="1">
+		<EN>
+			<TEXT>Shoot</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Tirer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Schießen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Disparar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Sparare</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>Ads are not available now, try again later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Les annonces ne sont pas disponibles pour le moment, réessayez plus tard</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Derzeit sind keine Anzeigen verfügbar. Versuchen Sie es später noch einmal</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Los anuncios no están disponibles ahora, inténtelo de nuevo más tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Gli annunci non sono disponibili al momento, riprova più tardi</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_tip" item_id="game_play"  phrase_id="1">
+		<EN>
+			<TEXT>Ads are not available now,\ntry again later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Les annonces ne sont pas disponibles\npour le moment, réessayez plus tard</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Derzeit sind keine Anzeigen verfügbar.\nVersuchen Sie es später noch einmal</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Los anuncios no están disponibles ahora,\ninténtelo de nuevo más tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Gli annunci non sono disponibili\nal momento, riprova più tardi</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="1">
+		<EN>
+			<TEXT>Level Complete</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Niveau complet</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Level geschafft</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Nivel completado</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Livello completato</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="2">
+		<EN>
+			<TEXT>With Star</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Avec étoile</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Mit Stern</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Con estrella</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Con Stella</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="3">
+		<EN>
+			<TEXT>Complete in time to get a star</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Terminez à temps pour obtenir une étoile</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Rechtzeitig abschließen, um einen Stern zu erhalten</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Completo a tiempo para conseguir una estrella</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Completa in tempo per ottenere una stella</TEXT>
+			<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="4">
+		<EN>
+			<TEXT>Not unlocked yet</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Pas encore débloqué</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Noch nicht freigeschaltet</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>No desbloqueado todavía</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Non ancora sbloccato</TEXT>
+			<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="1">
+		<EN>
+			<TEXT>Great!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Super!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Großartig!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Excelente!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Grande!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="2">
+		<EN>
+			<TEXT>Very Good!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Très bien!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Sehr gut!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Muy bien!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Molto bene!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="3">
+		<EN>
+			<TEXT>Decent!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Décent!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>¡Decente!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Anständig!</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Decente!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="4">
+		<EN>
+			<TEXT>Amazing!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Incroyable!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Toll!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Asombroso!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Sorprendente!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="5">
+		<EN>
+			<TEXT>Nice!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Bon!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Hübsch!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Bonito</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Carino!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="6">
+		<EN>
+			<TEXT>All Right!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>D'accord!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>In Ordnung!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Está bien!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Va bene!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="7">
+		<EN>
+			<TEXT>Brilliant!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Brillant!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Brillant!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Brillante!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Brillante!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="8">
+		<EN>
+			<TEXT>Remarkable!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Remarquable!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Bemerkenswert!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Notable!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Notevole!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="9">
+		<EN>
+			<TEXT>Awesome!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Génial!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Eindrucksvoll!</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Impresionante!</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Eccezionale!</TEXT>
+			<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="10">
+		<EN>
+			<TEXT>Radical!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Radical!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Radikale!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Radical!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Radicale!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="11">
+		<EN>
+			<TEXT>Genius!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Génie!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Genius!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Genio!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Genio!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="complete_phrase"  phrase_id="12">
+		<EN>
+			<TEXT>Excellent!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Excellent!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Exzellent!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Excelente!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Eccellente!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="1">
+		<EN>
+			<TEXT>Ooh!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Ouh!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="2">
+		<EN>
+			<TEXT>Ahem!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Hum!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Hm!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Ejem!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Ehm!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="3">
+		<EN>
+			<TEXT>Uh-oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Oh-oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Oh-oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡UH oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Uh Oh!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="4">
+		<EN>
+			<TEXT>Oops!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Oops!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Hoppla!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Ups!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Ops!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="5">
+		<EN>
+			<TEXT>Nope!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Non!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Nein!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡No!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>No!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="6">
+		<EN>
+			<TEXT>Failed!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Échoué!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Fehlgeschlagen!</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Fallido!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Fallito!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="fail_phrase"  phrase_id="7">
+		<EN>
+			<TEXT>Oh No!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Oh non!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Ach nein!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡Oh, no!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Oh no!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="1">
+		<EN>
+			<TEXT>Level Failed</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уровень проигран</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Niveau échoué</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Level gescheitert</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Nivel fracasado</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Livello fallito</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+</MAP>

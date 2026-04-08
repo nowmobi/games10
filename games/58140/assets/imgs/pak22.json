@@ -1,0 +1,289 @@
+{
+  "frames": [
+    {
+      "filename": "instructions0.png",
+      "frame": {
+        "x": 1,
+        "y": 942,
+        "w": 616,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 616,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 616,
+        "h": 788
+      }
+    },
+    {
+      "filename": "instructions1.png",
+      "frame": {
+        "x": 1237,
+        "y": 1,
+        "w": 616,
+        "h": 789
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 616,
+        "h": 789
+      },
+      "sourceSize": {
+        "w": 616,
+        "h": 789
+      }
+    },
+    {
+      "filename": "instructions2.png",
+      "frame": {
+        "x": 619,
+        "y": 942,
+        "w": 616,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 616,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 616,
+        "h": 788
+      }
+    },
+    {
+      "filename": "instructions3.png",
+      "frame": {
+        "x": 1237,
+        "y": 792,
+        "w": 616,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 616,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 616,
+        "h": 788
+      }
+    },
+    {
+      "filename": "instructions_popup.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 623,
+        "h": 939
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 623,
+        "h": 939
+      },
+      "sourceSize": {
+        "w": 623,
+        "h": 939
+      }
+    },
+    {
+      "filename": "instructions_slides_indicator.png",
+      "frame": {
+        "x": 1348,
+        "y": 1582,
+        "w": 320,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 51
+      }
+    },
+    {
+      "filename": "instructions_slides_selected.png",
+      "frame": {
+        "x": 1348,
+        "y": 1635,
+        "w": 63,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 63,
+        "h": 26
+      }
+    },
+    {
+      "filename": "instructions_slides_unselected.png",
+      "frame": {
+        "x": 1348,
+        "y": 1663,
+        "w": 62,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 26
+      }
+    },
+    {
+      "filename": "instructions_window.png",
+      "frame": {
+        "x": 626,
+        "y": 301,
+        "w": 474,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 474,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 474,
+        "h": 206
+      }
+    },
+    {
+      "filename": "tutorial_cursor.png",
+      "frame": {
+        "x": 1237,
+        "y": 1582,
+        "w": 109,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 109,
+        "h": 136
+      }
+    },
+    {
+      "filename": "tutorial_goalitems_popup.png",
+      "frame": {
+        "x": 626,
+        "y": 1,
+        "w": 474,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 474,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 474,
+        "h": 298
+      }
+    },
+    {
+      "filename": "tutorial_goalitems_window.png",
+      "frame": {
+        "x": 626,
+        "y": 712,
+        "w": 432,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 432,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 432,
+        "h": 160
+      }
+    },
+    {
+      "filename": "tutorial_popup_identicalitems.png",
+      "frame": {
+        "x": 626,
+        "y": 509,
+        "w": 473,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 473,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 473,
+        "h": 201
+      }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "pak22.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1854,
+      "h": 1731
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:4e72d303b4a604f88a7301f6184e67a0:2d197b9cd1cbbea505607b747e0eb83f:1a3c140d29e933039d7fd16450511fe0$"
+  }
+}

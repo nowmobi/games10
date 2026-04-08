@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "313a+d+C5KJLS2SZUIzd3z"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "UI_yxjm_04",
+      "rect": [
+        0,
+        0,
+        40,
+        47
+      ],
+      "offset": [
+        -1,
+        0.5
+      ],
+      "originalSize": [
+        42,
+        48
+      ],
+      "capInsets": [
+        12,
+        12,
+        13,
+        13
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

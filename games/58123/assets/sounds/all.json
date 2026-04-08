@@ -1,0 +1,124 @@
+{
+  "resources": [
+    "all.m4a",
+    "all.ogg",
+    "all.mp3"
+  ],
+  "spritemap": {
+    "all": {
+      "start": 0,
+      "end": 379,
+      "loop": false
+    },
+    "bb": {
+      "start": 380,
+      "end": 381.0187755102041,
+      "loop": false
+    },
+    "bee": {
+      "start": 383,
+      "end": 384.4889795918367,
+      "loop": false
+    },
+    "button": {
+      "start": 386,
+      "end": 387,
+      "loop": false
+    },
+    "collect": {
+      "start": 388,
+      "end": 389.52215419501135,
+      "loop": false
+    },
+    "dot1": {
+      "start": 391,
+      "end": 391.9369841269841,
+      "loop": false
+    },
+    "dot2": {
+      "start": 393,
+      "end": 393.84099773242633,
+      "loop": false
+    },
+    "dot3": {
+      "start": 395,
+      "end": 395.74496598639456,
+      "loop": false
+    },
+    "dot4": {
+      "start": 397,
+      "end": 397.64897959183673,
+      "loop": false
+    },
+    "dot5": {
+      "start": 399,
+      "end": 399.57698412698414,
+      "loop": false
+    },
+    "dot6": {
+      "start": 401,
+      "end": 401.52897959183673,
+      "loop": false
+    },
+    "dot7": {
+      "start": 403,
+      "end": 403.4809977324263,
+      "loop": false
+    },
+    "fail": {
+      "start": 405,
+      "end": 405.0725623582766,
+      "loop": false
+    },
+    "level": {
+      "start": 407,
+      "end": 408.1,
+      "loop": false
+    },
+    "loop": {
+      "start": 410,
+      "end": 468.4620408163265,
+      "loop": true
+    },
+    "puck": {
+      "start": 470,
+      "end": 470.1567346938775,
+      "loop": false
+    },
+    "shuffle": {
+      "start": 472,
+      "end": 472.6661224489796,
+      "loop": false
+    },
+    "splash": {
+      "start": 474,
+      "end": 474.574693877551,
+      "loop": false
+    },
+    "success": {
+      "start": 476,
+      "end": 476.6673469387755,
+      "loop": false
+    },
+    "switch": {
+      "start": 478,
+      "end": 478.12,
+      "loop": false
+    },
+    "wasp": {
+      "start": 480,
+      "end": 481.43673469387755,
+      "loop": false
+    },
+    "win": {
+      "start": 483,
+      "end": 487.33632653061227,
+      "loop": false
+    },
+    "window": {
+      "start": 489,
+      "end": 490.30031746031744,
+      "loop": false
+    }
+  }
+}

@@ -1,0 +1,188 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "LanguageData",
+      {
+        "props_jiaohuan": {
+          "zh": "交换",
+          "en": "Switch"
+        },
+        "props_chexiao": {
+          "zh": "撤销",
+          "en": "Undo"
+        },
+        "props_xipai": {
+          "zh": "洗牌",
+          "en": "Shuffle"
+        },
+        "props_zhadan": {
+          "zh": "炸弹",
+          "en": "Bomb"
+        },
+        "tip_jiaohuan": {
+          "zh": "请选择两个需要交换的格子",
+          "en": " Please select two cells that need to be switched"
+        },
+        "tip_zhadan": {
+          "zh": "请选择需要炸开的格子",
+          "en": " Please select the cell that needs to be exploded"
+        },
+        "closingRemark": {
+          "zh": "这也太棒了吧！\n去跟好友炫耀一下~",
+          "en": "<color=#162A45><b>Nice trip, right?</b></color>\n<color=#162A45><b>One more time!</b></color>"
+        },
+        "reward_jiaohuan": {
+          "zh": "<br>获得<color=#FF382C> %s </color>交换</br>",
+          "en": "<br>Get<color=#FF382C> %s </color>switch</br>"
+        },
+        "reward_chexiao": {
+          "zh": "<br>获得<color=#FF382C> %s </color>撤销</br>",
+          "en": "<br>Get<color=#FF382C> %s </color>undo</br>"
+        },
+        "reward_xipai": {
+          "zh": "<br>获得<color=#FF382C> %s </color>洗牌</br>",
+          "en": "<br>Get<color=#FF382C> %s </color>Shuffle</br>"
+        },
+        "reward_zhadan": {
+          "zh": "<br>获得<color=#FF382C> %s </color>炸弹</br>",
+          "en": "<br>Get<color=#FF382C> %s </color>bomb</br>"
+        },
+        "reward_watchvideo": {
+          "zh": "通过观看视频",
+          "en": "By watching the video"
+        },
+        "reward_get": {
+          "zh": "免费获得",
+          "en": "Free"
+        },
+        "teach_tip_1": {
+          "zh": "点击连在一起的相同数字，",
+          "en": "Click on the same \nconnected numbers,"
+        },
+        "teach_tip_2": {
+          "zh": "可以合成一个更大的数字哦!",
+          "en": "You can get a bigger number!"
+        },
+        "btn_try": {
+          "zh": "试试看！",
+          "en": "Try it!"
+        },
+        "start_game": {
+          "zh": "开始游戏",
+          "en": "Start"
+        },
+        "unlock": {
+          "zh": "解锁",
+          "en": "Unlock"
+        },
+        "unlock_tomorrow": {
+          "zh": "明天可解锁",
+          "en": "Unlock\nTomorrow"
+        },
+        "share_desc": {
+          "zh": "发现一个超好玩的游戏！我能到玩%s分！",
+          "en": "发现一个超好玩的游戏！我能到玩%s分！"
+        },
+        "cur_level": {
+          "zh": "第 %s 关",
+          "en": "Level %s"
+        },
+        "goal_label": {
+          "zh": "关卡目标",
+          "en": "Level Goals"
+        },
+        "finish_stage_label": {
+          "zh": "关卡通过",
+          "en": "Level Finish"
+        },
+        "next_level": {
+          "zh": "下一关",
+          "en": "Next Level"
+        },
+        "free": {
+          "zh": "免费",
+          "en": "free"
+        },
+        "cur_score": {
+          "zh": "得分",
+          "en": "Cur Score"
+        },
+        "best_score": {
+          "zh": "最高分",
+          "en": "Best Score"
+        },
+        "game_over": {
+          "zh": "游戏结束",
+          "en": "GameOver"
+        },
+        "target_tips": {
+          "zh": "请合并到%s！",
+          "en": "target_tips"
+        },
+        "target": {
+          "zh": "目标",
+          "en": "target"
+        },
+        "close_tips": {
+          "zh": "点击继续游戏！",
+          "en": "tips_close"
+        },
+        "level_up_tips": {
+          "zh": "等级提升到%s！可以领取升级奖励了！",
+          "en": "tips_close"
+        },
+        "congratulations": {
+          "zh": "恭喜！",
+          "en": "congratulations"
+        },
+        "congratulations_level_up": {
+          "zh": "恭喜升级！",
+          "en": "congratulations_level_up"
+        },
+        "congratulations_merge": {
+          "zh": "恭喜合并到%s！",
+          "en": "congratulations_merge"
+        },
+        "watch_ad_to_get_more": {
+          "zh": "观看广告可获得更多奖励！",
+          "en": "watch_ad_to_get_more"
+        },
+        "fuhuo": {
+          "zh": "复活",
+          "en": "Respawn"
+        },
+        "no_thanks": {
+          "zh": "不，谢谢",
+          "en": "No,thanks!"
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

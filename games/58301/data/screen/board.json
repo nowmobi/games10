@@ -1,0 +1,908 @@
+{
+  "height": 768,
+  "layers": [
+    {
+      "height": 768,
+      "image": "../img/board.png",
+      "name": "tabellone",
+      "opacity": 1,
+      "type": "imagelayer",
+      "visible": true,
+      "width": 1024,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 24,
+      "name": "oggetti",
+      "objects": [
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "value": "0"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 114,
+          "x": 11,
+          "y": 519
+        },
+        {
+          "height": 27,
+          "name": "casella",
+          "properties": {
+            "value": "1"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 56,
+          "y": 572
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "2"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 102,
+          "y": 616
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "1",
+            "value": "3"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 148,
+          "y": 661
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "value": "4"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 194,
+          "y": 705
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "5"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 286,
+          "y": 705
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "6"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 377,
+          "y": 705
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "value": "8"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 560,
+          "y": 705
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "9"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 652,
+          "y": 705
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "1",
+            "value": "10"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 697,
+          "y": 661
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "value": "11"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 743,
+          "y": 616
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "12"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 789,
+          "y": 572
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "13"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 835,
+          "y": 528
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "value": "14"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 881,
+          "y": 483
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "16"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 881,
+          "y": 395
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "repeat",
+            "value": "17"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 926,
+          "y": 351
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "value": "18"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 881,
+          "y": 306
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "19"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 836,
+          "y": 262
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "20"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 789,
+          "y": 218
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "value": "21"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 743,
+          "y": 174
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "22"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 697,
+          "y": 130
+        },
+        {
+          "height": 27,
+          "name": "casella",
+          "properties": {
+            "value": "23"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 605,
+          "y": 130
+        },
+        {
+          "height": 27,
+          "name": "casella",
+          "properties": {
+            "value": "24"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 86,
+          "x": 514,
+          "y": 129
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "25"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 422,
+          "y": 129
+        },
+        {
+          "height": 26,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "26"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 331,
+          "y": 129
+        },
+        {
+          "height": 26,
+          "name": "casella",
+          "properties": {
+            "value": "27"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 238,
+          "y": 129
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "28"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 193,
+          "y": 173
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "29"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 147,
+          "y": 217
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "31"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 55,
+          "y": 306
+        },
+        {
+          "height": 35,
+          "name": "casella",
+          "properties": {
+            "rule": "repeat",
+            "value": "33"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 55,
+          "y": 395
+        },
+        {
+          "height": 34,
+          "name": "casella",
+          "properties": {
+            "value": "34"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 100,
+          "y": 439
+        },
+        {
+          "height": 34,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "35"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 91,
+          "x": 147,
+          "y": 483
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "36"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 193,
+          "y": 527
+        },
+        {
+          "height": 33,
+          "name": "casella",
+          "properties": {
+            "value": "37"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 86,
+          "x": 239,
+          "y": 571
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "value": "38"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 286,
+          "y": 615
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "39"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 86,
+          "x": 377,
+          "y": 615
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "repeat",
+            "value": "40"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 469,
+          "y": 615
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "value": "41"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 560,
+          "y": 615
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "42"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 91,
+          "x": 606,
+          "y": 571
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "43"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 652,
+          "y": 527
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "1",
+            "value": "44"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 698,
+          "y": 483
+        },
+        {
+          "height": 32,
+          "name": "casella",
+          "properties": {
+            "value": "45"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 652,
+          "y": 439
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "46"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 698,
+          "y": 395
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "value": "48"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 698,
+          "y": 306
+        },
+        {
+          "height": 34,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "49"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 652,
+          "y": 262
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "50"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 606,
+          "y": 217
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "rule": "freeze",
+            "value": "51"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 514,
+          "y": 217
+        },
+        {
+          "height": 31,
+          "name": "casella",
+          "properties": {
+            "value": "52"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 422,
+          "y": 217
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "53"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 331,
+          "y": 217
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "value": "54"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 285,
+          "y": 261
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "1",
+            "value": "55"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 239,
+          "y": 306
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "56"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 91,
+          "x": 193,
+          "y": 350
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "value": "57"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 239,
+          "y": 394
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "59"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 331,
+          "y": 483
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "58"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 286,
+          "y": 439
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "60"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 377,
+          "y": 527
+        },
+        {
+          "height": 28,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "62"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 90,
+          "x": 514,
+          "y": 483
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "63"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 468,
+          "y": 439
+        },
+        {
+          "height": 78,
+          "name": "controller",
+          "properties": {},
+          "type": "rosso",
+          "visible": true,
+          "width": 87,
+          "x": 933,
+          "y": 543
+        },
+        {
+          "height": 85,
+          "name": "message",
+          "properties": {},
+          "type": "",
+          "visible": true,
+          "width": 659,
+          "x": 183,
+          "y": 6
+        },
+        {
+          "height": 126,
+          "name": "dado",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 137,
+          "x": 895,
+          "y": 2
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "rule": "freeze",
+            "value": "7"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 87,
+          "x": 468,
+          "y": 705
+        },
+        {
+          "height": 27,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "15"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 835,
+          "y": 440
+        },
+        {
+          "height": 29,
+          "name": "casella",
+          "properties": {
+            "value": "30"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 101,
+          "y": 262
+        },
+        {
+          "height": 34,
+          "name": "casella",
+          "properties": {
+            "rule": "quiz",
+            "value": "32"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 88,
+          "x": 9,
+          "y": 351
+        },
+        {
+          "height": 30,
+          "name": "casella",
+          "properties": {
+            "value": "61"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 89,
+          "x": 468,
+          "y": 527
+        },
+        {
+          "height": 100,
+          "name": "casella",
+          "properties": {
+            "rule": "end",
+            "value": "64"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 179,
+          "x": 422,
+          "y": 306
+        },
+        {
+          "height": 138,
+          "name": "showCurrentPlayer",
+          "properties": {},
+          "type": "",
+          "visible": true,
+          "width": 145,
+          "x": 0,
+          "y": 10
+        },
+        {
+          "height": 32,
+          "name": "casella",
+          "properties": {
+            "rule": "-1",
+            "value": "47"
+          },
+          "type": "giallo",
+          "visible": true,
+          "width": 91,
+          "x": 743,
+          "y": 350
+        },
+        {
+          "height": 103,
+          "name": "but_gohome",
+          "properties": {},
+          "type": "giallo",
+          "visible": true,
+          "width": 147,
+          "x": 870,
+          "y": 655
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "width": 32,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "orientation": "orthogonal",
+  "properties": {},
+  "tileheight": 1,
+  "tilesets": [],
+  "tilewidth": 1,
+  "version": 1,
+  "width": 1024
+}

@@ -1,0 +1,3251 @@
+{
+  "paths": {
+    "0": [
+      "shangche/dongzuo/07",
+      1
+    ],
+    "1": [
+      "MainUI/icon-21",
+      1
+    ],
+    "2": [
+      "img/juice_l_3",
+      1
+    ],
+    "3": [
+      "Texture/skin/coin/jinbi07",
+      1
+    ],
+    "4": [
+      "sound/shengli",
+      0
+    ],
+    "5": [
+      "Texture/dingzi/bt_tishi",
+      1
+    ],
+    "6": [
+      "common/image/yuanjiao",
+      1
+    ],
+    "7": [
+      "sound/merge",
+      0
+    ],
+    "8": [
+      "shangche/bj06",
+      1
+    ],
+    "9": [
+      "Texture/dingzi/luo1_1",
+      1
+    ],
+    "10": [
+      "img/fruit_7",
+      1
+    ],
+    "11": [
+      "Texture/dingzi/mubankong",
+      1
+    ],
+    "12": [
+      "sound/click",
+      0
+    ],
+    "13": [
+      "img/juice_q_6",
+      1
+    ],
+    "14": [
+      "img/juice_o_4",
+      1
+    ],
+    "15": [
+      "sound/mj_giveCoin",
+      0
+    ],
+    "16": [
+      "shangche/fail/tishi",
+      1
+    ],
+    "17": [
+      "Texture/skin/coin/jinbi01",
+      1
+    ],
+    "18": [
+      "shangche/bj11",
+      1
+    ],
+    "19": [
+      "shangche/shouzhi",
+      1
+    ],
+    "20": [
+      "sound/getArea",
+      0
+    ],
+    "21": [
+      "MainUI/512",
+      1
+    ],
+    "22": [
+      "gameRes/particle/particle_texture",
+      1
+    ],
+    "23": [
+      "sound/win",
+      0
+    ],
+    "24": [
+      "sound/getNewCoin",
+      0
+    ],
+    "25": [
+      "Texture/common/xipai01",
+      1
+    ],
+    "26": [
+      "Texture/skin/coin/jinbi05",
+      1
+    ],
+    "27": [
+      "Texture/common/zhuye01",
+      1
+    ],
+    "28": [
+      "Texture/skin/coin/jinbi13",
+      1
+    ],
+    "29": [
+      "Texture/skin/coin/jinbi15",
+      1
+    ],
+    "30": [
+      "img/juice_q_5",
+      1
+    ],
+    "31": [
+      "Texture/dingzi/tiepian",
+      1
+    ],
+    "32": [
+      "Texture/effect/Light1",
+      1
+    ],
+    "33": [
+      "shangche/dongzuo/08",
+      1
+    ],
+    "34": [
+      "Texture/common/xshexiang",
+      1
+    ],
+    "35": [
+      "Texture/skin/coin/jinbi11",
+      1
+    ],
+    "36": [
+      "shangche/bj01",
+      1
+    ],
+    "37": [
+      "shangche/zuomen",
+      1
+    ],
+    "38": [
+      "Texture/skin/coin/jinbi10",
+      1
+    ],
+    "39": [
+      "img/juice_o_10",
+      1
+    ],
+    "40": [
+      "Texture/dingzi/back",
+      1
+    ],
+    "41": [
+      "Audio/clickCell",
+      0
+    ],
+    "42": [
+      "img/juice_o_9",
+      1
+    ],
+    "43": [
+      "Texture/skin/coin/jinbi03",
+      1
+    ],
+    "44": [
+      "img/juice_q_2",
+      1
+    ],
+    "45": [
+      "img/juice_o_3",
+      1
+    ],
+    "46": [
+      "Audio/in",
+      0
+    ],
+    "47": [
+      "game/yaoqinghaoyou_bg ",
+      1
+    ],
+    "48": [
+      "shangche/bj09",
+      1
+    ],
+    "49": [
+      "img/juice_l_6",
+      1
+    ],
+    "50": [
+      "img/fruit_9",
+      1
+    ],
+    "51": [
+      "Audio/out",
+      0
+    ],
+    "52": [
+      "img/fruit_3",
+      1
+    ],
+    "53": [
+      "shangche/dongzuo/04",
+      1
+    ],
+    "54": [
+      "Texture/jinbi/zhezhao",
+      1
+    ],
+    "55": [
+      "Texture/dingzi/tiepiankong",
+      1
+    ],
+    "56": [
+      "shangche/bj13",
+      1
+    ],
+    "57": [
+      "Texture/dingzi/luo1_3",
+      1
+    ],
+    "58": [
+      "shangche/bj14",
+      1
+    ],
+    "59": [
+      "img/新建项目",
+      1
+    ],
+    "60": [
+      "shangche/chezuo",
+      1
+    ],
+    "61": [
+      "MainUI/zjmbj",
+      1
+    ],
+    "62": [
+      "sound/giveCoin",
+      0
+    ],
+    "63": [
+      "sound/placeCoin",
+      0
+    ],
+    "64": [
+      "sound/chooseCoin",
+      0
+    ],
+    "65": [
+      "shangche/bj04",
+      1
+    ],
+    "66": [
+      "Texture/guide/tishi_02",
+      1
+    ],
+    "67": [
+      "Texture/dingzi/bt_chwan",
+      1
+    ],
+    "68": [
+      "Texture/skin/coin/jinbi06",
+      1
+    ],
+    "69": [
+      "img/juice_q_3",
+      1
+    ],
+    "70": [
+      "shangche/win/xiayiguan",
+      1
+    ],
+    "71": [
+      "sound/dianjicuowu",
+      0
+    ],
+    "72": [
+      "shangche/fail/ditu",
+      1
+    ],
+    "73": [
+      "Texture/skin/coin/jinbi04",
+      1
+    ],
+    "74": [
+      "shangche/your",
+      1
+    ],
+    "75": [
+      "shangche/bj07",
+      1
+    ],
+    "76": [
+      "img/fruit_5",
+      1
+    ],
+    "77": [
+      "Texture/skin/coin/jinbi08",
+      1
+    ],
+    "78": [
+      "shangche/bj03",
+      1
+    ],
+    "79": [
+      "Texture/dingzi/shouzhi",
+      1
+    ],
+    "80": [
+      "Texture/dingzi/luo1_2",
+      1
+    ],
+    "81": [
+      "sound/renewArea",
+      0
+    ],
+    "82": [
+      "shangche/dongzuo/05",
+      1
+    ],
+    "83": [
+      "sound/unlockArea",
+      0
+    ],
+    "84": [
+      "img/fruit_2",
+      1
+    ],
+    "85": [
+      "img/juice_q_7",
+      1
+    ],
+    "86": [
+      "Texture/guide/tishi_01",
+      1
+    ],
+    "87": [
+      "shangche/dongzuo/02",
+      1
+    ],
+    "88": [
+      "shangche/dongzuo/06",
+      1
+    ],
+    "89": [
+      "Texture/common/bj_01",
+      1
+    ],
+    "90": [
+      "shangche/bj12",
+      1
+    ],
+    "91": [
+      "sound/resetStart",
+      0
+    ],
+    "92": [
+      "Texture/jinbi/beijing",
+      1
+    ],
+    "93": [
+      "img/juice_q_8",
+      1
+    ],
+    "94": [
+      "Audio/win",
+      0
+    ],
+    "95": [
+      "Texture/skin/coin/jinbi16",
+      1
+    ],
+    "96": [
+      "img/juice_l_1",
+      1
+    ],
+    "97": [
+      "Texture/effect/Pieces2",
+      1
+    ],
+    "98": [
+      "shangche/fail/jixu",
+      1
+    ],
+    "99": [
+      "sound/mj_resetStart",
+      0
+    ],
+    "100": [
+      "shangche/zuozhe",
+      1
+    ],
+    "101": [
+      "shangche/bj05",
+      1
+    ],
+    "102": [
+      "shangche/bj10",
+      1
+    ],
+    "103": [
+      "game/zjzl_anniu",
+      1
+    ],
+    "104": [
+      "shangche/unlick",
+      1
+    ],
+    "105": [
+      "shangche/win/jiemian",
+      1
+    ],
+    "106": [
+      "img/juice_o_7",
+      1
+    ],
+    "107": [
+      "shangche/bj02",
+      1
+    ],
+    "108": [
+      "img/juice_l_10",
+      1
+    ],
+    "109": [
+      "Texture/skin/coin/jinbi14",
+      1
+    ],
+    "110": [
+      "img/juice_l_8",
+      1
+    ],
+    "111": [
+      "Texture/guide/Guide_Mask1",
+      1
+    ],
+    "112": [
+      "sound/bgm",
+      0
+    ],
+    "113": [
+      "img/juice_l_7",
+      1
+    ],
+    "114": [
+      "sound/shibai",
+      0
+    ],
+    "115": [
+      "shangche/fail/2",
+      1
+    ],
+    "116": [
+      "sound/tz_full",
+      0
+    ],
+    "117": [
+      "MainUI/logo",
+      1
+    ],
+    "118": [
+      "shangche/bj08",
+      1
+    ],
+    "119": [
+      "game/shiling",
+      1
+    ],
+    "120": [
+      "shangche/youmen",
+      1
+    ],
+    "121": [
+      "img/juice_l_2",
+      1
+    ],
+    "122": [
+      "img/fruit_8",
+      1
+    ],
+    "123": [
+      "game/loading_bar_1",
+      1
+    ],
+    "124": [
+      "shangche/002",
+      1
+    ],
+    "125": [
+      "Texture/dingzi/mukuai_1",
+      1
+    ],
+    "126": [
+      "Audio/hintFail",
+      0
+    ],
+    "127": [
+      "shangche/qiche",
+      1
+    ],
+    "128": [
+      "spine/jindutiao_eff",
+      1
+    ],
+    "129": [
+      "Texture/guide/Guide_Mask2",
+      1
+    ],
+    "130": [
+      "Texture/skin/coin/jinbi12",
+      1
+    ],
+    "131": [
+      "Texture/dingzi/luo1_4",
+      1
+    ],
+    "132": [
+      "sound/mj_merge",
+      0
+    ],
+    "133": [
+      "game/xiaochengxu_logo",
+      1
+    ],
+    "134": [
+      "sound/tz_giveCoin",
+      0
+    ],
+    "135": [
+      "shangche/1",
+      1
+    ],
+    "136": [
+      "MainUI/icon-22",
+      1
+    ],
+    "137": [
+      "sound/warn",
+      0
+    ],
+    "138": [
+      "img/juice_o_5",
+      1
+    ],
+    "139": [
+      "common/image/tb_04",
+      1
+    ],
+    "140": [
+      "Texture/effect/Pieces1",
+      1
+    ],
+    "141": [
+      "img/fruit_1",
+      1
+    ],
+    "142": [
+      "img/juice_l_9",
+      1
+    ],
+    "143": [
+      "Texture/jinbi/kuang",
+      1
+    ],
+    "144": [
+      "spine/jindutiao_eff",
+      7
+    ],
+    "145": [
+      "Texture/skin/coin/jinbi02",
+      1
+    ],
+    "146": [
+      "Texture/common/Icon_QuestionMark",
+      1
+    ],
+    "147": [
+      "Texture/common/Text_Background",
+      1
+    ],
+    "148": [
+      "sound/mj_placeCoin",
+      0
+    ],
+    "149": [
+      "MainUI/icon-20",
+      1
+    ],
+    "150": [
+      "img/fruit_10",
+      1
+    ],
+    "151": [
+      "shangche/bj16",
+      1
+    ],
+    "152": [
+      "shangche/dongzuo/01",
+      1
+    ],
+    "153": [
+      "Texture/jinbi/kejiesuo",
+      1
+    ],
+    "154": [
+      "Texture/guide/Guide_Mask3",
+      1
+    ],
+    "155": [
+      "shangche/bj15",
+      1
+    ],
+    "156": [
+      "shangche/dongzuo/03",
+      1
+    ],
+    "157": [
+      "Texture/jinbi/ship",
+      1
+    ],
+    "158": [
+      "sound/reset",
+      0
+    ],
+    "159": [
+      "img/fruit_11",
+      1
+    ],
+    "160": [
+      "img/juice_o_6",
+      1
+    ],
+    "161": [
+      "img/juice_q_9",
+      1
+    ],
+    "162": [
+      "img/juice_l_4",
+      1
+    ],
+    "163": [
+      "img/fruit_6",
+      1
+    ],
+    "164": [
+      "img/juice_o_8",
+      1
+    ],
+    "165": [
+      "img/juice_q_1",
+      1
+    ],
+    "166": [
+      "img/fruit_4",
+      1
+    ],
+    "167": [
+      "img/juice_q_4",
+      1
+    ],
+    "168": [
+      "img/juice_o_1",
+      1
+    ],
+    "169": [
+      "sound/shangche",
+      0
+    ],
+    "170": [
+      "Texture/dingzi/bjj",
+      1
+    ],
+    "171": [
+      "Audio/unlock",
+      0
+    ],
+    "172": [
+      "Texture/common/fapai01",
+      1
+    ],
+    "173": [
+      "img/juice_q_10",
+      1
+    ],
+    "174": [
+      "Texture/common/Number",
+      1
+    ],
+    "175": [
+      "Texture/skin/coin/jinbi09",
+      1
+    ],
+    "176": [
+      "sound/merge10",
+      0
+    ],
+    "177": [
+      "Texture/guide/tishi_03",
+      1
+    ],
+    "178": [
+      "img/juice_o_2",
+      1
+    ],
+    "179": [
+      "shangche/001",
+      1
+    ],
+    "180": [
+      "img/juice_l_5",
+      1
+    ],
+    "181": [
+      "shangche/shouzhi",
+      2,
+      1
+    ],
+    "182": [
+      "shangche/bj03",
+      2,
+      1
+    ],
+    "183": [
+      "Texture/dingzi/back",
+      2,
+      1
+    ],
+    "185": [
+      "gameRes/prefabs/level/Level_6",
+      5
+    ],
+    "186": [
+      "Texture/common/Icon_QuestionMark",
+      2,
+      1
+    ],
+    "187": [
+      "Texture/skin/coin/jinbi08",
+      2,
+      1
+    ],
+    "188": [
+      "game/xiaochengxu_logo",
+      2,
+      1
+    ],
+    "189": [
+      "Texture/common/xipai01",
+      2,
+      1
+    ],
+    "191": [
+      "game/loading_bar_1",
+      2,
+      1
+    ],
+    "192": [
+      "img/juice_l_10",
+      2,
+      1
+    ],
+    "193": [
+      "shangche/unlick",
+      2,
+      1
+    ],
+    "194": [
+      "prefab/GiftView",
+      5
+    ],
+    "195": [
+      "Texture/common/fapai01",
+      2,
+      1
+    ],
+    "196": [
+      "Texture/skin/coin/jinbi02",
+      2,
+      1
+    ],
+    "197": [
+      "prefab/prefab/coin/coin",
+      5
+    ],
+    "198": [
+      "gameRes/prefabs/level/Level_3",
+      5
+    ],
+    "199": [
+      "shangche/youmen",
+      2,
+      1
+    ],
+    "200": [
+      "MainUI/logo",
+      2,
+      1
+    ],
+    "201": [
+      "img/juice_q_6",
+      2,
+      1
+    ],
+    "202": [
+      "animation/unlocklight",
+      3
+    ],
+    "203": [
+      "Texture/skin/coin/jinbi11",
+      2,
+      1
+    ],
+    "205": [
+      "prefab/prefab/coin/cell-item",
+      5
+    ],
+    "206": [
+      "shangche/bj02",
+      2,
+      1
+    ],
+    "207": [
+      "Texture/guide/tishi_03",
+      2,
+      1
+    ],
+    "208": [
+      "img/juice_l_6",
+      2,
+      1
+    ],
+    "209": [
+      "Texture/dingzi/shouzhi",
+      2,
+      1
+    ],
+    "210": [
+      "img/fruit_9",
+      2,
+      1
+    ],
+    "211": [
+      "Texture/dingzi/luo1_1",
+      2,
+      1
+    ],
+    "212": [
+      "shangche/zuomen",
+      2,
+      1
+    ],
+    "213": [
+      "animation/Merge",
+      3
+    ],
+    "214": [
+      "gameRes/prefabs/level/Level_5",
+      5
+    ],
+    "216": [
+      "Texture/skin/coin/jinbi04",
+      2,
+      1
+    ],
+    "217": [
+      "img/fruit_8",
+      2,
+      1
+    ],
+    "218": [
+      "shangche/prefab/CaiDai",
+      5
+    ],
+    "219": [
+      "MainUI/icon-21",
+      2,
+      1
+    ],
+    "220": [
+      "img/fruit_6",
+      2,
+      1
+    ],
+    "221": [
+      "shangche/fail/tishi",
+      2,
+      1
+    ],
+    "222": [
+      "gameRes/prefabs/level/Level_7",
+      5
+    ],
+    "224": [
+      "gameRes/prefabs/common/Tips",
+      5
+    ],
+    "225": [
+      "shangche/bj13",
+      2,
+      1
+    ],
+    "226": [
+      "Texture/jinbi/beijing",
+      2,
+      1
+    ],
+    "227": [
+      "Texture/skin/coin/jinbi01",
+      2,
+      1
+    ],
+    "228": [
+      "shangche/002",
+      2,
+      1
+    ],
+    "232": [
+      "shangche/bj11",
+      2,
+      1
+    ],
+    "233": [
+      "img/juice_o_6",
+      2,
+      1
+    ],
+    "234": [
+      "img/fruit_10",
+      2,
+      1
+    ],
+    "235": [
+      "img/juice_l_1",
+      2,
+      1
+    ],
+    "236": [
+      "shangche/dongzuo/03",
+      2,
+      1
+    ],
+    "237": [
+      "img/fruit_5",
+      2,
+      1
+    ],
+    "238": [
+      "prefab/prefab/coin/cell-layer",
+      5
+    ],
+    "239": [
+      "img/juice_o_7",
+      2,
+      1
+    ],
+    "240": [
+      "animation/LockFeedback",
+      3
+    ],
+    "241": [
+      "img/juice_l_9",
+      2,
+      1
+    ],
+    "242": [
+      "gameRes/prefabs/common/CaiDai",
+      5
+    ],
+    "244": [
+      "gameRes/prefabs/level/Level_2",
+      5
+    ],
+    "245": [
+      "img/fruit_7",
+      2,
+      1
+    ],
+    "246": [
+      "gameRes/prefabs/level/Level_4",
+      5
+    ],
+    "247": [
+      "gameRes/animations/shake",
+      3
+    ],
+    "249": [
+      "Texture/dingzi/bjj",
+      2,
+      1
+    ],
+    "250": [
+      "Texture/dingzi/luo1_2",
+      2,
+      1
+    ],
+    "251": [
+      "MainUI/icon-20",
+      2,
+      1
+    ],
+    "252": [
+      "img/fruit_11",
+      2,
+      1
+    ],
+    "253": [
+      "Texture/guide/Guide_Mask3",
+      2,
+      1
+    ],
+    "254": [
+      "shangche/prefab/guanqia",
+      5
+    ],
+    "255": [
+      "shangche/bj04",
+      2,
+      1
+    ],
+    "256": [
+      "Texture/common/Number",
+      2,
+      1
+    ],
+    "257": [
+      "Texture/effect/Pieces1",
+      2,
+      1
+    ],
+    "258": [
+      "shangche/prefab/tile",
+      5
+    ],
+    "259": [
+      "shangche/dongzuo/01",
+      2,
+      1
+    ],
+    "260": [
+      "Texture/effect/Light1",
+      2,
+      1
+    ],
+    "261": [
+      "img/juice_o_9",
+      2,
+      1
+    ],
+    "262": [
+      "Texture/jinbi/ship",
+      2,
+      1
+    ],
+    "263": [
+      "shangche/fail/ditu",
+      2,
+      1
+    ],
+    "265": [
+      "shangche/bj14",
+      2,
+      1
+    ],
+    "266": [
+      "animation/CoinShake",
+      3
+    ],
+    "267": [
+      "img/juice_o_1",
+      2,
+      1
+    ],
+    "268": [
+      "img/juice_l_8",
+      2,
+      1
+    ],
+    "269": [
+      "img/新建项目",
+      2,
+      1
+    ],
+    "271": [
+      "Texture/dingzi/bt_tishi",
+      2,
+      1
+    ],
+    "272": [
+      "spine/jindutiao_eff",
+      2,
+      1
+    ],
+    "273": [
+      "img/juice_l_5",
+      2,
+      1
+    ],
+    "274": [
+      "shangche/prefab/car",
+      5
+    ],
+    "275": [
+      "shangche/bj06",
+      2,
+      1
+    ],
+    "277": [
+      "animation/GuideHand",
+      3
+    ],
+    "279": [
+      "Texture/guide/Guide_Mask2",
+      2,
+      1
+    ],
+    "280": [
+      "prefab/RewardView",
+      5
+    ],
+    "281": [
+      "common/image/tb_04",
+      2,
+      1
+    ],
+    "282": [
+      "gameRes/animations/scale",
+      3
+    ],
+    "283": [
+      "shangche/dongzuo/07",
+      2,
+      1
+    ],
+    "284": [
+      "shangche/dongzuo/08",
+      2,
+      1
+    ],
+    "285": [
+      "Texture/skin/coin/jinbi16",
+      2,
+      1
+    ],
+    "286": [
+      "img/juice_l_7",
+      2,
+      1
+    ],
+    "287": [
+      "Texture/jinbi/kuang",
+      2,
+      1
+    ],
+    "288": [
+      "Texture/jinbi/zhezhao",
+      2,
+      1
+    ],
+    "289": [
+      "shangche/001",
+      2,
+      1
+    ],
+    "290": [
+      "img/juice_o_2",
+      2,
+      1
+    ],
+    "291": [
+      "MainUI/icon-22",
+      2,
+      1
+    ],
+    "292": [
+      "spine/jindutiao_eff",
+      6
+    ],
+    "293": [
+      "prefab/prefab/game-layer",
+      5
+    ],
+    "294": [
+      "prefab/OverView",
+      5
+    ],
+    "295": [
+      "img/juice_q_1",
+      2,
+      1
+    ],
+    "296": [
+      "shangche/bj08",
+      2,
+      1
+    ],
+    "298": [
+      "Texture/common/xshexiang",
+      2,
+      1
+    ],
+    "299": [
+      "img/juice_q_5",
+      2,
+      1
+    ],
+    "301": [
+      "shangche/win/jiemian",
+      2,
+      1
+    ],
+    "302": [
+      "img/juice_l_2",
+      2,
+      1
+    ],
+    "303": [
+      "img/juice_q_3",
+      2,
+      1
+    ],
+    "304": [
+      "Texture/skin/coin/jinbi05",
+      2,
+      1
+    ],
+    "306": [
+      "Texture/skin/coin/jinbi03",
+      2,
+      1
+    ],
+    "307": [
+      "Texture/jinbi/kejiesuo",
+      2,
+      1
+    ],
+    "309": [
+      "game/zjzl_anniu",
+      2,
+      1
+    ],
+    "310": [
+      "Texture/skin/coin/jinbi13",
+      2,
+      1
+    ],
+    "311": [
+      "img/fruit_3",
+      2,
+      1
+    ],
+    "312": [
+      "game/shiling",
+      2,
+      1
+    ],
+    "314": [
+      "img/fruit_2",
+      2,
+      1
+    ],
+    "315": [
+      "gameRes/prefabs/panel/Game",
+      5
+    ],
+    "317": [
+      "img/juice_q_8",
+      2,
+      1
+    ],
+    "318": [
+      "shangche/win/xiayiguan",
+      2,
+      1
+    ],
+    "319": [
+      "MainUI/512",
+      2,
+      1
+    ],
+    "320": [
+      "Texture/guide/tishi_02",
+      2,
+      1
+    ],
+    "321": [
+      "img/juice_l_4",
+      2,
+      1
+    ],
+    "322": [
+      "Texture/dingzi/tiepiankong",
+      2,
+      1
+    ],
+    "323": [
+      "img/juice_q_10",
+      2,
+      1
+    ],
+    "324": [
+      "Texture/dingzi/mubankong",
+      2,
+      1
+    ],
+    "326": [
+      "shangche/bj01",
+      2,
+      1
+    ],
+    "328": [
+      "gameRes/prefabs/level/Level_10",
+      5
+    ],
+    "330": [
+      "prefab/waterMelonNode",
+      5
+    ],
+    "331": [
+      "shangche/bj15",
+      2,
+      1
+    ],
+    "332": [
+      "img/juice_l_3",
+      2,
+      1
+    ],
+    "333": [
+      "Texture/skin/coin/jinbi12",
+      2,
+      1
+    ],
+    "334": [
+      "Texture/skin/coin/jinbi15",
+      2,
+      1
+    ],
+    "335": [
+      "img/juice_q_2",
+      2,
+      1
+    ],
+    "336": [
+      "common/image/yuanjiao",
+      2,
+      1
+    ],
+    "337": [
+      "Texture/guide/tishi_01",
+      2,
+      1
+    ],
+    "338": [
+      "img/juice_q_7",
+      2,
+      1
+    ],
+    "339": [
+      "Texture/guide/Guide_Mask1",
+      2,
+      1
+    ],
+    "340": [
+      "shangche/prefab/people",
+      5
+    ],
+    "341": [
+      "img/juice_o_3",
+      2,
+      1
+    ],
+    "342": [
+      "shangche/bj05",
+      2,
+      1
+    ],
+    "343": [
+      "prefab/prefab/light1",
+      5
+    ],
+    "344": [
+      "prefab/Furit",
+      5
+    ],
+    "345": [
+      "shangche/dongzuo/05",
+      2,
+      1
+    ],
+    "346": [
+      "Texture/effect/Pieces2",
+      2,
+      1
+    ],
+    "347": [
+      "shangche/your",
+      2,
+      1
+    ],
+    "348": [
+      "Texture/common/Text_Background",
+      2,
+      1
+    ],
+    "349": [
+      "Texture/skin/coin/jinbi14",
+      2,
+      1
+    ],
+    "350": [
+      "Texture/dingzi/bt_chwan",
+      2,
+      1
+    ],
+    "351": [
+      "shangche/bj09",
+      2,
+      1
+    ],
+    "354": [
+      "shangche/zuozhe",
+      2,
+      1
+    ],
+    "355": [
+      "shangche/fail/2",
+      2,
+      1
+    ],
+    "357": [
+      "shangche/donghua/idle",
+      3
+    ],
+    "358": [
+      "shangche/fail/jixu",
+      2,
+      1
+    ],
+    "359": [
+      "Texture/dingzi/tiepian",
+      2,
+      1
+    ],
+    "360": [
+      "gameRes/prefabs/level/Level_9",
+      5
+    ],
+    "361": [
+      "img/juice_o_5",
+      2,
+      1
+    ],
+    "362": [
+      "shangche/bj16",
+      2,
+      1
+    ],
+    "363": [
+      "Texture/common/bj_01",
+      2,
+      1
+    ],
+    "364": [
+      "gameRes/animations/finger",
+      3
+    ],
+    "365": [
+      "gameRes/animations/rotate",
+      3
+    ],
+    "366": [
+      "gameRes/prefabs/level/Level_1",
+      5
+    ],
+    "368": [
+      "shangche/dongzuo/02",
+      2,
+      1
+    ],
+    "369": [
+      "img/fruit_4",
+      2,
+      1
+    ],
+    "370": [
+      "prefab/prefab/light2",
+      5
+    ],
+    "371": [
+      "MainUI/zjmbj",
+      2,
+      1
+    ],
+    "372": [
+      "shangche/donghua/walk",
+      3
+    ],
+    "373": [
+      "prefab/ReviveView",
+      5
+    ],
+    "374": [
+      "Texture/skin/coin/jinbi10",
+      2,
+      1
+    ],
+    "375": [
+      "gameRes/config/HintConfig",
+      4
+    ],
+    "376": [
+      "prefab/prefab/guide-node",
+      5
+    ],
+    "377": [
+      "img/juice_o_8",
+      2,
+      1
+    ],
+    "379": [
+      "prefab/prefab/light3",
+      5
+    ],
+    "380": [
+      "prefab/juice",
+      5
+    ],
+    "381": [
+      "gameRes/particle/particle_texture",
+      2,
+      1
+    ],
+    "382": [
+      "gameRes/prefabs/level/Level_8",
+      5
+    ],
+    "383": [
+      "shangche/bj07",
+      2,
+      1
+    ],
+    "384": [
+      "img/juice_q_9",
+      2,
+      1
+    ],
+    "385": [
+      "shangche/bj10",
+      2,
+      1
+    ],
+    "386": [
+      "game/yaoqinghaoyou_bg ",
+      2,
+      1
+    ],
+    "387": [
+      "img/juice_o_10",
+      2,
+      1
+    ],
+    "390": [
+      "shangche/dongzuo/06",
+      2,
+      1
+    ],
+    "391": [
+      "shangche/prefab/guide-click",
+      5
+    ],
+    "392": [
+      "shangche/dongzuo/04",
+      2,
+      1
+    ],
+    "394": [
+      "Texture/skin/coin/jinbi06",
+      2,
+      1
+    ],
+    "395": [
+      "Texture/common/zhuye01",
+      2,
+      1
+    ],
+    "396": [
+      "prefab/PassView",
+      5
+    ],
+    "397": [
+      "img/fruit_1",
+      2,
+      1
+    ],
+    "398": [
+      "prefab/prefab/Firework",
+      5
+    ],
+    "399": [
+      "img/juice_q_4",
+      2,
+      1
+    ],
+    "400": [
+      "img/juice_o_4",
+      2,
+      1
+    ],
+    "401": [
+      "shangche/qiche",
+      2,
+      1
+    ],
+    "402": [
+      "Texture/skin/coin/jinbi07",
+      2,
+      1
+    ],
+    "403": [
+      "shangche/1",
+      2,
+      1
+    ],
+    "404": [
+      "Texture/dingzi/mukuai_1",
+      2,
+      1
+    ],
+    "405": [
+      "shangche/chezuo",
+      2,
+      1
+    ],
+    "406": [
+      "shangche/bj12",
+      2,
+      1
+    ],
+    "407": [
+      "Texture/dingzi/luo1_4",
+      2,
+      1
+    ],
+    "408": [
+      "Texture/skin/coin/jinbi09",
+      2,
+      1
+    ],
+    "409": [
+      "Texture/dingzi/luo1_3",
+      2,
+      1
+    ]
+  },
+  "types": [
+    "cc.AudioClip",
+    "cc.Texture2D",
+    "cc.SpriteFrame",
+    "cc.AnimationClip",
+    "cc.JsonAsset",
+    "cc.Prefab",
+    "sp.SkeletonData",
+    "cc.Asset"
+  ],
+  "uuids": [
+    "07WWRaKspDlrjVmx8htvF6",
+    "08h4OhT3hEGJyCpezs7nPw",
+    "0944WAauBHTI9rrl9IVg9m",
+    "0cOtZKmk9C9LxnvM2X+eVQ",
+    "0cjZ0moflJBa0miFmONDly",
+    "11UIvtC3NK+afjfPOAMe9S",
+    "14xwIknM9EiawpTsUhkzAb",
+    "141UX0MylIO4lOi5jxRW0/",
+    "1438duVtdKnrIZKw4xwvvc",
+    "154de4f47",
+    "160z6r6ZlL1JNJhcssttSb",
+    "18O4vi1GVD+oB9YCYTq/8t",
+    "18jrlgfqdAxqhQjjdWujIt",
+    "186nuNoaVBE6l+UDH7Zj5X",
+    "19HiuBPd9NvpU0cXoEzAkr",
+    "19NjO++UpEM7aIK5zbXzwE",
+    "1a+C47Y/VExpotIkNUhcue",
+    "1ba196da9",
+    "1b1L/yKN5MdqqHRwF3R+wi",
+    "1ePAjkkBtEKqPK+/A6FN9A",
+    "21vcqBa89AnJ8CScdgTyEI",
+    "22GG5SU5tIt4va747WeKqj",
+    "22GvaAButGN5+mMsJ2v5PQ",
+    "22mSnEb69C84fniGpYk4pr",
+    "24KJMkaINLoLI/tvFoHJhY",
+    "25RTuq/25Nfb8fFuL3D/Lq",
+    "25UdHevEZDtan/wsSuBBvp",
+    "27OBPprZ5J0L6jpKuFxsq3",
+    "28fNMrZdFGL4+OKESiiBXK",
+    "2bkDZDM4xBza4hVZEaymxh",
+    "2bkPZPqoJHzpm5Q8jOecsX",
+    "2dUxXwN6pE4YTYpWOzeqSF",
+    "30DP+exf9DcbW+a3a+y2uF",
+    "32Gr6SOklOL7sohjPAYCDL",
+    "34tSEydxhPqp+yGl28P6zP",
+    "348t7PlGlBUIoWhmJPn+AS",
+    "36UJJUtI9DoZK+nJLA4SK6",
+    "37j6+r4ItF8qz1VkeHJHOU",
+    "39uYHgqtZDTJuSxEGEu/+V",
+    "3afoyv+MJDuK6hkF3XGezi",
+    "3bP0fIpFpGgoPUCFJUS25a",
+    "3buxbmQXlGDYiXxzwGoNpY",
+    "3b+VMKh2pG3bhlIcWhVrhb",
+    "3c3qpKIxRNCrDAKqc0c+Iz",
+    "3eZgvfNtlCkqn8Ys9fWrUT",
+    "3e/U4mmDlIZ72IaxmaHoSE",
+    "41mW201aNAxLkFQ6sRc9NA",
+    "41tJOBrVlAibKH2RlfCAuv",
+    "43HmKKzl9DJqKrtnZ+sjDs",
+    "458nTBMR9Fsq5VYb/997ia",
+    "46868FMBlJAbkRrIqgmTN5",
+    "4azwHUB9hCt5T662pUAuKo",
+    "4bHTKo8ipIgIh4VHDbDg+t",
+    "4dgiVTILZIu4+kPMvnruO6",
+    "4fnab7oZlMSoNGw+uKzltN",
+    "4fzJbyaf5HrqxkQfJmEO6f",
+    "506n5Ds9JIBrhWtR0dXVNs",
+    "51dzDjKBNA5YO0OUFRQG4b",
+    "56y5TclgBMrb6VRrAQ2NHh",
+    "5cojKf05VG9o5aBBqiHE7A",
+    "5ehrXY4lpLZIefotXPydLA",
+    "60RjxOrXVBM5hUhyLEJZnF",
+    "60Z4OChPBPzIkCfnGRCDQZ",
+    "614AqBT3lIR7hX1q7w1sxb",
+    "62NzB/sDRB/66TuWsBrlzg",
+    "64URN3ZuJI+Z29K51qxchY",
+    "68WUQ0E5pKP78B2yXqiYB+",
+    "6aAkx+uFVC7JV09djvKxld",
+    "6c1z5wz8xHSY6ozRcA60YS",
+    "6euvyF6B1JzIksP4kxQadh",
+    "6fD/OUUgRA3rlmCLH5NNKB",
+    "70eYman0lEqoGllGC3hSG/",
+    "71zoIAY/ZCMZOK61dxre81",
+    "71/7xX2MhPo6IaCO4WFFo8",
+    "76fcaqXpFJ2oKY2PAscTm3",
+    "76/KMxrUZPHIenBSexOvWu",
+    "77Mzs7v+BOLL1ezSFW8GpL",
+    "7755N/gFBD46xMeYM3nFem",
+    "79NQszgLFCSIUIlsyqzyYT",
+    "7aXZl6fzdDE4MhgaGZiKBU",
+    "7b3EO9Fm9Mk6pArgtEgewn",
+    "7dmykKwk1I6KPtxWmabsE1",
+    "7dsUyOFhRAU6gPlfRO0xA0",
+    "7eh6zDM2RK5arCnPWRmyVR",
+    "7eiH9l64tK7JSi/8TBh0Lo",
+    "7ex7fy0U1GMJ8GYLGxikeF",
+    "7f0G5Ksu1DsIhy8T2TRckq",
+    "80tMaZBCtH3oARhEo23TnM",
+    "82R/adkupMKKzwzoPZVBU7",
+    "83m9SR14NJcY5Kzfbr/Olh",
+    "842VH5zaVEG5PS0/4fIJYE",
+    "88Q4ZS2vdGY4tafJSbNNHZ",
+    "88wGI7ajpDl71hxLHHEcPi",
+    "89yLCVmH9IB632c+anGDTR",
+    "8dNm9dhJdPlJxi5vjVGmOf",
+    "8ew5dWh9dMLqqkB2bROVb1",
+    "8fKvnMSdpOepq2hnzajHIx",
+    "93JlJyfhRAz6iixDBIoS+G",
+    "935usMhilNJK+Pcb8S/IVD",
+    "97VZ1hwgJD8oUh5Ih6h5NB",
+    "97r9fg6lpL24AL2EjoZvpu",
+    "98BDRzuGVDNKXDDTZyjWzg",
+    "98ThVs45tO9K+DyJY3x/jp",
+    "98VhQy/uJK+725/SMKKCP8",
+    "98vKecc8tMj6kPowfWGvcU",
+    "98/0iaxkpLII96vWfILrNt",
+    "9cL6l7XUhHJI77bTDRvSeZ",
+    "9ccGcCyHVCfKKCWrZxw1Zf",
+    "9c8GklsadJvrDv4Mktv8le",
+    "9dHOobFnVHX4uzOIsfgG4E",
+    "9d5CWAJUlIl7MCBIGqPv5r",
+    "a0JADq+atGFrFW8gWsl71K",
+    "a0etIYoCFOA4s6MimRmf2m",
+    "a1L0EkMNNDm6a9V7OYKPbQ",
+    "a1sz1ZssFNjq6v0Kdl66mr",
+    "a3H6jUdzZL573twpq+CMnl",
+    "a6+q48LplKuYiiZyRyrOhJ",
+    "a8MXIRAzdG4KXagViH24Jm",
+    "a8mpH4vPhMI44YIPd9yS08",
+    "a8tGLzPGhFd7ZC2RCTFBJQ",
+    "aaAv0mipRL66hLQvyOA4HO",
+    "abwKVL3alI2IbSSyUQyRIP",
+    "ab6hi5LvpEk6zRKah8PYM9",
+    "acUBtHwpVO452FK0ak4SHJ",
+    "adx5seijdIAZ0M5ETXPx4I",
+    "ad4+A67o1FXrefq/XcSTmu",
+    "b18mGmcPZCzJQ4Knc2mcm1",
+    "b2GrUVyZNAxqAYNvtQCw5B",
+    "b2yMQfr8lAU41dq4lbIP7h",
+    "b4udQlcaVIgrFC2TUbiRfL",
+    "b5EEcTtrZPJrMVIir0zEVY",
+    "b5r+HO6rdC5Y7gYo/4BLKi",
+    "b6GJxeQt1DqJgJ4uIk/I+p",
+    "b7IynwlcxINaq1cXmnmNI3",
+    "b8zT7zAiNACJ0Q0vX/6ZqG",
+    "bbR1w9M61Lcr/vIYTw00ka",
+    "bdn+yxeB5DNKBiAigb8GDX",
+    "betE4dONZEEKarlTJhZB3v",
+    "be3dm3JdVMjb7tlmWh23XM",
+    "c0/acGWeREA6q7sS/4jIwT",
+    "c11JDNggtJ2YtoxMFV33VZ",
+    "c2HrYMUcZP/LXHA0XsqXCT",
+    "c4HvESgf9L57wkc7YFGzFl",
+    "c5ss1GmrhEIrXGp9dHTS73",
+    "c6u4m2I0dPhKjRjeWTtFVa",
+    "c66FptxUlAt6ScSA3/BTZy",
+    "c7kJVb4kNNxoGQv5v5VKpo",
+    "c8Rh9vbcdOJZJTVlwiZgPe",
+    "c9djxidGxB949kH5Ze56H1",
+    "ca6QE0x7pLJJrqddV/hpC5",
+    "ca6WVLLGlHw5kVk+8qx+jD",
+    "cdBJv5YHFOoK/pz1Ncv0Uq",
+    "cdZVAoKGBAcJi8fp8nVcju",
+    "cev3Nj59hFbJJpqV0K+sdx",
+    "d2IbyiL55Nu6ktTR4Irz1g",
+    "d27bqI8OpKjahcE4w2JaIY",
+    "d32C/zgxFOJagL7A6rOcy6",
+    "d4kAWabOZOvLaZCeMcbWcb",
+    "d6UqV7FrlNYqLm9HCfVObz",
+    "d8vjO4hsFM+a9Dyy6qA+ii",
+    "d9ZxnXPCZLk4G9HxqodqD1",
+    "dacaFVm7NE057QWWV0i54H",
+    "dc1Tu/UJFLp7bAAQ6wJf32",
+    "ddvMgkthtHvpP+2jb4O9Wn",
+    "e209xSp2dJVbCRYxaQgWcw",
+    "e3KwB9qHhKjLyB8TnwkuXm",
+    "e3VE2zqHtLbqUgN4RHLKqy",
+    "e6uSUtTclFMaNpDeKT0B06",
+    "ea3Q6KKFBONKF1n8ulQ/wt",
+    "ebD2WhhKxAl5EEAd7cahYc",
+    "ecq+C8Z7dIXqmlB6fHR42O",
+    "ectBs2xGtPlaBC8kNFCWn7",
+    "efwB/PoLRFA52zquOFotzH",
+    "ef5ydC6vJHHr9gZYuAPzMT",
+    "f0KedTD9VEtLnftxzAEWM5",
+    "f4T0AeaKBAa5sFiKS4vKfU",
+    "f6kyEqW99CxbX8IcKUEoDl",
+    "f73hXDLBFOjqG7YXEa/EWN",
+    "f8C+hA0vhPdZ4y1BIOMJTy",
+    "f8uc9h1u9AiphygdlBNKhO",
+    "ffDLhcA+JHQK3cj2+Vi6hk",
+    "00BJbnQWVPY7NjIg+WzBA1",
+    "00C2mjvCxAib67O5gfu+tF",
+    "009ASE129MzIW2FBEjORqS",
+    "01BXzg3btEbJoCdibmSjch",
+    "01CVqAFFhGCJAHqnec6E4Z",
+    "049Y3dWlNDZp6xnkTf68OD",
+    "06CXUpCHlLDKQD8unz7JCx",
+    "08e6FdaXdDgrq81ItNNYSO",
+    "093ZoHq3VGAK2ll6elXv1B",
+    "0cSFfzbSFKb7z0+3htQRqU",
+    "0djedcaepG3qshngy3Xx6/",
+    "0eG/vGjDVK76UyjaeCUjEz",
+    "0esX3Ru6FFK5CqOlkZtmVH",
+    "10e7Rx9MJE24Zr7bXauX1q",
+    "12um5EZb5AgpIPu+qp0xIt",
+    "13H40J+lJHSZ5MQa74E1g2",
+    "143qOsVyZFTKhXNFx8IHOT",
+    "15LRbxmRNAL49fsFITg+2g",
+    "1a179REc9Orrws9ONMF7by",
+    "1a7cP+wBZLd5LQ9xhcfhKH",
+    "1bNYXJXr5EAIFBEaDlQSUz",
+    "1bziRT7qFEaKoRwmFJfgWT",
+    "1dRlGDH4RMT7UTuIDMiN80",
+    "1ehR7A7WhOGIRKxS8FuBP1",
+    "1epqbEedxJQ6ek93vqqt7/",
+    "1evs1XanhO34ylOndI2tUK",
+    "20Gn5/+x5N75TclAVsUMXK",
+    "223uGE9kxD/IUvwTZFr5xE",
+    "23Le4PkcNHxr2Le87KMHCY",
+    "24Q50d1nxOTIsryfdCkj3F",
+    "24mXxUcshCdJp/PrmTxsvF",
+    "28RnoQLvFM5ae0tP5/oh1w",
+    "28b4o8httNaIYounDLUHZE",
+    "29gBk7pGhIc5SXGgCiL/gF",
+    "2aGWELNLdLHp6L5zqIOryD",
+    "2dKGaZwuFBSY0uHNNLl+Qx",
+    "2fVb81G4dJq7mcpItbG1Bs",
+    "31V+B53QhKka6AdQqGr41g",
+    "32GKxh9F5KQoaoqLE5ocOW",
+    "32wgF19G1ILKxiJQH9zOWR",
+    "32y5lw759HCY/+YHXbemdZ",
+    "33dt0hpl1E64d7qlAr/HVO",
+    "34Zt0GeYFKebxrD1gtbOkR",
+    "34zurAb+1DL5+HUR0j3sN3",
+    "36B5MZ/7JO2otnzSdxz55u",
+    "36WGlvNa5Ok4h9ccGSr1j1",
+    "37INuNU75FE6JKsc7hqmrz",
+    "37pxPSijxMs678NqOzVheI",
+    "37umIKIwNJKawH3x1oEtoE",
+    "38wbnrKi5CxbViWJiFVkKs",
+    "39DzpN5WZOhY3hkccOAhHP",
+    "3aV5xaDDJKw6X2ZLG19aeg",
+    "3bPBQmFvJEa5Lckv6TJHFy",
+    "3c6V/5GqdBf5septH/X4f9",
+    "3c+cOCUIxDv64ZdBIrXPUj",
+    "3eDD+JL6pP0LUbK2gZEKte",
+    "3fAaEH9JROSZuDBHiLMqfk",
+    "40EasOq8VKIIxY2u/9oF2e",
+    "419p59ZuBLk4oo+tEq8JoH",
+    "42Ey2xDgRKioqxiyJ6wn4d",
+    "43LoUb4FtGgpnK+ILWU3Ao",
+    "43fNwz8XRB47cDGh7ApQsV",
+    "43itVsWkVE4o5LGkMslkis",
+    "45JAE7u49CSa0doSXMwA5t",
+    "47tSbUcEVMMYLzPSp45zm1",
+    "48Yt5hc+RH36xr4WhNhsfo",
+    "494iVRztxCqZL1HlQXZUcV",
+    "4bhP7dkAhJla9R4twlcPGP",
+    "4b2l2BjhVFubJ1Q+jkeMPf",
+    "4eL113qyxNhLGw/BTaFSKq",
+    "4eykMhmq9FHIDFoxzLTCJH",
+    "4fzuJyc1ZIALaybGR6kEoV",
+    "50fX6k2edLirHOkywUgPqJ",
+    "52C0B1UshN/oQ8utsQJUFp",
+    "539+DhMjNL2pNbQOhVwSAd",
+    "54HEiDjGNODoEBBJmIQQNC",
+    "54UfcD33ZIibawlIEGq1Xf",
+    "54rdDpDf9EcKW8BsmWDxZF",
+    "54rnfJqXRM6KAOr+/GLcUk",
+    "57bMJmfR5EUa72N+CS2+5y",
+    "57lHm76qhOoIh8EshY7jVq",
+    "5bgDbduIxB/Z8BTJuMgYY8",
+    "5c5VQNXwtNDIXzVUA0Y0tt",
+    "5dj1vl4BxDEa3GVzkD2Sl3",
+    "5dj3ozceBK9I0KqIiLTztE",
+    "5dteBkQV5JB48tymsiTGoy",
+    "60BLiGmJBDp4U1V0uifHCK",
+    "611oEEm+xLT5XFltX8xB68",
+    "65MHNJa1tEI42zsS9YDRpq",
+    "67WPEkqQdDxIaFlmWZ131j",
+    "68GNHwepVA8qbbePC583hB",
+    "68bEw6XB1FypoiVbBIQfR7",
+    "68fh3Eh+JNgavM1mrFSy4B",
+    "6aR0tcEhVL177cRc64ZnHn",
+    "6aSteLNs1HMZlWwTPKKEEG",
+    "6fTnmnuRBLiZmKWhduDkoI",
+    "70LGtaCKxOM43wHRaSc67t",
+    "71VhFCTINJM6/Ky3oX9nBT",
+    "712aocbIlKnLnJ6pQ1kg+t",
+    "7357hsG/VD/YxcVf6frlTQ",
+    "75gEak9mtGQa/NhGVdwjCZ",
+    "77a1TjGFFMfL7JjIfkiFgh",
+    "77pbH9rrlCeaWumrM2TqVm",
+    "78tvNGNNBNLK9j2nf0du9f",
+    "798A8d2mhMebJeyTKkipm3",
+    "7bY771uRBKMpFIEYmuTwIs",
+    "7e6hZ1f/VL9rY9uxvKxElg",
+    "80xMpjHqNNKLHvMDuWKtvj",
+    "804AlN8NVGGojGrY7HkUn+",
+    "81eDw7WeBOPbF9BGuSSgo7",
+    "85ZBclDlpEJ5/ebIIU2SNZ",
+    "87hh72+EROa4o6n3BHVo04",
+    "886puiH5NFqIdByZE+J5TW",
+    "89cZeiQ/dCI7+byYnOAy9e",
+    "8bLLs/z1BBgaUMUY8xW+zN",
+    "8bMb9BeCFLdZH2rbYDIf1Q",
+    "8bxLaRMRNPA6c7yfkXbGyc",
+    "8dD0mgneRNBp6sVaML0L2A",
+    "8eJzibnmVP5YkiBxDt6gcW",
+    "8eeYMxQK9DUbTEe3Q85iej",
+    "90RPDLly5G3JXHb20RVcUf",
+    "907ND8aHVKvImCsMNxZTde",
+    "91l3/VIe1CSKrWTp7y34DL",
+    "93s8ndS6FBlp07jDYO6B7j",
+    "94lVj+UylFNbd2BIpdkuSs",
+    "95ViReWvJCKLOX+Yk36FJC",
+    "99dX4A255L5o3Uwfip+cOy",
+    "994NkMPkZPLaNoSbpD39+6",
+    "9aIm/ISSNIo5TmMpB9As1m",
+    "9cLgf8Na5ByJn9CfHKOjU1",
+    "9cXMe/TDxCYqy6PyFOzaHy",
+    "9d2hjMBy1DK6M4fDf8q/fy",
+    "9fjfVEBqdJmbOXa7oXz0ab",
+    "9fub1v0cBE+4nubLrr9RjQ",
+    "a3geO9o+BKbrTy1rQErQXD",
+    "a3mlCt4h1Ixp4K8A7gU7FW",
+    "a4D1+TCfRD771m1ne+Y3XM",
+    "a5Qe4GAw1AjJP3dGq7XZPn",
+    "a6gaBPj4BEXZdxDZSDgrPC",
+    "a8LSCaVC1PaqTPmTOekcWb",
+    "a9ANEMLz1FoID7SsYXkEZy",
+    "a9Q6tOPeFO6aew1/BpADqs",
+    "aehNyfDjBCRYQIIhyCFPGY",
+    "b2Wjwt6iVEHKjRx61py8KW",
+    "b2aHrECZ5APKGS/0d2hvT1",
+    "b2h8iLaJJNDYwfIqniK6X3",
+    "b4P/PCArtIdIH38t6mlw8Y",
+    "b6IrU9SrxEfoSYo2yKLu2s",
+    "b6S7cn3+FLr7ys0si9d5xf",
+    "b8W3nM3pZIl4q8QoUy8902",
+    "b877V5DpdIwqZdStb4slUq",
+    "b9xiXCypxD2qwgPIFeyMVz",
+    "bbQs2SLxxMwZveVbupYBoD",
+    "bekzxnRfVFDbT4Z0nW/Z6E",
+    "bf3V7FIbdNPLqVxk8GT3wN",
+    "c0T55QlhhDPaSVMaQL3GRa",
+    "c0YgXT/O9P4bmdCvftmgIt",
+    "c1zVhfJ61Hs7P/5YetAR2N",
+    "c1/qbZFzdHjopU/l1Juqkc",
+    "c3wx2XsPRH3KZFgQswnrlB",
+    "c4f+M7DUtK54o9oM/NQirO",
+    "c4xQHdAK1M6ZrqTbP97Ofz",
+    "c5K8kcXBFKmILC4NgVnNKM",
+    "c590KAoNpKSpGNlfeZwopk",
+    "c7VHWWXkJAV6SUjs38KVuJ",
+    "c7d4VXfshH8ZQekDHbdD2/",
+    "c8WCFNWPhDjqSK9S2/yvSW",
+    "cbSDF50CdFYrpFXNI0ne3Y",
+    "cbogBazqxNerugtSDucda0",
+    "cd+TjAGTRAxJLrz3BiQ0bJ",
+    "cfliISmvFA4rgO9MPNLoXZ",
+    "d0qC05vt5GxLaYyB/w3t//",
+    "d13ceLR4tIq5hJ++BPDDEx",
+    "d2OhBcXohNLKZ72U3A1yxU",
+    "d4IirN3bhKH7jNlAf51GNi",
+    "d5CM5+U1BFkpE+uCjLeZ7Q",
+    "d6jd32Gt5At4H1xggRESMl",
+    "d7SH7aAQlMRahQovvim4YW",
+    "d7sotb2IJJhKT7kOXRC8o9",
+    "d8aJt68k5BzZw/bq0HI+Rs",
+    "d8e+ORvb1MKpN4xLT9uJQV",
+    "d9lCaHRrZFNoJQX8ojBcHE",
+    "d92lD5bdhBUbTSPK7GU9bj",
+    "d93a+1PdRAGoRm70pNExLc",
+    "daSNpUIy5PhJV4fVSIGEny",
+    "daUuo6gOdA7YVVlyROqIg4",
+    "daylAw0ZpCUZZUPpdxegat",
+    "db2OblPIxG15OM1pZQbj5T",
+    "db/o6LPfhP8ZcImSFlLhvW",
+    "ddEsuHpY1KFbABQlVdJVDE",
+    "dd3wXtUeNB/K2FTYVZ5Pjo",
+    "deLmF4s1NGvIz7Hx20SflL",
+    "dfM4RK+q1LDIsnMKYR45c9",
+    "e0AaHmYH5HFo0U1rt4wLt0",
+    "e0D2dQFM5CMJts891OQOME",
+    "e0TPkAmD9EH6aZERd2dhbr",
+    "e0vyiW5+BNuILDx2QI7O6D",
+    "e0/5Rc4xJHircw2b2p3ifC",
+    "e2Kz+vrA5E+advHNaKB5hI",
+    "e2VVqlHlhF/Ys1Yd4yQ4yh",
+    "e2Xy5DJcVG8aWslHrt1B47",
+    "e2kb0pRmZHT4/33mrGg5js",
+    "e3KKkGxhdO8btxDK2jXlBS",
+    "e3oyJ4AFZL4qbi0l4mGVFF",
+    "e4mYR/UlRApr5PFna0Y7Po",
+    "e666njCGpBobb3HvoX5SmO",
+    "e7h6LMemRHrrwPs2R/2ywo",
+    "e7n8ZRhn9K94C2e8uES40Q",
+    "e8Ueib+qJEhL6mXAHdnwbi",
+    "e88V0A/g1Mn4AEkc9f4dN2",
+    "ec1eEWQpVCRJFNO/kYWx8q",
+    "eePWdpod5OjLD/tFomXf03",
+    "efEUXt1p5G0qUYlKd9vRN+",
+    "f0BS237vNCKLTqXdJQJvoE",
+    "f1ptbcBf9Az4middOO26Aw",
+    "f2hlr1oVBF0q/m6l6QXZdv",
+    "f3E4FdW1hOWbdCYnj9Q7XC",
+    "f3UkTbSy5ODIp9+3PJeuGb",
+    "f3hN998I9B9ZFbGoGLy9bF",
+    "f4PSXsW+JAXJRiBWG+heGx",
+    "f4rjirlnFN/YJ7DMDRMxBw",
+    "f5/sqom1JNdJV9MVti/8Wd",
+    "f7DRU4yFBMkpVOBi6Inv4f",
+    "f7jTUgOdhMWLsPS60VdYMr",
+    "f9ZL0bh0JHfqmdLNPtid5s",
+    "fbLBM0hHBItaupDE41CsUp",
+    "fdC1c7DlpNPrOvRWh5WMPs",
+    "fdEylQQp9F/6yQo5psX6E/",
+    "ffPO2m/8VL1ok6kd9/Mxaz",
+    "02delMVqdBD70a/HSD99FK",
+    "1c99WVJjpP4alKfDehig2y",
+    "29FYIk+N1GYaeWH/q1NxQO",
+    "2cMR3aeSpLeq7ZO1Ugxsey",
+    "3ae7efMv1CLq2ilvUY/tQi",
+    "3fedqrvyxPka9zkWqJJfBH",
+    "47LfXTNedBhJ5sf0G+5l7j",
+    "48odDb9E5Oe4Oo31Fv3JE/",
+    "4asbHz8DFLgpEQwUElI3sj",
+    "50QBaZXmVDNaV9XwvTZ2cN",
+    "55pK1NlnBKJJZQrIYhJwzL",
+    "59gw3vl9VHpoA1uAyUZ5pS",
+    "623h4eBfZM0571Wg8tckmV",
+    "6cSNM48U1ONqRCFsY4EL9p",
+    "6dcoWanIdKpYazTEvtJl7H",
+    "7a/QZLET9IDreTiBfRn2PD",
+    "86X5u8kgdBnqKlTtfLiLmS",
+    "87p6b+YwBBo5007/LBdznB",
+    "8b3GkB4J1NwYUmiAMx+ka0",
+    "90mPIQqpVG744VqmYCIuny",
+    "a2MjXRFdtLlYQ5ouAFv/+R",
+    "affZhbED1BNZhGvmhiEXf7",
+    "b9wRkBWLZGeK7P+78KnPLD",
+    "c0k8CchlBFJ6bb7qBGDH/d",
+    "ca1Wt7YM5FMJ9jhVgq9r3p",
+    "dcQeLF2ihOhZlZ61cDmrbm",
+    "e0JjpXu8pJRoCRoeZcDsh2",
+    "e4gee5Fp5L26VJTuOam91u",
+    "e97GVMl6JHh5Ml5qEDdSGa",
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "f0BIwQ8D5Ml7nTNQbh1YlS",
+    "f07YAdnVFIoroW0iaxluwB",
+    "f8V0E2TEFJIKJiAi2EBbG5",
+    "fdDBEMCD1BJ4M92FzkPBfY"
+  ],
+  "scenes": {},
+  "redirect": [
+    410,
+    0,
+    414,
+    0,
+    425,
+    0,
+    439,
+    0
+  ],
+  "deps": [
+    "internal"
+  ],
+  "packs": {
+    "02807f8b3": [
+      199,
+      212,
+      274,
+      354,
+      401,
+      405
+    ],
+    "038e2e492": [
+      347,
+      357
+    ],
+    "03ab3aa33": [
+      257,
+      346,
+      398
+    ],
+    "040d33cd0": [
+      211,
+      250,
+      322,
+      324,
+      359,
+      404,
+      407,
+      409
+    ],
+    "042b5d9b7": [
+      344,
+      397
+    ],
+    "04cbcd8fb": [
+      417,
+      419,
+      427,
+      431,
+      330,
+      433,
+      380
+    ],
+    "0507f95cb": [
+      183,
+      271,
+      315,
+      350
+    ],
+    "05546c6a9": [
+      421,
+      429
+    ],
+    "059c88faf": [
+      193,
+      228,
+      258
+    ],
+    "067d78f63": [
+      187,
+      196,
+      197,
+      203,
+      216,
+      227,
+      285,
+      304,
+      306,
+      310,
+      333,
+      334,
+      349,
+      374,
+      394,
+      402,
+      408
+    ],
+    "06c9d3835": [
+      226,
+      238
+    ],
+    "070dff1c8": [
+      184,
+      0,
+      1,
+      2,
+      3,
+      190,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      204,
+      21,
+      22,
+      25,
+      26,
+      27,
+      28,
+      215,
+      29,
+      30,
+      31,
+      32,
+      33,
+      223,
+      34,
+      35,
+      36,
+      37,
+      229,
+      230,
+      231,
+      38,
+      39,
+      40,
+      42,
+      43,
+      44,
+      45,
+      47,
+      48,
+      243,
+      49,
+      50,
+      52,
+      248,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      264,
+      60,
+      61,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      276,
+      278,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      82,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      92,
+      93,
+      297,
+      300,
+      95,
+      96,
+      97,
+      98,
+      305,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      308,
+      106,
+      107,
+      108,
+      109,
+      110,
+      313,
+      111,
+      113,
+      115,
+      316,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      127,
+      128,
+      327,
+      129,
+      130,
+      131,
+      329,
+      133,
+      135,
+      136,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      145,
+      146,
+      147,
+      149,
+      150,
+      151,
+      152,
+      153,
+      352,
+      353,
+      154,
+      155,
+      156,
+      157,
+      356,
+      159,
+      160,
+      161,
+      367,
+      162,
+      163,
+      378,
+      164,
+      165,
+      166,
+      167,
+      388,
+      389,
+      168,
+      170,
+      393,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      179,
+      180
+    ],
+    "07212f8bb": [
+      189,
+      195,
+      293,
+      298
+    ],
+    "081491966": [
+      194,
+      336
+    ],
+    "08373c289": [
+      182,
+      206,
+      225,
+      232,
+      254,
+      255,
+      265,
+      275,
+      296,
+      326,
+      331,
+      342,
+      351,
+      362,
+      383,
+      385,
+      406
+    ],
+    "09afa4934": [
+      422,
+      424
+    ],
+    "0a394ad1f": [
+      416,
+      325,
+      370
+    ],
+    "0a6810c34": [
+      294,
+      441
+    ],
+    "0b2daaa2a": [
+      207,
+      253,
+      277,
+      279,
+      320,
+      337,
+      339,
+      376
+    ],
+    "0c339d10f": [
+      412,
+      438,
+      440
+    ],
+    "0c9651fe5": [
+      411,
+      415,
+      418,
+      435,
+      436,
+      396
+    ],
+    "0d657ecb7": [
+      202,
+      205,
+      213,
+      240,
+      262,
+      287,
+      288,
+      307
+    ],
+    "0ea27f8f3": [
+      236,
+      259,
+      283,
+      284,
+      345,
+      368,
+      372,
+      390,
+      392
+    ],
+    "0eb7a495f": [
+      420,
+      426,
+      432,
+      373
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false,
+  "versions": {
+    "import": [
+      181,
+      "d41a0",
+      185,
+      "f3be3",
+      "02807f8b3",
+      "96359",
+      "038e2e492",
+      "9851b",
+      "03ab3aa33",
+      "563c1",
+      "040d33cd0",
+      "6374b",
+      "042b5d9b7",
+      "5d9f0",
+      "04cbcd8fb",
+      "a1da4",
+      186,
+      "6c432",
+      "0507f95cb",
+      "246a8",
+      "05546c6a9",
+      "9e7bf",
+      "059c88faf",
+      "903fa",
+      "067d78f63",
+      "9a2e3",
+      "06c9d3835",
+      "f4ab4",
+      "070dff1c8",
+      "8fa24",
+      "07212f8bb",
+      "f7921",
+      "081491966",
+      "300bf",
+      "08373c289",
+      "5d067",
+      188,
+      "db784",
+      "09afa4934",
+      "20022",
+      "0a394ad1f",
+      "88698",
+      "0a6810c34",
+      "e5837",
+      "0b2daaa2a",
+      "7d701",
+      "0c339d10f",
+      "a9ccb",
+      4,
+      "9ea21",
+      "0c9651fe5",
+      "0c9f3",
+      "0d657ecb7",
+      "a773e",
+      191,
+      "b49cf",
+      192,
+      "56944",
+      "0ea27f8f3",
+      "e9cc0",
+      "0eb7a495f",
+      "24167",
+      7,
+      "20f48",
+      198,
+      "da0f7",
+      12,
+      "8109c",
+      15,
+      "0c2bb",
+      200,
+      "561c2",
+      201,
+      "8836b",
+      20,
+      "ed890",
+      23,
+      "0eb9e",
+      208,
+      "d0792",
+      209,
+      "a6c93",
+      24,
+      "65e7a",
+      210,
+      "6bdcc",
+      214,
+      "32548",
+      413,
+      "a6097",
+      217,
+      "96a64",
+      218,
+      "8270a",
+      219,
+      "c1af9",
+      220,
+      "1b775",
+      221,
+      "1350a",
+      222,
+      "c29a1",
+      224,
+      "9f41b",
+      233,
+      "066f0",
+      41,
+      "e9303",
+      234,
+      "bd34f",
+      235,
+      "c059b",
+      237,
+      "20bf6",
+      46,
+      "c63c4",
+      239,
+      "17adb",
+      241,
+      "eee36",
+      242,
+      "8270a",
+      244,
+      "5b058",
+      245,
+      "b768a",
+      246,
+      "b4996",
+      247,
+      "945e2",
+      51,
+      "468bf",
+      249,
+      "1d4da",
+      251,
+      "654ad",
+      252,
+      "6b817",
+      256,
+      "51d47",
+      260,
+      "a7a99",
+      261,
+      "e191b",
+      263,
+      "90614",
+      266,
+      "35630",
+      267,
+      "83954",
+      62,
+      "841d5",
+      268,
+      "dca09",
+      63,
+      "214ad",
+      64,
+      "5cb9c",
+      269,
+      "c3a7e",
+      270,
+      "cfc6a",
+      272,
+      "31555",
+      273,
+      "669ff",
+      423,
+      "a9d7d",
+      71,
+      "90d01",
+      280,
+      "e06cc",
+      281,
+      "4a892",
+      282,
+      "6649e",
+      286,
+      "3fce7",
+      81,
+      "2c691",
+      83,
+      "75f1f",
+      289,
+      "180b4",
+      290,
+      "d0440",
+      291,
+      "11419",
+      292,
+      "25a84",
+      91,
+      "ff6f7",
+      295,
+      "3f5a9",
+      428,
+      "0d6da",
+      94,
+      "6d446",
+      299,
+      "c7c3d",
+      301,
+      "94b66",
+      302,
+      "84f35",
+      303,
+      "c23fe",
+      99,
+      "fcf23",
+      309,
+      "c7162",
+      311,
+      "11b65",
+      312,
+      "d1727",
+      314,
+      "68658",
+      112,
+      "85d53",
+      114,
+      "122f0",
+      430,
+      "43d76",
+      317,
+      "63cf9",
+      318,
+      "6d6ef",
+      319,
+      "313e9",
+      116,
+      "50fa7",
+      321,
+      "5ce82",
+      323,
+      "2b477",
+      126,
+      "a5c14",
+      132,
+      "29f7c",
+      328,
+      "a70ff",
+      134,
+      "ab875",
+      332,
+      "b2fc3",
+      137,
+      "5752e",
+      335,
+      "03e7d",
+      338,
+      "fc55a",
+      340,
+      "950c8",
+      341,
+      "d8000",
+      343,
+      "e1ba3",
+      144,
+      "89b57",
+      148,
+      "069db",
+      434,
+      "51cef",
+      348,
+      "16470",
+      355,
+      "9ce92",
+      158,
+      "65fa8",
+      358,
+      "be506",
+      360,
+      "678c5",
+      361,
+      "90324",
+      363,
+      "02613",
+      364,
+      "2ff31",
+      365,
+      "9f797",
+      366,
+      "aaea1",
+      369,
+      "0d763",
+      371,
+      "1cc26",
+      375,
+      "be5f0",
+      377,
+      "c9445",
+      379,
+      "45587",
+      381,
+      "88e2c",
+      382,
+      "3439f",
+      384,
+      "09167",
+      437,
+      "08edf",
+      386,
+      "bd792",
+      387,
+      "80630",
+      169,
+      "e7e8e",
+      171,
+      "2f517",
+      391,
+      "517a5",
+      395,
+      "5958c",
+      399,
+      "c8a1b",
+      400,
+      "4be40",
+      176,
+      "91fcf",
+      403,
+      "7a732",
+      442,
+      "3b3a0",
+      443,
+      "50a71"
+    ],
+    "native": [
+      184,
+      "1911d",
+      0,
+      "24706",
+      1,
+      "45a0b",
+      2,
+      "9c7c0",
+      3,
+      "4e8ea",
+      190,
+      "a49cb",
+      4,
+      "347ab",
+      5,
+      "3fcc1",
+      6,
+      "beef8",
+      7,
+      "a1e5d",
+      8,
+      "a8b70",
+      9,
+      "a9544",
+      10,
+      "db02a",
+      11,
+      "5dfcc",
+      12,
+      "1248d",
+      13,
+      "608ef",
+      14,
+      "26e40",
+      15,
+      "f4597",
+      16,
+      "e6f2a",
+      17,
+      "98982",
+      18,
+      "37810",
+      19,
+      "84cee",
+      204,
+      "a2bae",
+      20,
+      "f223d",
+      21,
+      "5ed17",
+      22,
+      "593bd",
+      23,
+      "520f1",
+      24,
+      "9b543",
+      25,
+      "b4e2d",
+      26,
+      "877b8",
+      27,
+      "8d029",
+      28,
+      "d1c92",
+      215,
+      "10f08",
+      29,
+      "b7172",
+      30,
+      "eb4c3",
+      31,
+      "b480e",
+      32,
+      "e1b29",
+      33,
+      "e39b8",
+      223,
+      "49804",
+      34,
+      "3316f",
+      35,
+      "8147a",
+      36,
+      "d6327",
+      37,
+      "e2f0a",
+      229,
+      "341c3",
+      230,
+      "1b1c2",
+      231,
+      "29901",
+      38,
+      "272f0",
+      39,
+      "1e67c",
+      40,
+      "8d029",
+      41,
+      "267f0",
+      42,
+      "c11e6",
+      43,
+      "08e81",
+      44,
+      "c09f9",
+      45,
+      "c206d",
+      46,
+      "5f9ca",
+      47,
+      "b64fe",
+      48,
+      "02e72",
+      243,
+      "bc6bc",
+      49,
+      "81779",
+      50,
+      "8c363",
+      51,
+      "108cb",
+      52,
+      "2565f",
+      248,
+      "7c161",
+      53,
+      "e95d1",
+      54,
+      "278ce",
+      55,
+      "54583",
+      56,
+      "f59fe",
+      57,
+      "62611",
+      58,
+      "cf5b3",
+      59,
+      "ae26f",
+      264,
+      "a754b",
+      60,
+      "2853e",
+      61,
+      "84c15",
+      62,
+      "c0bc9",
+      63,
+      "326fd",
+      64,
+      "36292",
+      65,
+      "df408",
+      270,
+      "f7ab8",
+      66,
+      "a1a47",
+      67,
+      "55b5d",
+      68,
+      "ae172",
+      69,
+      "1d9e8",
+      70,
+      "a7bd7",
+      276,
+      "5a48c",
+      71,
+      "e80a1",
+      278,
+      "c06a9",
+      72,
+      "d9d7a",
+      73,
+      "10b39",
+      74,
+      "98f56",
+      75,
+      "85421",
+      76,
+      "60d08",
+      77,
+      "e9b56",
+      78,
+      "dba75",
+      79,
+      "84cee",
+      80,
+      "e7f7f",
+      81,
+      "30208",
+      82,
+      "8c96c",
+      83,
+      "2f27b",
+      84,
+      "17fd0",
+      85,
+      "1d9e8",
+      86,
+      "614f7",
+      87,
+      "97146",
+      88,
+      "94e60",
+      89,
+      "3ccca",
+      90,
+      "4e6d2",
+      91,
+      "86ac5",
+      92,
+      "818ab",
+      93,
+      "b5673",
+      297,
+      "8f836",
+      94,
+      "2d390",
+      300,
+      "6d8ae",
+      95,
+      "fe513",
+      96,
+      "5a00e",
+      97,
+      "c4be1",
+      98,
+      "2bb9a",
+      305,
+      "d6b85",
+      99,
+      "86ac5",
+      100,
+      "296d9",
+      101,
+      "840cd",
+      102,
+      "c742b",
+      103,
+      "c7c90",
+      104,
+      "2ef67",
+      105,
+      "6ffa7",
+      308,
+      "63bfe",
+      106,
+      "485de",
+      107,
+      "8f9fa",
+      108,
+      "cbcf5",
+      109,
+      "78b30",
+      110,
+      "f2a78",
+      313,
+      "bc1ba",
+      111,
+      "f6df7",
+      112,
+      "f1881",
+      113,
+      "4f40d",
+      114,
+      "e4018",
+      115,
+      "b65e8",
+      316,
+      "ed8c6",
+      116,
+      "e3b2e",
+      117,
+      "dfdb9",
+      118,
+      "225f0",
+      119,
+      "aa7a3",
+      120,
+      "f9e94",
+      121,
+      "05afc",
+      122,
+      "b3586",
+      123,
+      "11bd6",
+      124,
+      "43cf5",
+      125,
+      "3e328",
+      126,
+      "0c97e",
+      127,
+      "88e8d",
+      325,
+      "2bf0b",
+      128,
+      "01bb6",
+      327,
+      "83fcc",
+      129,
+      "1683f",
+      130,
+      "4fa99",
+      131,
+      "4780a",
+      132,
+      "a1e5d",
+      329,
+      "50651",
+      133,
+      "bec76",
+      134,
+      "c0bc9",
+      135,
+      "8ca83",
+      136,
+      "05614",
+      137,
+      "f4597",
+      138,
+      "464fc",
+      139,
+      "fe9d9",
+      140,
+      "1a6f3",
+      141,
+      "fc014",
+      142,
+      "bb50c",
+      143,
+      "80b8e",
+      144,
+      "ed515",
+      145,
+      "6cff5",
+      146,
+      "03a17",
+      147,
+      "95942",
+      148,
+      "c1d52",
+      149,
+      "94794",
+      150,
+      "70792",
+      151,
+      "8a93f",
+      152,
+      "3b421",
+      153,
+      "6c075",
+      352,
+      "841f5",
+      353,
+      "7576d",
+      154,
+      "ece70",
+      155,
+      "56211",
+      156,
+      "df77f",
+      157,
+      "3316f",
+      356,
+      "c2b69",
+      158,
+      "9b543",
+      159,
+      "d389b",
+      160,
+      "116d0",
+      161,
+      "cb3c1",
+      367,
+      "288ce",
+      162,
+      "e15f2",
+      163,
+      "defe3",
+      378,
+      "b7084",
+      164,
+      "d9933",
+      165,
+      "d1d28",
+      166,
+      "53975",
+      167,
+      "e9c2b",
+      388,
+      "deae2",
+      389,
+      "90cf4",
+      168,
+      "ddb15",
+      169,
+      "86ac5",
+      170,
+      "7d3ca",
+      171,
+      "6bd4d",
+      393,
+      "4338a",
+      172,
+      "ab112",
+      173,
+      "608ef",
+      174,
+      "c2741",
+      175,
+      "05937",
+      176,
+      "8aed1",
+      177,
+      "63dda",
+      178,
+      "6cdd0",
+      179,
+      "8e609",
+      180,
+      "5ae60"
+    ]
+  }
+}

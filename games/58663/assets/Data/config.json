@@ -1,0 +1,49 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "Data",
+  "deps": [],
+  "uuids": [
+    "01rF7VJkJFzpeKlL9cTLhq",
+    "56yOhDB11K5YO2Hs+U/du+",
+    "65jbnFm0pKN4PPHg07+CPM",
+    "75tlmJS5FA4KQiB77kDIsc",
+    "d28PCfBnZOH54GR9zn2gla"
+  ],
+  "paths": {
+    "0": [
+      "LotteryData",
+      0
+    ],
+    "1": [
+      "BootyData",
+      0
+    ],
+    "2": [
+      "MonsterAppearData",
+      0
+    ],
+    "3": [
+      "MonsterData",
+      0
+    ],
+    "4": [
+      "LanguageData",
+      0
+    ]
+  },
+  "scenes": {},
+  "packs": {},
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [],
+  "debug": false,
+  "extensionMap": {},
+  "hasPreloadScript": true,
+  "dependencyRelationships": {},
+  "types": [
+    "cc.JsonAsset"
+  ]
+}

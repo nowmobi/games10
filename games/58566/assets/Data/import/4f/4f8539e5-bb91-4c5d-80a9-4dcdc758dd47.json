@@ -1,0 +1,136 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "ThemeData",
+      [
+        {
+          "theme_id": 0,
+          "unlock_day": 1,
+          "theme_icon": "GameInOnePiece/bg0/spriteFrame",
+          "bg_path": "GameInOnePiece/bg0/spriteFrame"
+        },
+        {
+          "theme_id": 1,
+          "unlock_type": "video",
+          "unlock_day": 1,
+          "theme_icon": "GameInOnePiece/bg1/spriteFrame",
+          "bg_path": "GameInOnePiece/bg1/spriteFrame"
+        },
+        {
+          "theme_id": 2,
+          "unlock_type": "video",
+          "unlock_day": 1,
+          "theme_icon": "GameInOnePiece/bg2/spriteFrame",
+          "bg_path": "GameInOnePiece/bg2/spriteFrame"
+        },
+        {
+          "theme_id": 3,
+          "unlock_day": 2,
+          "theme_icon": "GameInOnePiece/bg3/spriteFrame",
+          "bg_path": "GameInOnePiece/bg3/spriteFrame"
+        },
+        {
+          "theme_id": 4,
+          "unlock_type": "video",
+          "unlock_day": 2,
+          "theme_icon": "GameInOnePiece/bg4/spriteFrame",
+          "bg_path": "GameInOnePiece/bg4/spriteFrame"
+        },
+        {
+          "theme_id": 5,
+          "unlock_type": "video",
+          "unlock_day": 2,
+          "theme_icon": "GameInOnePiece/bg5/spriteFrame",
+          "bg_path": "GameInOnePiece/bg5/spriteFrame"
+        },
+        {
+          "theme_id": 6,
+          "unlock_day": 3,
+          "theme_icon": "GameInOnePiece/bg6/spriteFrame",
+          "bg_path": "GameInOnePiece/bg6/spriteFrame"
+        },
+        {
+          "theme_id": 7,
+          "unlock_type": "video",
+          "unlock_day": 3,
+          "theme_icon": "GameInOnePiece/bg7/spriteFrame",
+          "bg_path": "GameInOnePiece/bg7/spriteFrame"
+        },
+        {
+          "theme_id": 8,
+          "unlock_type": "video",
+          "unlock_day": 3,
+          "theme_icon": "GameInOnePiece/bg8/spriteFrame",
+          "bg_path": "GameInOnePiece/bg8/spriteFrame"
+        },
+        {
+          "theme_id": 9,
+          "unlock_day": 4,
+          "theme_icon": "GameInOnePiece/bg9/spriteFrame",
+          "bg_path": "GameInOnePiece/bg9/spriteFrame"
+        },
+        {
+          "theme_id": 10,
+          "unlock_type": "video",
+          "unlock_day": 4,
+          "theme_icon": "GameInOnePiece/bg10/spriteFrame",
+          "bg_path": "GameInOnePiece/bg10/spriteFrame"
+        },
+        {
+          "theme_id": 11,
+          "unlock_type": "video",
+          "unlock_day": 4,
+          "theme_icon": "GameInOnePiece/bg11/spriteFrame",
+          "bg_path": "GameInOnePiece/bg11/spriteFrame"
+        },
+        {
+          "theme_id": 12,
+          "unlock_day": 5,
+          "theme_icon": "GameInOnePiece/bg12/spriteFrame",
+          "bg_path": "GameInOnePiece/bg12/spriteFrame"
+        },
+        {
+          "theme_id": 13,
+          "unlock_type": "video",
+          "unlock_day": 5,
+          "theme_icon": "GameInOnePiece/bg13/spriteFrame",
+          "bg_path": "GameInOnePiece/bg13/spriteFrame"
+        },
+        {
+          "theme_id": 14,
+          "unlock_type": "video",
+          "unlock_day": 5,
+          "theme_icon": "GameInOnePiece/bg14/spriteFrame",
+          "bg_path": "GameInOnePiece/bg14/spriteFrame"
+        }
+      ]
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

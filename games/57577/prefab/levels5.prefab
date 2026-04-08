@@ -1,0 +1,1236 @@
+{
+  "type": "Sprite",
+  "props": {
+    "y": 0,
+    "x": 0,
+    "width": 2048,
+    "var": "level4",
+    "texture": "level/level03/bg.png",
+    "scaleY": 1,
+    "scaleX": 1,
+    "presetID": 1,
+    "name": "bg",
+    "isPresetRoot": true,
+    "height": 1024
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 101,
+        "x": 158,
+        "width": 1687,
+        "texture": "level/level03/bx.png",
+        "presetID": 2,
+        "name": "cp",
+        "height": 1011
+      },
+      "compId": 3
+    },
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "visible": false,
+        "presetID": 60,
+        "name": "complete"
+      },
+      "compId": 173,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "presetID": 61,
+            "name": "sizi1"
+          },
+          "compId": 174,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 611,
+                "x": 364,
+                "width": 134,
+                "texture": "level/level03/c2.png",
+                "presetID": 62,
+                "pivotY": 146,
+                "pivotX": 67,
+                "name": "c1",
+                "height": 292
+              },
+              "compId": 175
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 63,
+            "name": "sizi1"
+          },
+          "compId": 176,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 305,
+                "x": 409,
+                "width": 192,
+                "texture": "level/level03/c3.png",
+                "presetID": 64,
+                "pivotY": 135,
+                "pivotX": 96,
+                "name": "c1",
+                "height": 270
+              },
+              "compId": 177
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 65,
+            "name": "sizi1"
+          },
+          "compId": 178,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 609,
+                "x": 523,
+                "width": 115,
+                "texture": "level/level03/c4.png",
+                "presetID": 66,
+                "pivotY": 150,
+                "pivotX": 57,
+                "name": "c1",
+                "height": 300
+              },
+              "compId": 179
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 67,
+            "name": "sizi1"
+          },
+          "compId": 180,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 304,
+                "x": 533,
+                "width": 138,
+                "texture": "level/level03/c5.png",
+                "presetID": 68,
+                "pivotY": 145,
+                "pivotX": 69,
+                "name": "c1",
+                "height": 290
+              },
+              "compId": 181
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 69,
+            "name": "sizi1"
+          },
+          "compId": 182,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 319,
+                "x": 717,
+                "width": 164,
+                "texture": "level/level03/c13.png",
+                "presetID": 70,
+                "pivotY": 147,
+                "pivotX": 82,
+                "name": "c1",
+                "height": 295
+              },
+              "compId": 183
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 71,
+            "name": "sizi1"
+          },
+          "compId": 184,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 614,
+                "x": 691,
+                "width": 141,
+                "texture": "level/level03/c1.png",
+                "presetID": 72,
+                "pivotY": 137,
+                "pivotX": 71,
+                "name": "c1",
+                "height": 274
+              },
+              "compId": 185
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 73,
+            "name": "sizi1"
+          },
+          "compId": 186,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 274,
+                "x": 860,
+                "width": 120,
+                "texture": "level/level03/c19.png",
+                "presetID": 74,
+                "pivotY": 90,
+                "pivotX": 60,
+                "name": "c1",
+                "height": 179
+              },
+              "compId": 187
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 75,
+            "name": "sizi1"
+          },
+          "compId": 188,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 277,
+                "x": 1058,
+                "width": 128,
+                "texture": "level/level03/c9.png",
+                "presetID": 76,
+                "pivotY": 90,
+                "pivotX": 64,
+                "name": "c1",
+                "height": 180
+              },
+              "compId": 189
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 77,
+            "name": "sizi1"
+          },
+          "compId": 190,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 422,
+                "x": 845,
+                "width": 102,
+                "texture": "level/level03/c16.png",
+                "presetID": 78,
+                "pivotY": 56,
+                "pivotX": 51,
+                "name": "c1",
+                "height": 112
+              },
+              "compId": 191
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 79,
+            "name": "sizi1"
+          },
+          "compId": 192,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 413,
+                "x": 1067,
+                "width": 85,
+                "texture": "level/level03/c10.png",
+                "presetID": 80,
+                "pivotY": 38,
+                "pivotX": 42,
+                "name": "c1",
+                "height": 76
+              },
+              "compId": 193
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 592,
+                "x": 1070,
+                "width": 90,
+                "texture": "level/level03/c10.png",
+                "presetID": 81,
+                "pivotY": 39,
+                "pivotX": 45,
+                "name": "c1",
+                "height": 78
+              },
+              "compId": 194
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 82,
+            "name": "sizi1"
+          },
+          "compId": 195,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 704,
+                "x": 1073,
+                "width": 83,
+                "texture": "level/level03/c6.png",
+                "presetID": 83,
+                "pivotY": 43,
+                "pivotX": 41,
+                "name": "c1",
+                "height": 86
+              },
+              "compId": 196
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 84,
+            "name": "sizi1"
+          },
+          "compId": 197,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 631,
+                "x": 854,
+                "width": 142,
+                "texture": "level/level03/c16.png",
+                "presetID": 85,
+                "pivotY": 75,
+                "pivotX": 71,
+                "name": "c1",
+                "height": 151
+              },
+              "compId": 198
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 86,
+            "name": "sizi1"
+          },
+          "compId": 199,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 662,
+                "x": 1227,
+                "width": 144,
+                "texture": "level/level03/c7.png",
+                "presetID": 87,
+                "pivotY": 110,
+                "pivotX": 72,
+                "name": "c1",
+                "height": 220
+              },
+              "compId": 200
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 88,
+            "name": "sizi1"
+          },
+          "compId": 201,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 657,
+                "x": 1413,
+                "width": 177,
+                "texture": "level/level03/c8.png",
+                "presetID": 89,
+                "pivotY": 109,
+                "pivotX": 88,
+                "name": "c1",
+                "height": 218
+              },
+              "compId": 202
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 90,
+            "name": "sizi1"
+          },
+          "compId": 203,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 646,
+                "x": 1617,
+                "width": 142,
+                "texture": "level/level03/c15.png",
+                "presetID": 91,
+                "pivotY": 117,
+                "pivotX": 71,
+                "name": "c1",
+                "height": 234
+              },
+              "compId": 204
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 92,
+            "name": "sizi1"
+          },
+          "compId": 205,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 327,
+                "x": 1408,
+                "width": 114,
+                "texture": "level/level03/c18.png",
+                "presetID": 93,
+                "pivotY": 119,
+                "pivotX": 57,
+                "name": "c1",
+                "height": 238
+              },
+              "compId": 206
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 94,
+            "name": "sizi1"
+          },
+          "compId": 207,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 326,
+                "x": 1606,
+                "width": 120,
+                "texture": "level/level03/c14.png",
+                "presetID": 95,
+                "pivotY": 126,
+                "pivotX": 60,
+                "name": "c1",
+                "height": 253
+              },
+              "compId": 208
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 96,
+            "name": "sizi1"
+          },
+          "compId": 209,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 327,
+                "x": 1233,
+                "width": 108,
+                "texture": "level/level03/c12.png",
+                "presetID": 97,
+                "pivotY": 119,
+                "pivotX": 54,
+                "name": "c1",
+                "height": 236
+              },
+              "compId": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "visible": true,
+        "presetID": 185,
+        "name": "spareparts"
+      },
+      "compId": 379,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "presetID": 186,
+            "name": "sizi1"
+          },
+          "compId": 380,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 715.565719515138,
+                "x": 336,
+                "width": 134,
+                "texture": "level/level03/c2.png",
+                "rotation": 136,
+                "presetID": 187,
+                "pivotY": 146,
+                "pivotX": 67,
+                "name": "c1",
+                "height": 292
+              },
+              "compId": 381
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 188,
+            "name": "sizi1"
+          },
+          "compId": 382,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 251,
+                "x": 383,
+                "width": 192,
+                "texture": "level/level03/c3.png",
+                "rotation": 188,
+                "presetID": 189,
+                "pivotY": 135,
+                "pivotX": 96,
+                "name": "c1",
+                "height": 270
+              },
+              "compId": 383
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 190,
+            "name": "sizi1"
+          },
+          "compId": 384,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 764,
+                "x": 622,
+                "width": 115,
+                "texture": "level/level03/c4.png",
+                "rotation": 84,
+                "presetID": 191,
+                "pivotY": 150,
+                "pivotX": 57,
+                "name": "c1",
+                "height": 300
+              },
+              "compId": 385
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 192,
+            "name": "sizi1"
+          },
+          "compId": 386,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 240.28656487045822,
+                "x": 1620,
+                "width": 138,
+                "texture": "level/level03/c5.png",
+                "rotation": -56,
+                "presetID": 193,
+                "pivotY": 145,
+                "pivotX": 69,
+                "name": "c1",
+                "height": 290
+              },
+              "compId": 387
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 194,
+            "name": "sizi1"
+          },
+          "compId": 388,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 208,
+                "x": 649,
+                "width": 164,
+                "texture": "level/level03/c13.png",
+                "rotation": 85,
+                "presetID": 195,
+                "pivotY": 147,
+                "pivotX": 82,
+                "name": "c1",
+                "height": 295
+              },
+              "compId": 389
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 196,
+            "name": "sizi1"
+          },
+          "compId": 390,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 757,
+                "x": 888,
+                "width": 141,
+                "texture": "level/level03/c1.png",
+                "rotation": 61,
+                "presetID": 197,
+                "pivotY": 137,
+                "pivotX": 71,
+                "name": "c1",
+                "height": 274
+              },
+              "compId": 391
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 198,
+            "name": "sizi1"
+          },
+          "compId": 392,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 192,
+                "x": 1356,
+                "width": 120,
+                "texture": "level/level03/c19.png",
+                "rotation": 87,
+                "presetID": 199,
+                "pivotY": 90,
+                "pivotX": 60,
+                "name": "c1",
+                "height": 179
+              },
+              "compId": 393
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 200,
+            "name": "sizi1"
+          },
+          "compId": 394,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 199,
+                "x": 905,
+                "width": 128,
+                "texture": "level/level03/c9.png",
+                "rotation": 267,
+                "presetID": 201,
+                "pivotY": 90,
+                "pivotX": 64,
+                "name": "c1",
+                "height": 180
+              },
+              "compId": 395
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 202,
+            "name": "sizi1"
+          },
+          "compId": 396,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 479,
+                "x": 327,
+                "width": 102,
+                "texture": "level/level03/c16.png",
+                "rotation": -60,
+                "presetID": 203,
+                "pivotY": 56,
+                "pivotX": 51,
+                "name": "c1",
+                "height": 112
+              },
+              "compId": 397
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 204,
+            "name": "sizi1"
+          },
+          "compId": 398,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 408,
+                "x": 402,
+                "width": 85,
+                "texture": "level/level03/c10.png",
+                "rotation": 71,
+                "presetID": 205,
+                "pivotY": 38,
+                "pivotX": 42,
+                "name": "c1",
+                "height": 76
+              },
+              "compId": 399
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 430,
+                "x": 1698,
+                "width": 90,
+                "texture": "level/level03/c10.png",
+                "rotation": 53,
+                "presetID": 206,
+                "pivotY": 39,
+                "pivotX": 45,
+                "name": "c1",
+                "height": 78
+              },
+              "compId": 400
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 207,
+            "name": "sizi1"
+          },
+          "compId": 401,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 759,
+                "x": 1196,
+                "width": 83,
+                "texture": "level/level03/c6.png",
+                "rotation": -58,
+                "presetID": 208,
+                "pivotY": 43,
+                "pivotX": 41,
+                "name": "c1",
+                "height": 86
+              },
+              "compId": 402
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 209,
+            "name": "sizi1"
+          },
+          "compId": 403,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 735,
+                "x": 1081,
+                "width": 142,
+                "texture": "level/level03/c16.png",
+                "rotation": -49,
+                "presetID": 210,
+                "pivotY": 75,
+                "pivotX": 71,
+                "name": "c1",
+                "height": 151
+              },
+              "compId": 404
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 211,
+            "name": "sizi1"
+          },
+          "compId": 405,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 240,
+                "x": 1118,
+                "width": 144,
+                "texture": "level/level03/c7.png",
+                "rotation": 142,
+                "presetID": 212,
+                "pivotY": 110,
+                "pivotX": 72,
+                "name": "c1",
+                "height": 220
+              },
+              "compId": 406
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 213,
+            "name": "sizi1"
+          },
+          "compId": 407,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 715,
+                "x": 1650,
+                "width": 177,
+                "texture": "level/level03/c8.png",
+                "rotation": 56,
+                "presetID": 214,
+                "pivotY": 109,
+                "pivotX": 88,
+                "name": "c1",
+                "height": 218
+              },
+              "compId": 408
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 215,
+            "name": "sizi1"
+          },
+          "compId": 409,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 530,
+                "x": 1638,
+                "width": 142,
+                "texture": "level/level03/c15.png",
+                "rotation": -71,
+                "presetID": 216,
+                "pivotY": 117,
+                "pivotX": 71,
+                "name": "c1",
+                "height": 234
+              },
+              "compId": 410
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 217,
+            "name": "sizi1"
+          },
+          "compId": 411,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 698.1969639022229,
+                "x": 1358,
+                "width": 114,
+                "texture": "level/level03/c18.png",
+                "rotation": 44,
+                "presetID": 218,
+                "pivotY": 119,
+                "pivotX": 57,
+                "name": "c1",
+                "height": 238
+              },
+              "compId": 412
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 219,
+            "name": "sizi1"
+          },
+          "compId": 413,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 518.5,
+                "x": 1040,
+                "width": 120,
+                "texture": "level/level03/c14.png",
+                "rotation": 139,
+                "presetID": 220,
+                "pivotY": 126,
+                "pivotX": 60,
+                "name": "c1",
+                "height": 253
+              },
+              "compId": 414
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "presetID": 221,
+            "name": "sizi1"
+          },
+          "compId": 415,
+          "child": [
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 542,
+                "x": 1295,
+                "width": 108,
+                "texture": "level/level03/c12.png",
+                "rotation": 98,
+                "presetID": 222,
+                "pivotY": 119,
+                "pivotX": 54,
+                "name": "c1",
+                "height": 236
+              },
+              "compId": 416
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 1,
+        "x": 0,
+        "presetID": 139,
+        "name": "Drag"
+      },
+      "compId": 255,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 126,
+            "x": 236,
+            "width": 753,
+            "texture": "level/level03/c21.png",
+            "presetID": 140,
+            "name": "D1",
+            "height": 699
+          },
+          "compId": 256,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "width": 570,
+                "presetID": 224,
+                "name": "Down",
+                "height": 570,
+                "centerY": 0,
+                "centerX": 0,
+                "alpha": 0
+              },
+              "compId": 419
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 126,
+            "x": 898,
+            "width": 858,
+            "texture": "level/level03/c21.png",
+            "skewX": 1,
+            "presetID": 183,
+            "name": "D2",
+            "height": 699
+          },
+          "compId": 337
+        }
+      ]
+    },
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "presetID": 135,
+        "name": "Drag"
+      },
+      "compId": 248,
+      "child": [
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 119,
+            "x": 932,
+            "width": 829,
+            "texture": "level/level03/c20.png",
+            "skewX": 0,
+            "presetID": 136,
+            "name": "D1",
+            "height": 712
+          },
+          "compId": 249,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "width": 619,
+                "presetID": 225,
+                "name": "Down",
+                "height": 596,
+                "centerY": 0,
+                "centerX": 0,
+                "alpha": 0
+              },
+              "compId": 420
+            }
+          ]
+        },
+        {
+          "type": "Sprite",
+          "props": {
+            "y": 118,
+            "x": 301,
+            "width": 714,
+            "texture": "level/level03/c20.png",
+            "skewX": -5,
+            "rotation": 0,
+            "presetID": 184,
+            "name": "D2",
+            "height": 712
+          },
+          "compId": 338
+        }
+      ]
+    },
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 119,
+        "x": 210,
+        "width": 1582,
+        "texture": "level/level03/c22.png",
+        "presetID": 142,
+        "name": "cp",
+        "height": 720
+      },
+      "compId": 258
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 0,
+        "x": -512,
+        "visible": false,
+        "skin": "level/level03/tishi.png",
+        "presetID": 223,
+        "name": "game_guide"
+      },
+      "compId": 418
+    }
+  ],
+  "loadList": [
+    "level/level03/bg.png",
+    "level/level03/bx.png",
+    "level/level03/c2.png",
+    "level/level03/c3.png",
+    "level/level03/c4.png",
+    "level/level03/c5.png",
+    "level/level03/c13.png",
+    "level/level03/c1.png",
+    "level/level03/c19.png",
+    "level/level03/c9.png",
+    "level/level03/c16.png",
+    "level/level03/c10.png",
+    "level/level03/c6.png",
+    "level/level03/c7.png",
+    "level/level03/c8.png",
+    "level/level03/c15.png",
+    "level/level03/c18.png",
+    "level/level03/c14.png",
+    "level/level03/c12.png",
+    "level/level03/c21.png",
+    "level/level03/c20.png",
+    "level/level03/c22.png",
+    "level/level03/tishi.png"
+  ],
+  "loadList3D": []
+}

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Il Tuo Gioco</title>
+    <link rel="stylesheet" href="css/gse-style.css" />
+    <link rel="stylesheet" href="css/gse-style-loading.css" />
+    <style>
+        body {
+            background-color: black;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+<body>
+    <div id="gse-player" class="gse-frame">
+        <div class="gse-overlay">
+            <div id="gse-text" class="gse-dialog">
+                <div>
+                    <button id="gse-text-cancel">Cancel</button>
+                    <button id="gse-text-done">Done</button>
+                    <p id="gse-text-prompt"></p>
+                </div>
+                <div>
+                    <textarea id="gse-text-input"></textarea>
+                </div>
+            </div>
+            <div id="gse-loading" style="visibility: visible;">
+                <img src="images/gse-loading.png" />
+            </div>
+        </div>
+    </div>
+
+    <script>
+      (function (global) {
+        // Funzione di log per controllare l'output di debug
+        const log = (message) => console.log(`[Game Log] ${message}`);
+
+        global.onEngineLoad = function () {
+          if (typeof gse.ready !== "function") {
+            console.error("Errore: gse.ready non è definito. Verifica che gse-export.js sia caricato correttamente.");
+            return;
+          }
+
+          gse.ready(function (engine) {
+            log("Motore caricato con successo!");
+
+            // Funzione per impostare il delegate e gestire gli eventi
+            const setupEngineDelegate = () => {
+              const loadingElement = document.getElementById("gse-loading");
+              engine.appendDelegate({
+                onSceneAboutToChange: (sceneKey, sceneName, adType) => {
+                  log(`Cambio scena: ${sceneName}`);
+                  if (adType > 0 && typeof sdk !== "undefined") sdk.showBanner();
+                },
+                onLoadingBegin: () => {
+                  log("Inizio caricamento scena...");
+                  engine.showOverlay();
+                  loadingElement.style.visibility = "visible";
+                },
+                onLoadingEnd: () => {
+                  log("Caricamento scena completato.");
+                  loadingElement.style.visibility = "hidden";
+                  engine.hideOverlay();
+                },
+                onWindowResize: engine.relayout.bind(engine),
+              });
+              window.addEventListener("resize", engine.relayout.bind(engine), false);
+            };
+
+            // Configurazione del gioco
+            engine.setRenderFrame("gse-player");
+            engine.setOptions({
+              "viewport-reference": "window",
+              "viewport-fit": "letterbox",
+            });
+            engine.loadOptionsFromURL();
+            engine.play();
+            log("Gioco avviato correttamente.");
+
+            // Gestione della pausa al cambio di visibilità della finestra
+            document.addEventListener("visibilitychange", () => {
+              if (document.hidden) {
+                log("Finestra non attiva: metto in pausa il gioco.");
+                engine.pause();
+              } else {
+                log("Finestra attiva: riprendo il gioco.");
+                engine.unpause();
+              }
+            });
+
+            setupEngineDelegate();
+          });
+        };
+      })(window);
+
+      // Configurazione dell'SDK di GameMonetize
+      window.SDK_OPTIONS = {
+        gameId: "hm8cers6azm5r8txkwezpakvprcf7aaj",
+        onEvent: function (event) {
+          const logSdkEvent = (name) => console.log(`[SDK] ${name}`);
+          switch (event.name) {
+            case "SDK_GAME_PAUSE":
+              logSdkEvent("SDK_GAME_PAUSE");
+              if (gse) gse.pause();
+              break;
+            case "SDK_GAME_START":
+              logSdkEvent("SDK_GAME_START");
+              if (gse) gse.unpause();
+              break;
+            case "SDK_SHOW_BANNER":
+              logSdkEvent("Mostra annuncio.");
+              break;
+            case "SDK_READY":
+              logSdkEvent("SDK pronto");
+              break;
+          }
+        },
+      };
+
+      // Caricamento asincrono dell'SDK di GameMonetize
+      (function (d, s, id) {
+        const element = d.createElement(s);
+        element.id = id;
+        element.src = "https://api.gamemonetize.com/sdk.js";
+        d.getElementsByTagName(s)[0].parentNode.insertBefore(element, null);
+      })(document, "script", "gamemonetize-sdk");
+    </script>
+    <script src="js/gse/gse-export.js" async onload="onEngineLoad()"></script>
+</body>
+</html>

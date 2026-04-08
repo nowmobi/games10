@@ -1,0 +1,206 @@
+{
+  "type": "Sprite",
+  "props": {
+    "width": 1338,
+    "texture": "ui/mask.png",
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Image",
+      "props": {
+        "var": "img_bg",
+        "skin": "prefab/level1/bg.png",
+        "presetID": 1,
+        "name": "img_bg"
+      },
+      "compId": 48,
+      "child": [
+        {
+          "type": "Box",
+          "props": {
+            "width": 1338,
+            "var": "box_static",
+            "presetID": 9,
+            "name": "box_static",
+            "height": 750
+          },
+          "compId": 59,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 396,
+                "var": "sleep_cat",
+                "skin": "prefab/level1/sleepCat1.png",
+                "presetID": 6,
+                "name": "2",
+                "centerY": 45,
+                "centerX": -170
+              },
+              "compId": 55
+            },
+            {
+              "type": "Image",
+              "props": {
+                "var": "img_sleep",
+                "skin": "prefab/level1/sleep1.png",
+                "presetID": 10,
+                "name": "3",
+                "centerY": 4,
+                "centerX": -132
+              },
+              "compId": 60
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 375,
+                "x": 763,
+                "var": "brace_cat",
+                "skin": "prefab/level1/braceCat1.png",
+                "presetID": 5,
+                "name": "2",
+                "centerY": 54,
+                "centerX": 146
+              },
+              "compId": 53
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 364,
+                "x": 606,
+                "var": "distract_cat",
+                "skin": "prefab/level1/distractCat1.png",
+                "presetID": 7,
+                "name": "2",
+                "centerY": 66,
+                "centerX": -22
+              },
+              "compId": 56
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 436,
+                "x": 679,
+                "var": "book_cat",
+                "skin": "prefab/level1/bookCat1.png",
+                "presetID": 4,
+                "name": "2",
+                "centerY": 134,
+                "centerX": 74
+              },
+              "compId": 52
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 429,
+                "var": "probe_cat",
+                "skin": "prefab/level1/probeCat1.png",
+                "presetID": 3,
+                "name": "2",
+                "centerY": 129,
+                "centerX": -221
+              },
+              "compId": 50
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "var": "playcat",
+            "skin": "prefab/level1/eatCat1.png",
+            "presetID": 8,
+            "name": "playcat",
+            "centerY": 26,
+            "centerX": -89
+          },
+          "compId": 58,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "width": 102,
+                "visible": false,
+                "var": "img_yd",
+                "skin": "img/ydjt.png",
+                "scaleY": 0.5,
+                "scaleX": 0.5,
+                "presetID": 13,
+                "name": "img_yd",
+                "height": 72,
+                "centerY": -130,
+                "centerX": -11,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 72
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "var": "teacher_cat",
+            "skin": "prefab/level1/teacher1.png",
+            "right": 0,
+            "presetID": 2,
+            "name": "teacher_cat",
+            "bottom": 0
+          },
+          "compId": 49,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "var": "img_vigilance",
+                "top": -31,
+                "skin": "prefab/level1/startImg.png",
+                "presetID": 11,
+                "name": "img_vigilance",
+                "left": 23
+              },
+              "compId": 66
+            },
+            {
+              "type": "Image",
+              "props": {
+                "visible": false,
+                "var": "img_angry",
+                "top": -26,
+                "skin": "prefab/level1/angry.png",
+                "right": 155,
+                "presetID": 12,
+                "name": "img_angry",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 67
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "loadList": [
+    "ui/mask.png",
+    "prefab/level1/bg.png",
+    "prefab/level1/sleepCat1.png",
+    "prefab/level1/sleep1.png",
+    "prefab/level1/braceCat1.png",
+    "prefab/level1/distractCat1.png",
+    "prefab/level1/bookCat1.png",
+    "prefab/level1/probeCat1.png",
+    "prefab/level1/eatCat1.png",
+    "img/ydjt.png",
+    "prefab/level1/teacher1.png",
+    "prefab/level1/startImg.png",
+    "prefab/level1/angry.png"
+  ],
+  "loadList3D": []
+}

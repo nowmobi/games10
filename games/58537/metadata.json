@@ -1,0 +1,21 @@
+{
+  "id": "58537",
+  "title": "MiawDoku",
+  "slug": "miawdoku",
+  "description": "MiawDoku! &ndash; the purrfect Sudoku-inspired puzzle game for cat lovers! Swap out numbers for adorable cat characters and challenge your mind by solving each grid with a unique twist. This game combines classic logic puzzles with a playful, feline theme, offering hours of fun for both cat enthusiasts and puzzle fans. Dive into MiawDoku! and let the puzzle-solving begin with a touch of whiskers and paws!",
+  "instructions": "Fill each 3x3 subgrid row and column with each unique cat only once Every row column and subgrid should contain all nine different cats with no repeats ",
+  "url": "https://html5.gamemonetize.com/ibxh9nrcp3829n579aq6ecih5ovori0y/",
+  "category": "Puzzle",
+  "categorySlug": "puzzle",
+  "tags": [
+    "Cat",
+    "Math",
+    "Puzzle",
+    "Sudoku"
+  ],
+  "thumb": "https://img.gamemonetize.com/ibxh9nrcp3829n579aq6ecih5ovori0y/512x384.jpg",
+  "width": 768,
+  "height": 741,
+  "publisher": null,
+  "crawledAt": "2026-01-31T20:51:33.454Z"
+}

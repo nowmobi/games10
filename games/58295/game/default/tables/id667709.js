@@ -1,0 +1,1 @@
+pgf.jsonp("tables/id667709", {"id":"id667709","version":"1.000000","name":"PurchaseTable","numRows":1,"numCols":1,"flags":26,"tableType":3,"rows":{"id":"0","name":""},"columns":{"id":"0","name":"","type":"1","readonly":"1","$":[""]}});

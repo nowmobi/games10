@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "prefab",
+      "名字\t资源名字\t说明\r\nstring\tstring\t\r\nid\tpath\t\r\nKeyBoxRewardCoin150\tprefab/module/keyBox/KeyBoxRewardCoin150\t金币\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

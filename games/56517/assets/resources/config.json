@@ -1,0 +1,29 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "resources",
+  "deps": [],
+  "uuids": [
+    "773QFdvRlO0JflsKyWY3Hi"
+  ],
+  "paths": {
+    "0": [
+      "blockdata/block",
+      0
+    ]
+  },
+  "scenes": {},
+  "packs": {},
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [],
+  "debug": false,
+  "extensionMap": {},
+  "hasPreloadScript": true,
+  "dependencyRelationships": {},
+  "types": [
+    "cc.JsonAsset"
+  ]
+}

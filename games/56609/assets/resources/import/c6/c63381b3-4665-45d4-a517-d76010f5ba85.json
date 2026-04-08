@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "bulletagentdownstairs",
+      "﻿道具ID\t道具名称\t预制文件路径\t攻击范围半径(像素)\t旋转速度\t穿透\r\nint\tstring\tstring\tint\tint\tint\r\nID\tPropName\tPrefabPath\tAtkRange\tAngularVelocity\tPierceType\r\n1\t手枪子弹\tprefab/Agentdownstairs/weapon/bullet/BulletObject_1\t0\t-\t1\r\n101\t手枪子弹\tprefab/Agentdownstairs/weapon/bullet/NpcBulletObject_1\t0\t-\t1\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

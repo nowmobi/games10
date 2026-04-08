@@ -1,0 +1,209 @@
+{
+  "textures": [
+    {
+      "image": "rockets.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 256,
+        "h": 256
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "rocket_blue",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_brown",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 1,
+            "y": 82,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_green",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 1,
+            "y": 163,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_orange",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 53,
+            "y": 1,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_purple",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 53,
+            "y": 82,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_red",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 53,
+            "y": 163,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_yellow",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 79
+          },
+          "frame": {
+            "x": 105,
+            "y": 1,
+            "w": 50,
+            "h": 79
+          }
+        },
+        {
+          "filename": "rocket_pink",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 78
+          },
+          "frame": {
+            "x": 157,
+            "y": 1,
+            "w": 50,
+            "h": 78
+          }
+        },
+        {
+          "filename": "rocket_white",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 58,
+            "h": 89
+          },
+          "spriteSourceSize": {
+            "x": 4,
+            "y": 6,
+            "w": 50,
+            "h": 78
+          },
+          "frame": {
+            "x": 157,
+            "y": 81,
+            "w": 50,
+            "h": 78
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:0f75b7ab6b2b1bb3a74f0c260bff86e6:3fd8fcba48709560c3f556ae17c05b9f:3df7e9ac7bd396b50ac979c922f6809e$"
+  }
+}

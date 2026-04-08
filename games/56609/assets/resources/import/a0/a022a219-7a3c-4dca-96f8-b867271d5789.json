@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "pluginConfig",
+      "键\t值\t说明(无其他用途\r\nstring\tstring\tstring\r\nid\tvalue\texplain\r\nUIGroup\tdefault\tSDK的UI分组\r\nCustomShopSkinPrefabPath\tPMasterSDK/ui/PMDialogShop\t自定义皮肤商店预制路径:横屏 （根据游戏方向选择其中一个修改即可）\r\nCustomShopSkinProtraitPrefabPath\tPMasterSDK/ui/PMDialogShopPortrait\t竖屏\r\nCustomShopGoldAndDiamondPath\tPMasterSDK/img/shop\t自定义商店金币钻石路径(复制一份出去，替换图片)\r\nIsCustomShopJs\tfalse\t自定义商店的脚本\r\nIsWindowAndBrowserShowDebugMain\ttrue\t在Window的浏览器环境是否显示DebugMain\r\nIsLocalStorageAutoPrefix\ttrue\tlocalStorage自动加前缀\r\nCustomVideoFreeAwardPrefabPath\tPMasterSDK/ui/PMDialogVideoFreeAward\t内购关闭，看视频拿奖励弹窗皮肤\r\nCustomTipPrefabPath\tPMasterSDK/ui/PMTip\tTip提示皮肤\r\nCustomOnNetPrefabPath\tPMasterSDK/ui/PMDialogOnNet\t网络连接中页面皮肤\r\n\r\nIsIndependentGold\ttrue\t独立金币货币\r\nIsFormatHugeGold\ttrue\t开启格式化巨大的金币数量显示\r\nDialogMaskOpacity\t200\t弹窗背景遮罩透明度\r\nIsShopEnableShowGoldShop\tfalse\t内购关闭依然开启金币商店 "
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

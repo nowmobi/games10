@@ -1,0 +1,516 @@
+{
+  "importBase": "import",
+  "nativeBase": "native",
+  "name": "main",
+  "deps": [],
+  "uuids": [
+    "00zqJVOKJLcZE0PeQhIzvN",
+    "00zqJVOKJLcZE0PeQhIzvN@6c48a",
+    "00zqJVOKJLcZE0PeQhIzvN@f9941",
+    "018a5ed33",
+    "029903e53",
+    "11vcSwZKhOt6Knn7niM+l3",
+    "11vcSwZKhOt6Knn7niM+l3@6c48a",
+    "11vcSwZKhOt6Knn7niM+l3@f9941",
+    "11xgqVxo5GSrrgERtDLZWu",
+    "12DsFxMIFN86IZWK/Yknns",
+    "12DsFxMIFN86IZWK/Yknns@6c48a",
+    "12DsFxMIFN86IZWK/Yknns@f9941",
+    "14VzJwKslByr7NhtemQgnB",
+    "14VzJwKslByr7NhtemQgnB@6c48a",
+    "14VzJwKslByr7NhtemQgnB@f9941",
+    "15jn5SMiBM15aUcT4OboJ4",
+    "15jn5SMiBM15aUcT4OboJ4@6c48a",
+    "15jn5SMiBM15aUcT4OboJ4@f9941",
+    "20g1ukYUVPvKWKBRznAKo+",
+    "20g1ukYUVPvKWKBRznAKo+@6c48a",
+    "20g1ukYUVPvKWKBRznAKo+@f9941",
+    "2bElwhP61LeLBJroHFWzZK",
+    "2bElwhP61LeLBJroHFWzZK@6c48a",
+    "2bElwhP61LeLBJroHFWzZK@f9941",
+    "2bfgBUfi5HAKEP0fE3G0vy",
+    "2dGFVe/TVLEbl6KAAtnkRn",
+    "66xCk3rYhGIYhXz7t2ODlM",
+    "2dGFVe/TVLEbl6KAAtnkRn@6c48a",
+    "2dGFVe/TVLEbl6KAAtnkRn@f9941",
+    "31P7S0K4hE15vuUI34R8e7",
+    "31P7S0K4hE15vuUI34R8e7@6c48a",
+    "31P7S0K4hE15vuUI34R8e7@f9941",
+    "331nHGXTtDj65ZoIvNmLKA",
+    "331nHGXTtDj65ZoIvNmLKA@6c48a",
+    "331nHGXTtDj65ZoIvNmLKA@f9941",
+    "414Zg1aDFNApz6nXCoL7SO",
+    "414Zg1aDFNApz6nXCoL7SO@6c48a",
+    "414Zg1aDFNApz6nXCoL7SO@f9941",
+    "43vtzCwQdB37MPgN9iVO0C",
+    "43vtzCwQdB37MPgN9iVO0C@6c48a",
+    "43vtzCwQdB37MPgN9iVO0C@f9941",
+    "54TknWPwVPqJqeCR+Y/Czo",
+    "54TknWPwVPqJqeCR+Y/Czo@6c48a",
+    "54TknWPwVPqJqeCR+Y/Czo@f9941",
+    "5eQrOLmJ5NoJuFJ8le0Zul",
+    "5eQrOLmJ5NoJuFJ8le0Zul@6c48a",
+    "5eQrOLmJ5NoJuFJ8le0Zul@f9941",
+    "5fLZ6a8rVPGa++mEaGWtmk",
+    "64zt8blFJFz5Us4qbEl4+b",
+    "64zt8blFJFz5Us4qbEl4+b@6c48a",
+    "64zt8blFJFz5Us4qbEl4+b@f9941",
+    "703F+uRidM0bvqcW8lVYLM",
+    "703F+uRidM0bvqcW8lVYLM@6c48a",
+    "703F+uRidM0bvqcW8lVYLM@f9941",
+    "73/zHnDRlGeoykpnsQWZzL",
+    "75tFwagLROfLHfHHQJytd6",
+    "75tFwagLROfLHfHHQJytd6@6c48a",
+    "75tFwagLROfLHfHHQJytd6@f9941",
+    "82NZ5tzSZODKAIdhv7mrq4",
+    "82NZ5tzSZODKAIdhv7mrq4@6c48a",
+    "82NZ5tzSZODKAIdhv7mrq4@f9941",
+    "85wO3Il1ZKrLC7kBRgl9oi",
+    "85wO3Il1ZKrLC7kBRgl9oi@6c48a",
+    "85wO3Il1ZKrLC7kBRgl9oi@f9941",
+    "8ea/xgqSFGO4G3P4QexJuO",
+    "8ea/xgqSFGO4G3P4QexJuO@6c48a",
+    "8ea/xgqSFGO4G3P4QexJuO@f9941",
+    "91YUvtyINCjYIIwZAcD2fx",
+    "91YUvtyINCjYIIwZAcD2fx@6c48a",
+    "91YUvtyINCjYIIwZAcD2fx@f9941",
+    "95EkngnxZFbYuFpsqVTaFr",
+    "95EkngnxZFbYuFpsqVTaFr@6c48a",
+    "95EkngnxZFbYuFpsqVTaFr@f9941",
+    "96rZPtlqRJ9qTm0gQNJsgF",
+    "96rZPtlqRJ9qTm0gQNJsgF@6c48a",
+    "96rZPtlqRJ9qTm0gQNJsgF@f9941",
+    "9bsjdPNVZKBIkyE3d7evzB",
+    "a1TaIRNURGjLzau7LfFpTO",
+    "a1TaIRNURGjLzau7LfFpTO@6c48a",
+    "a1TaIRNURGjLzau7LfFpTO@f9941",
+    "a6oZz81ptGjqlGi712vdWy",
+    "a7WATwu/5IRKuAs2exyyLQ",
+    "a7sCbprIFB0q4TFMDX3lPy",
+    "a7sCbprIFB0q4TFMDX3lPy@6c48a",
+    "a7sCbprIFB0q4TFMDX3lPy@f9941",
+    "a75r0rjvhGjbsB9qQHQ7Cc",
+    "afxHkx8GZGsJC+n+YfITQo",
+    "afxHkx8GZGsJC+n+YfITQo@6c48a",
+    "afxHkx8GZGsJC+n+YfITQo@f9941",
+    "af1AuU8SRG3r1DBArJm2YA",
+    "af1AuU8SRG3r1DBArJm2YA@6c48a",
+    "af1AuU8SRG3r1DBArJm2YA@f9941",
+    "b6eoDzBnpB7o+aRqzsYLfm",
+    "b6eoDzBnpB7o+aRqzsYLfm@6c48a",
+    "b6eoDzBnpB7o+aRqzsYLfm@f9941",
+    "b7MFJ8MjNBwqr3fNq1j5dJ",
+    "b7MFJ8MjNBwqr3fNq1j5dJ@6c48a",
+    "b7MFJ8MjNBwqr3fNq1j5dJ@f9941",
+    "baIUdvKGZPgZxNbjWTFuRI",
+    "cadlEiMQZDkowuTIyz9Y/H",
+    "d6VXXU0C1DC6bnDB6GGMou",
+    "d6VXXU0C1DC6bnDB6GGMou@6c48a",
+    "d6VXXU0C1DC6bnDB6GGMou@f9941",
+    "d9iR+p6JRMYYR7AvBDlJz4",
+    "e1cPFro5tLZ630O6UzoZuR",
+    "e1cPFro5tLZ630O6UzoZuR@6c48a",
+    "e1cPFro5tLZ630O6UzoZuR@f9941",
+    "e1spuGsjhErLiNHk7N0Mzl",
+    "e1spuGsjhErLiNHk7N0Mzl@6c48a",
+    "e1spuGsjhErLiNHk7N0Mzl@f9941",
+    "e5U4wsWgVHFIV6JOo2MrvQ",
+    "e5U4wsWgVHFIV6JOo2MrvQ@6c48a",
+    "e5U4wsWgVHFIV6JOo2MrvQ@f9941",
+    "ednsVN0E1GVJWXy4jqtUYb",
+    "ednsVN0E1GVJWXy4jqtUYb@6c48a",
+    "ednsVN0E1GVJWXy4jqtUYb@f9941",
+    "fdjsU2o1RKF5x0TziDw3jI",
+    "ffuIqPr2JI9I8dPLYGRDpD",
+    "ffuIqPr2JI9I8dPLYGRDpD@6c48a",
+    "ffuIqPr2JI9I8dPLYGRDpD@f9941"
+  ],
+  "paths": {
+    "26": [
+      "db:/assets/main",
+      0
+    ],
+    "98": [
+      "db:/internal/physics/default-physics-material",
+      2
+    ],
+    "116": [
+      "db:/internal/default_renderpipeline/builtin-forward",
+      1
+    ]
+  },
+  "scenes": {
+    "db://assets/main.scene": 26
+  },
+  "packs": {
+    "018a5ed33": [
+      "1",
+      "22",
+      "27",
+      "45",
+      "65",
+      "6",
+      "33",
+      "36",
+      "39",
+      "49",
+      "52",
+      "56",
+      "62",
+      "74",
+      "10",
+      "16",
+      "30",
+      "42",
+      "19",
+      "59",
+      "68",
+      "71",
+      "13",
+      "83",
+      "78",
+      "87",
+      "90",
+      "93",
+      "96",
+      "101",
+      "108",
+      "105",
+      "111",
+      "114",
+      "118"
+    ],
+    "029903e53": [
+      "2",
+      "7",
+      "8",
+      "11",
+      "14",
+      "17",
+      "20",
+      "23",
+      "24",
+      "28",
+      "31",
+      "34",
+      "37",
+      "40",
+      "43",
+      "46",
+      "47",
+      "50",
+      "26",
+      "53",
+      "54",
+      "57",
+      "60",
+      "63",
+      "66",
+      "69",
+      "72",
+      "75",
+      "76",
+      "79",
+      "80",
+      "81",
+      "84",
+      "85",
+      "88",
+      "91",
+      "94",
+      "97",
+      "99",
+      "102",
+      "103",
+      "106",
+      "109",
+      "112",
+      "115",
+      "119"
+    ]
+  },
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [],
+  "debug": false,
+  "extensionMap": {},
+  "hasPreloadScript": true,
+  "dependencyRelationships": {
+    "1": [
+      "0"
+    ],
+    "2": [
+      "1"
+    ],
+    "6": [
+      "5"
+    ],
+    "7": [
+      "6"
+    ],
+    "10": [
+      "9"
+    ],
+    "11": [
+      "10"
+    ],
+    "13": [
+      "12"
+    ],
+    "14": [
+      "13"
+    ],
+    "16": [
+      "15"
+    ],
+    "17": [
+      "16"
+    ],
+    "19": [
+      "18"
+    ],
+    "20": [
+      "19"
+    ],
+    "22": [
+      "21"
+    ],
+    "23": [
+      "22"
+    ],
+    "26": [
+      "115",
+      "20",
+      "43",
+      "72",
+      "91",
+      "103",
+      "109",
+      "106",
+      "69",
+      "60",
+      "57",
+      "46",
+      "28",
+      "11",
+      "102",
+      "66",
+      "112",
+      "54",
+      "14",
+      "37",
+      "63",
+      "47",
+      "34",
+      "53",
+      "81",
+      "8",
+      "76",
+      "99",
+      "85",
+      "80",
+      "24",
+      "23",
+      "40",
+      "31",
+      "50",
+      "2",
+      "17",
+      "7",
+      "94",
+      "84",
+      "88",
+      "119",
+      "97"
+    ],
+    "27": [
+      "25"
+    ],
+    "28": [
+      "27"
+    ],
+    "30": [
+      "29"
+    ],
+    "31": [
+      "30"
+    ],
+    "33": [
+      "32"
+    ],
+    "34": [
+      "33"
+    ],
+    "36": [
+      "35"
+    ],
+    "37": [
+      "36"
+    ],
+    "39": [
+      "38"
+    ],
+    "40": [
+      "39"
+    ],
+    "42": [
+      "41"
+    ],
+    "43": [
+      "42"
+    ],
+    "45": [
+      "44"
+    ],
+    "46": [
+      "45"
+    ],
+    "49": [
+      "48"
+    ],
+    "50": [
+      "49"
+    ],
+    "52": [
+      "51"
+    ],
+    "53": [
+      "52"
+    ],
+    "54": [
+      "20",
+      "14"
+    ],
+    "56": [
+      "55"
+    ],
+    "57": [
+      "56"
+    ],
+    "59": [
+      "58"
+    ],
+    "60": [
+      "59"
+    ],
+    "62": [
+      "61"
+    ],
+    "63": [
+      "62"
+    ],
+    "65": [
+      "64"
+    ],
+    "66": [
+      "65"
+    ],
+    "68": [
+      "67"
+    ],
+    "69": [
+      "68"
+    ],
+    "71": [
+      "70"
+    ],
+    "72": [
+      "71"
+    ],
+    "74": [
+      "73"
+    ],
+    "75": [
+      "74"
+    ],
+    "78": [
+      "77"
+    ],
+    "79": [
+      "78"
+    ],
+    "81": [
+      "34",
+      "53",
+      "75",
+      "2",
+      "50"
+    ],
+    "83": [
+      "82"
+    ],
+    "84": [
+      "83"
+    ],
+    "87": [
+      "86"
+    ],
+    "88": [
+      "87"
+    ],
+    "90": [
+      "89"
+    ],
+    "91": [
+      "90"
+    ],
+    "93": [
+      "92"
+    ],
+    "94": [
+      "93"
+    ],
+    "96": [
+      "95"
+    ],
+    "97": [
+      "96"
+    ],
+    "101": [
+      "100"
+    ],
+    "102": [
+      "101"
+    ],
+    "103": [
+      "79"
+    ],
+    "105": [
+      "104"
+    ],
+    "106": [
+      "105"
+    ],
+    "108": [
+      "107"
+    ],
+    "109": [
+      "108"
+    ],
+    "111": [
+      "110"
+    ],
+    "112": [
+      "111"
+    ],
+    "114": [
+      "113"
+    ],
+    "115": [
+      "114"
+    ],
+    "118": [
+      "117"
+    ],
+    "119": [
+      "118"
+    ]
+  },
+  "types": [
+    "cc.SceneAsset",
+    "cc.RenderPipeline",
+    "cc.PhysicsMaterial"
+  ]
+}

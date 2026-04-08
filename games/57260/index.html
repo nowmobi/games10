@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(93492817, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+        });
+
+        logYM = (eventName, params) => {
+            ym(93492817,'reachGoal', eventName, {
+                [eventName]: params || window.commonParams,
+            });
+        }
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/93492817" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Pets and Paints</title>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script async src="https://gamepush.com/sdk/gamepush.js?projectId=14248&publicToken=NcKuZNGeoqJDDfQmLuZEEaIoQD7Yrdej&callback=onGPInit"></script>
+    <script>
+        console.log('GP init started');
+        window.onGPInit = async function (gp) {
+            console.log('GP init succeed');
+            window.gp = gp;
+            await gp.player.ready;
+            gp.ads.showSticky();
+            window.commonParams = {
+                platform: gp.platform.type,
+                language: gp.language,
+                isMobile: gp.isMobile,
+            };
+            logYM('sdk_initialized', window.commonParams);
+        }
+    </script>
+  </head>
+  <body>
+    <div id="unity-container" style = "position: absolute; width: 100%; height: 100%; left: 0%; top: 0%;">
+        <canvas id="unity-canvas" style = "position: absolute; width: 100%; height: 100%;"></canvas>
+        <div id="unity-loading-board">
+            <!-- <img src="./TemplateData/icon.png" id="game-logo"></img> -->
+            <div class="board-row">
+                <img class="board-square" id="square-0" src="./TemplateData/squares/left-na.png"></img>
+                <div class="horizontal-margin"></div>
+                <img class="board-square" id="square-1" src="./TemplateData/squares/center-na.png"></img>
+                <div class="horizontal-margin"></div>
+                <img class="board-square" id="square-2" src="./TemplateData/squares/right-na.png"></img>
+
+                <img class="board-cell" id="cell-0" src=""></img>
+                <img class="board-cell" id="cell-1" src=""></img>
+                <img class="board-cell" id="cell-2" src=""></img>
+            </div>
+
+            <div class="board-row">
+                <img class="board-square" id="square-3" src="./TemplateData/squares/left-na.png"></img>
+                <div class="horizontal-margin"></div>
+                <img class="board-square" id="square-4" src="./TemplateData/squares/center-na.png"></img>
+                <div class="horizontal-margin"></div>
+                <img class="board-square" id="square-5" src="./TemplateData/squares/right-na.png"></img>
+
+                <img class="board-cell" id="cell-3" src=""></img>
+                <img class="board-cell" id="cell-4" src=""></img>
+                <img class="board-cell" id="cell-5" src=""></img>
+            </div>
+
+            <div class="board-row">
+                <img class="board-square" id="square-6" src="./TemplateData/squares/left-na.png"></img>
+                <div class="horizontal-margin"></div>
+                <img class="board-square" id="square-7" src="./TemplateData/squares/center-na.png"></img>
+                <div class="horizontal-margin"></div>
+                <img class="board-square" id="square-8" src="./TemplateData/squares/right-na.png"></img>
+
+                <img class="board-cell" id="cell-6" src=""></img>
+                <img class="board-cell" id="cell-7" src=""></img>
+                <img class="board-cell" id="cell-8" src=""></img>
+            </div>
+
+            <div id="loader-progress">
+                <img id="wood-loader" src="./TemplateData/wood.png"></img>
+            </div>
+            <div id="loader-points"></div>
+        </div>
+        <div id="unity-warning"></div>
+    </div>
+    <script charset="utf-8">
+        const container = document.querySelector("#unity-container");
+        const canvas = document.querySelector("#unity-canvas");
+        const loadingBoard = document.querySelector("#unity-loading-board");
+        const woodLoader = document.querySelector("#wood-loader");
+        const progressLoader = document.querySelector("#loader-progress");
+
+        var buildUrl = "Build";
+        // var loaderUrl = buildUrl + "/web.loader.js";
+        // var config = {
+        //     dataUrl: buildUrl + "/web.data",
+        //     frameworkUrl: buildUrl + "/web.framework.js",
+        //     codeUrl: buildUrl + "/web.wasm",
+        //     streamingAssetsUrl: "StreamingAssets",
+        //     companyName: "De Lank",
+        //     productName: "Pets and Paints",
+        //     productVersion: "2023.1.1",
+        //     // showBanner: unityShowBanner,
+        //     showBanner: function () {},
+        // };
+        var loaderUrl = buildUrl + "/web-gp.loader.js";
+        var config = {
+            dataUrl: buildUrl + "/web-gp.data.unityweb",
+            frameworkUrl: buildUrl + "/web-gp.framework.js.unityweb",
+            codeUrl: buildUrl + "/web-gp.wasm.unityweb",
+            streamingAssetsUrl: "StreamingAssets",
+            companyName: "De Lank",
+            productName: "Pets and Paints",
+            productVersion: "2024.1.1",
+            // showBanner: unityShowBanner,
+            showBanner: function () {},
+        };
+
+        // By default Unity keeps WebGL canvas render target size matched with
+        // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+        // Set this to false if you want to decouple this synchronization from
+        // happening inside the engine, and you would instead like to size up
+        // the canvas DOM size and WebGL render target sizes yourself.
+        // config.matchWebGLToCanvasSize = false;
+
+        if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+            // Mobile device style: fill the whole browser client area with the game canvas:
+
+            var meta = document.createElement('meta');
+            meta.name = 'viewport';
+            meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+            document.getElementsByTagName('head')[0].appendChild(meta);
+            container.className = "unity-mobile";
+            canvas.className = "unity-mobile";
+
+            // WebGL билды нормально показываются, не нужно это сообщение
+            // unityShowBanner('WebGL builds are not supported on mobile devices.');
+        } else {
+            // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+
+            canvas.style.width = "100%";
+            canvas.style.height = "100%";
+        }
+
+        loadingBoard.style.display = "block";
+
+        var myGameInstance = null;
+
+        var script = document.createElement("script");
+        script.src = loaderUrl;
+
+        const eventsToSend = {
+            0: true,
+            25: true,
+            50: true,
+            75: true,
+            100: true,
+        }
+
+        const sendProgressYMGoals = (percent) => {
+            Object.keys(eventsToSend).forEach((eventLevel) => {
+                if (percent >= eventLevel) {
+                    const eventName = `game_loaded_${eventLevel}`;
+                    console.log('YM log', eventName)
+                    ym(93492817,'reachGoal', eventName);
+                    delete eventsToSend[eventLevel]; 
+                }
+            });
+        }
+
+        const width = loadingBoard.getBoundingClientRect().width;
+        woodLoader.setAttribute('style',`width:${width}px`);
+
+        const cellStatuses = [0, 0, 0, 0, 0, 0, 0, 0, 0]; // 0-1-2-3, общая сумма 27
+        const step = 100 / 27;
+        const cellAnimals = [-1, -1, -1, -1, -1, -1, -1, -1, -1];
+        const animalBools = [false, false, false, false, false, false, false, false, false];
+        for (let i = 0; i < cellAnimals.length; i += 1) {
+            for (let j = 0; j < 1000; j += 1)
+            {
+                const rand = Math.round(Math.random() * (cellStatuses.length - 1));
+                if (!animalBools[rand]) {
+                    cellAnimals[i] = rand;
+                    animalBools[rand] = true;
+                    break;
+                }
+            } 
+        }
+
+        let prevProgress = 0;
+        const checkCompletion = () => cellStatuses.filter((status) => status < 3).length === 0;
+
+        const squareElems = [document.getElementById('square-0'), document.getElementById('square-1'), document.getElementById('square-2'), document.getElementById('square-3'), document.getElementById('square-4'), document.getElementById('square-5'), document.getElementById('square-6'), document.getElementById('square-7'), document.getElementById('square-8')];
+        const cellElems = [document.getElementById('cell-0'), document.getElementById('cell-1'), document.getElementById('cell-2'), document.getElementById('cell-3'), document.getElementById('cell-4'), document.getElementById('cell-5'), document.getElementById('cell-6'), document.getElementById('cell-7'), document.getElementById('cell-8')];
+
+        const updateProgressOnBoard = (newProgress) => {
+            if (checkCompletion() || newProgress < prevProgress) return;
+
+            progressLoader.style.width = newProgress + '%';
+
+            const diffToCells = Math.round((newProgress - prevProgress) / step);
+
+            if (diffToCells === 0) return;
+
+            for (let i = 0; i < diffToCells; i += 1) {
+                let chosenCell;
+                for (let j = 0; j < 100; j += 1)
+                {
+                    chosenCell = Math.round(Math.random() * (cellStatuses.length - 1));
+                    if (cellStatuses[chosenCell] < 3) break;
+                }
+
+                if (cellStatuses[chosenCell] === 3) break;
+                
+                cellStatuses[chosenCell] += 1;
+
+                const animal = cellAnimals[chosenCell];
+                if (cellStatuses[chosenCell] === 1) {
+                    squareElems[chosenCell].style.animation = 'alpha 1s forwards';
+                } else if (cellStatuses[chosenCell] === 2) {
+                    const isColor = Math.random() < 0.5;
+                    if (isColor) {
+                        cellElems[chosenCell].src=`./TemplateData/icons/${animal % 3 + 1}.png`;
+                    } else {
+                        cellElems[chosenCell].src=`./TemplateData/icons/${(Math.floor(animal / 3) + 1) * 4}.png`;
+                    }
+                    cellElems[chosenCell].style.animation = 'alpha 1s forwards';
+                } 
+                else if (cellStatuses[chosenCell] === 3) {
+                    cellElems[chosenCell].src = `./TemplateData/icons/filled/${animal}.png`;
+                    // cellElems[chosenCell].style.animation = 'alpha-hide 0.3s forwards';
+                    // setTimeout(() => {
+                    //     cellElems[chosenCell].src = `./TemplateData/icons/filled/${animal}.png`;
+                    //     cellElems[chosenCell].style.animation = 'alpha 0.7s forwards';
+                    // }, 300);
+                }
+            }
+
+            prevProgress = newProgress;
+        }
+        
+        // для отладки прогресса
+        // let intervalProgress = 0;
+        // let lastCheckedProgress = prevProgress;
+        // setInterval(() => {
+        //     if (Math.random() < 0.5) return;
+
+        //     if (lastCheckedProgress === prevProgress) { // с прошедшей проверки ничего не изменилось
+        //         updateProgressOnBoard(prevProgress + Math.random() * 3); // обновляем прогресс сами, чтобы занять время на экране
+        //     } else {
+        //         lastCheckedProgress = prevProgress;
+        //     }
+        // }, 100);
+
+        script.onload = () => {
+            createUnityInstance(canvas, config, (progress) => {
+                const width = loadingBoard.getBoundingClientRect().width;
+                woodLoader.style.width = width;
+
+                const progressPercent = progress * 100;
+                updateProgressOnBoard(progressPercent);
+                sendProgressYMGoals(progressPercent);
+
+            }).then((unityInstance) => {
+                myGameInstance = unityInstance;
+                loadingBoard.style.display = 'none';
+                sendProgressYMGoals(100);
+            }).catch((message) => {
+                alert(message);
+            });
+        };
+        document.body.appendChild(script);
+    </script>
+  </body>
+</html>

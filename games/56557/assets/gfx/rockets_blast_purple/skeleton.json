@@ -1,0 +1,356 @@
+{
+  "skeleton": {
+    "hash": "+Un8Q2m9CWI",
+    "spine": "3.8-from-4.0-from-4.1.24",
+    "x": -151.18,
+    "y": -17.02,
+    "width": 186.53,
+    "height": 375.99,
+    "images": "./purple_rocket/",
+    "audio": "C:/Users/Admin/Desktop/jelly_2/animacia_raketa/animacia"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "rocket_purple_blast",
+      "parent": "root",
+      "length": 220.07,
+      "rotation": -1.11,
+      "x": -3.63,
+      "y": -29.43
+    },
+    {
+      "name": "blast",
+      "parent": "rocket_purple_blast",
+      "length": 203.26,
+      "rotation": -0.11,
+      "x": -100.79,
+      "y": 332.84,
+      "scaleX": 0.3631,
+      "scaleY": 0.3631
+    },
+    {
+      "name": "blast2",
+      "parent": "blast",
+      "length": 126.87,
+      "rotation": 33.16,
+      "x": 1.35,
+      "y": 5.77,
+      "color": "9b9b9bfe"
+    },
+    {
+      "name": "blast3",
+      "parent": "blast2",
+      "length": 135.97,
+      "rotation": 48.94,
+      "x": -4.16,
+      "y": -1.88
+    },
+    {
+      "name": "raketa",
+      "parent": "rocket_purple_blast",
+      "length": 47.46,
+      "rotation": 89.76,
+      "x": 4.8,
+      "y": 64.55
+    }
+  ],
+  "slots": [
+    {
+      "name": "rocket_purple",
+      "bone": "raketa",
+      "attachment": "rocket_purple"
+    },
+    {
+      "name": "blast/blast_1",
+      "bone": "blast",
+      "attachment": "blast/blast_1"
+    },
+    {
+      "name": "blast/blast_2",
+      "bone": "blast2",
+      "attachment": "blast/blast_2"
+    },
+    {
+      "name": "blast/blast_3",
+      "bone": "blast3",
+      "attachment": "blast/blast_3"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "blast/blast_1": {
+          "blast/blast_1": {
+            "x": 5.24,
+            "y": -3.86,
+            "rotation": 16.92,
+            "width": 153,
+            "height": 129
+          }
+        },
+        "blast/blast_2": {
+          "blast/blast_2": {
+            "x": 3.8,
+            "y": -13.34,
+            "rotation": -31.94,
+            "width": 235,
+            "height": 219
+          }
+        },
+        "blast/blast_3": {
+          "blast/blast_3": {
+            "x": -2.82,
+            "y": -15.11,
+            "rotation": -80.89,
+            "width": 320,
+            "height": 302
+          }
+        },
+        "rocket_purple": {
+          "rocket_purple": {
+            "x": -1.4,
+            "y": -0.6,
+            "scaleX": 0.6409,
+            "scaleY": 0.6409,
+            "rotation": -88.65,
+            "width": 101,
+            "height": 158
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "rocket_purple_blast": {
+      "slots": {
+        "blast/blast_1": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "blast/blast_2": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffffd9"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffffc6"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "blast/blast_3": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff8e"
+            },
+            {
+              "time": 0.7667,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "rocket_purple": {
+          "color": [
+            {
+              "time": 0.4,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "root": {
+          "translate": [
+            {
+              "y": -10.51
+            }
+          ]
+        },
+        "blast": {
+          "rotate": [
+            {
+              "angle": -76.43
+            }
+          ],
+          "translate": [
+            {
+              "x": 206.69,
+              "y": -36.16,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 206.69,
+              "y": -36.16
+            },
+            {
+              "time": 0.6333,
+              "x": 216.37,
+              "y": -27.25
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.023,
+              "y": 1.064,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "x": 1.023,
+              "y": 1.064
+            },
+            {
+              "time": 0.6333,
+              "x": 1.205,
+              "y": 1.41
+            }
+          ]
+        },
+        "blast2": {
+          "translate": [
+            {
+              "time": 0.5
+            },
+            {
+              "time": 0.6333,
+              "x": 0.02,
+              "y": 0.62
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 0.7333,
+              "x": 1.105,
+              "y": 1.06
+            }
+          ]
+        },
+        "blast3": {
+          "translate": [
+            {
+              "time": 0.5667
+            },
+            {
+              "time": 0.7333,
+              "x": 10.78,
+              "y": -7.06
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.827,
+              "y": 0.923,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6333,
+              "x": 0.827,
+              "y": 0.923
+            },
+            {
+              "time": 0.7667,
+              "x": 1.041,
+              "y": 1.165
+            }
+          ]
+        },
+        "raketa": {
+          "rotate": [
+            {
+              "angle": 0.65
+            },
+            {
+              "time": 0.5,
+              "angle": -50.87
+            }
+          ],
+          "translate": [
+            {
+              "x": -2.12,
+              "y": 33.4
+            },
+            {
+              "time": 0.2667,
+              "x": 15.21,
+              "y": 116.18
+            },
+            {
+              "time": 0.5,
+              "x": 101.57,
+              "y": 232.07
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        },
+        "rocket_purple_blast": {
+          "translate": [
+            {
+              "x": 11.11,
+              "y": -4.76
+            }
+          ]
+        }
+      }
+    }
+  }
+}

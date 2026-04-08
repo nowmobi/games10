@@ -1,0 +1,365 @@
+{
+  "skeleton": {
+    "hash": "/mm0aVePgdg",
+    "spine": "3.8-from-4.0-from-4.1.24",
+    "x": -151.51,
+    "y": -17.83,
+    "width": 188.28,
+    "height": 375.85,
+    "images": "./yellow_rocket/",
+    "audio": "C:/Users/Admin/Desktop/jelly_2/animacia_raketa/animacia"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "rocket_yellowe_blast",
+      "parent": "root",
+      "length": 218.23,
+      "rotation": -0.81,
+      "x": -4.25,
+      "y": -30.33
+    },
+    {
+      "name": "raketa_zlta",
+      "parent": "rocket_yellowe_blast",
+      "length": 45.52,
+      "rotation": 88.87,
+      "x": 5.25,
+      "y": 64.85
+    },
+    {
+      "name": "blast_zlty_1",
+      "parent": "rocket_yellowe_blast",
+      "length": 74.02,
+      "rotation": 0.81,
+      "x": -98.78,
+      "y": 332.5
+    },
+    {
+      "name": "blast_zlty_2",
+      "parent": "blast_zlty_1",
+      "length": 46.84,
+      "rotation": 32.91,
+      "x": -0.77,
+      "y": 2.31
+    },
+    {
+      "name": "blast_zlty_3",
+      "parent": "blast_zlty_2",
+      "length": 50.97,
+      "rotation": 46.63,
+      "x": -1.07,
+      "y": -0.23
+    }
+  ],
+  "slots": [
+    {
+      "name": "rocket_yellow",
+      "bone": "raketa_zlta",
+      "attachment": "rocket_yellow"
+    },
+    {
+      "name": "blast/blast_3c",
+      "bone": "blast_zlty_3",
+      "attachment": "blast/blast_3c"
+    },
+    {
+      "name": "blast/blast_2b",
+      "bone": "blast_zlty_2",
+      "attachment": "blast/blast_2b"
+    },
+    {
+      "name": "blast/blast_1a",
+      "bone": "blast_zlty_1",
+      "attachment": "blast/blast_1a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "blast/blast_1a": {
+          "blast/blast_1a": {
+            "x": 2.28,
+            "y": 0.45,
+            "scaleX": 0.36,
+            "scaleY": 0.36,
+            "rotation": 16.92,
+            "width": 153,
+            "height": 129
+          }
+        },
+        "blast/blast_2b": {
+          "blast/blast_2b": {
+            "x": 3.61,
+            "y": -4,
+            "scaleX": 0.36,
+            "scaleY": 0.36,
+            "rotation": -32.79,
+            "width": 235,
+            "height": 219
+          }
+        },
+        "blast/blast_3c": {
+          "blast/blast_3c": {
+            "x": -0.81,
+            "y": -6.79,
+            "scaleX": 0.36,
+            "scaleY": 0.36,
+            "rotation": -78.92,
+            "width": 320,
+            "height": 302
+          }
+        },
+        "rocket_yellow": {
+          "rocket_yellow": {
+            "x": -1.04,
+            "y": -1.68,
+            "scaleX": 0.6281,
+            "scaleY": 0.6281,
+            "rotation": -89.77,
+            "width": 101,
+            "height": 160
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "rocket_yellow_blast": {
+      "slots": {
+        "blast/blast_1a": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5667,
+              "color": "e8a200ff"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffd760f6"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffbb4d00"
+            }
+          ]
+        },
+        "blast/blast_2b": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.6,
+              "color": "ffe590a4"
+            },
+            {
+              "time": 0.7,
+              "color": "ffd58574"
+            },
+            {
+              "time": 0.7667,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "blast/blast_3c": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff6e"
+            },
+            {
+              "time": 0.7667,
+              "color": "ffffff4f"
+            },
+            {
+              "time": 0.8667,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "rocket_yellow": {
+          "color": [
+            {
+              "time": 0.5667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "root": {
+          "translate": [
+            {
+              "y": -10.51
+            }
+          ]
+        },
+        "blast_zlty_1": {
+          "translate": [
+            {
+              "x": 0.07,
+              "y": 55.57,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "x": 0.07,
+              "y": 55.57
+            },
+            {
+              "time": 0.6333,
+              "x": -11.89,
+              "y": 62.93
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.023,
+              "y": 1.064,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5667,
+              "x": 1.023,
+              "y": 1.064
+            },
+            {
+              "time": 0.6333,
+              "x": 1.205,
+              "y": 1.41
+            }
+          ]
+        },
+        "blast_zlty_2": {
+          "translate": [
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 0.6333,
+              "x": 0.02,
+              "y": 0.62
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 0.7,
+              "x": 1.035,
+              "y": 1.02
+            }
+          ]
+        },
+        "blast_zlty_3": {
+          "translate": [
+            {
+              "time": 0.5
+            },
+            {
+              "time": 0.7333,
+              "x": 4.7,
+              "y": -1.08
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.8,
+              "y": 0.8,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7,
+              "x": 0.8,
+              "y": 0.8
+            },
+            {
+              "time": 0.7667,
+              "x": 0.95,
+              "y": 0.95
+            }
+          ]
+        },
+        "raketa_zlta": {
+          "rotate": [
+            {
+              "angle": 0.65
+            },
+            {
+              "time": 0.1333,
+              "angle": 0.26
+            },
+            {
+              "time": 0.6333,
+              "angle": 41.3
+            }
+          ],
+          "translate": [
+            {
+              "x": -2.12,
+              "y": 33.4
+            },
+            {
+              "time": 0.0333,
+              "x": -3.41,
+              "y": 59.84
+            },
+            {
+              "time": 0.1333,
+              "x": -10.61,
+              "y": 102.99
+            },
+            {
+              "time": 0.6333,
+              "x": -102.05,
+              "y": 310.7
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        },
+        "rocket_yellowe_blast": {
+          "translate": [
+            {
+              "x": -4.76
+            }
+          ]
+        }
+      }
+    }
+  }
+}

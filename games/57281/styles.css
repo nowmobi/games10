@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+}
+
+.game-container {
+    text-align: center;
+    position: relative;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    width: 400px;
+    max-width: 90%;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 80px);
+    grid-template-rows: repeat(4, 80px);
+    gap: 5px;
+    margin: 0 auto;
+    background: #eee;
+    border-radius: 10px;
+    padding: 5px;
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+.grid.active {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.tile {
+    background-color: #4a90e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.tile.empty {
+    background-color: transparent;
+    cursor: default;
+}
+
+.tile:hover {
+    background-color: #357ABD;
+}
+
+.btn {
+    padding: 12px 24px;
+    font-size: 18px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-start {
+    background-color: #4a90e2;
+}
+
+.btn-start:hover {
+    background-color: #357ABD;
+}
+
+.btn-retry {
+    background-color: #e94e77;
+}
+
+.btn-retry:hover {
+    background-color: #d43f5e;
+}
+
+.btn-mute {
+    background-color: #7f8c8d;
+}
+
+.btn-mute:hover {
+    background-color: #6c757d;
+}
+
+.hidden {
+    display: none;
+}
+
+.game-over {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.game-over h2 {
+    margin-bottom: 20px;
+    color: #333;
+}

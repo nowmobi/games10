@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "backgroundagentdownstairs",
+      "﻿背景\t背景图集\t背景图集2\t阴影图片\r\nstring\tstring\tstring\tstring\r\nBgNo\tBgImage\tBgImage2\tShadowImg\r\nbg1\tAbg1\tBbg1\tshadow1\r\nnbg1\tAbg1\tBbg1\tshadow1\r\nbg2\tAbg2\tBbg1\tshadow1\r\nnbg2\tAbg2\tBbg1\tshadow1\r\nbg3\tAbg3\tAbg2\tshadow1\r\nnbg3\tAbg3\tBbg1\tshadow1\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

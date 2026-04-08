@@ -1,0 +1,25 @@
+{
+  "id": "56142",
+  "title": "Jelly Matches",
+  "slug": "jelly-matches",
+  "description": "Welcome to the ultimate color-matching challenge! In this engaging puzzle game, your goal is to break a specified number of colored pieces on the board. The game features special pieces with unique properties, including x2 (which doubles the number of broken pieces), -1 (which removes one piece from your total), and shield pieces that offer protection.",
+  "instructions": "Drag with mouse or touch to drop a piece and have it fall and be matched",
+  "url": "https://html5.gamemonetize.com/45k2hkp92lx338zqlj5m2xr3puexfduw/",
+  "category": "Puzzle",
+  "categorySlug": "puzzle",
+  "tags": [
+    "Color",
+    "Match 3",
+    "Match3",
+    "Matching",
+    "Math",
+    "Physics",
+    "Puzzle",
+    "puzzleblock"
+  ],
+  "thumb": "https://img.gamemonetize.com/45k2hkp92lx338zqlj5m2xr3puexfduw/512x384.jpg",
+  "width": 640,
+  "height": 1280,
+  "publisher": "stelennnn",
+  "crawledAt": "2026-02-01T02:24:21.111Z"
+}

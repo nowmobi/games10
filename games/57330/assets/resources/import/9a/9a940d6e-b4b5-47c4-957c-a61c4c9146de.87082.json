@@ -1,0 +1,68 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "CN",
+      {
+        "Infinite_Health": "无限体力",
+        "No_Open": "暂未开启~",
+        "RewordFree": "已获得今日无限体力",
+        "Extend_time": "是否延长游戏时间？",
+        "Replay": "重玩",
+        "Next_room": "下一个房间",
+        "Share": "分享",
+        "SkipRoom": "跳过房间，开启新的房间",
+        "Congratulate": "恭喜完成家具，分享给好友?",
+        "Skip_success": "成功跳过房间~",
+        "Room": "房间",
+        "Assembly": "成功自动组装~",
+        "Cancel": "取消",
+        "Skip": "跳过",
+        "Today_free": "今日无限体力",
+        "Power": "体力",
+        "Confirm": "确认",
+        "Power_success": "成功获得无限体力~",
+        "Reword_power": "获得无限体力",
+        "AddPower": "增加一个体力",
+        "No": "不了不了",
+        "Power5": "体力+5",
+        "cost": "花费了",
+        "second": "秒",
+        "complete": "完成",
+        "module": "个组件",
+        "AddTime": "成功增加60秒时间~",
+        "Finish_assemble": "恭喜完成房间所有家具组装",
+        "Click_skip": "可点击'跳过'直接进入到下个房间",
+        "One_assembly": "一键组装",
+        "immed_share": "立即分享给好友吧！",
+        "pass_Assembly": "跳过组装，自动完成"
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

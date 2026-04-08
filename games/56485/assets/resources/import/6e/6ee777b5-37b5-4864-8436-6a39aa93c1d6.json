@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "barrier",
+      "障碍ID\t障碍名\nint\tstring\nID\tPath\n1000\tprefab/Peekaboo/map/kitchen_level1_0\n1001\tprefab/Peekaboo/map/kitchen_level1_0_1\n1111\tprefab/Peekaboo/map/kitchen_level1_1\n1112\tprefab/Peekaboo/map/kitchen_level1_2\n1113\tprefab/Peekaboo/map/kitchen_level1_3\n1114\tprefab/Peekaboo/map/kitchen_level1_4\n1121\tprefab/Peekaboo/map/kitchen_level2_1\n1122\tprefab/Peekaboo/map/kitchen_level2_2\n1123\tprefab/Peekaboo/map/kitchen_level2_3\n1124\tprefab/Peekaboo/map/kitchen_level2_4\n1131\tprefab/Peekaboo/map/kitchen_level3_1\n1132\tprefab/Peekaboo/map/kitchen_level3_2\n1133\tprefab/Peekaboo/map/kitchen_level3_3\n1134\tprefab/Peekaboo/map/kitchen_level3_4\n1221\tprefab/Peekaboo/map/kitchen_level2_1_minus\n1222\tprefab/Peekaboo/map/kitchen_level2_2_minus\n1223\tprefab/Peekaboo/map/kitchen_level2_3_minus\n1224\tprefab/Peekaboo/map/kitchen_level2_4_minus\n1231\tprefab/Peekaboo/map/kitchen_level3_1_minus\n1232\tprefab/Peekaboo/map/kitchen_level3_2_minus\n1233\tprefab/Peekaboo/map/kitchen_level3_3_minus\n1234\tprefab/Peekaboo/map/kitchen_level3_4_minus\n1311\tprefab/Peekaboo/map/kitchen_level1_1_add\n1312\tprefab/Peekaboo/map/kitchen_level1_2_add\n1313\tprefab/Peekaboo/map/kitchen_level1_3_add\n1314\tprefab/Peekaboo/map/kitchen_level1_4_add\n1321\tprefab/Peekaboo/map/kitchen_level2_1_add\n1322\tprefab/Peekaboo/map/kitchen_level2_2_add\n1323\tprefab/Peekaboo/map/kitchen_level2_3_add\n1324\tprefab/Peekaboo/map/kitchen_level2_4_add\n1331\tprefab/Peekaboo/map/kitchen_level3_1_add\n1332\tprefab/Peekaboo/map/kitchen_level3_2_add\n1333\tprefab/Peekaboo/map/kitchen_level3_3_add\n1334\tprefab/Peekaboo/map/kitchen_level3_4_add\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

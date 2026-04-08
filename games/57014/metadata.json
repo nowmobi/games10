@@ -1,0 +1,21 @@
+{
+  "id": "57014",
+  "title": "Brickbox",
+  "slug": "brickbox",
+  "description": "BrickBox is a captivating 2D puzzle game where players must strategically push a dime to a designated finish zone within a confined play area filled with brick walls. With intuitive grid-based mechanics and touch-based movement, BrickBox challenges players to think critically and maneuver skillfully through three uniquely designed levels. Objective: Push the diamond to the finish zone to complete each level. Challenges: Navigate through brick walls and obstacles that block the path to the finish zone.",
+  "instructions": "Touch Controls Android iOS Arrowkeys PC Mac Controls Players can move up down left or right one cell at a time using touch controls - Touch click the grey area around the player to move - Use arrowkeys on keyboard ",
+  "url": "https://html5.gamemonetize.com/dpmf8vy4w6ehyn00ljqneuylr0usajgf/",
+  "category": "Puzzle",
+  "categorySlug": "puzzle",
+  "tags": [
+    "1 Player",
+    "2D",
+    "King",
+    "Knight"
+  ],
+  "thumb": "https://img.gamemonetize.com/dpmf8vy4w6ehyn00ljqneuylr0usajgf/512x384.jpg",
+  "width": 800,
+  "height": 600,
+  "publisher": null,
+  "crawledAt": "2026-01-31T20:31:45.703Z"
+}

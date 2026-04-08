@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","water","luoXuan"],collisionMatrix:[[true,true,true],[true,true],[true,false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/resources/Scene/loading.fire",orientation:"",jsList:[]};

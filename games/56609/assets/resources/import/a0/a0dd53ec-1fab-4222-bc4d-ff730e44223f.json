@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "windowAdcn",
+      "﻿人物ID\t名字\r\nstring\tstring\r\nname\twinName\r\nNotifyGetItem\tNotifyGetItem\r\nLayerItemShop\tLayerItemShop\r\nLayerMain\tLayerMain\r\nLayerPushWeapon\tLayerPushWeapon\r\nLayerTryWeapon\tLayerTryWeapon\r\nLayerGiveWeapon\tLayerGiveWeapon\r\nLayerOnlineGift\tLayerOnlineGift\r\nLayerOfflineProfit\tLayerOfflineProfit\r\nLayerGame\tLayerGame\r\nLayerLevelBuff\tLayerLevelBuff\r\nLayerPause\tLayerPause\r\nLayerRevive\tLayerRevive\r\nLayerFail\tLayerFail\r\nLayerSettle\tLayerSettle\r\nLayerChallenge\tLayerChallenge\r\nLayerGameOverChallengeReward\tLayerGameOverChallengeReward\r\nLayerBoxMode1\tLayerBoxMode1\r\nLayerBoxMode2\tLayerBoxMode2\r\nLayerGameOverNewReward\tLayerGameOverNewReward\r\nLayerSettleMode2\tLayerSettleMode2\r\nLayerHandGuide\tLayerHandGuide\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

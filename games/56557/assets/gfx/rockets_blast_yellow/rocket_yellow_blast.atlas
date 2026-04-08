@@ -1,0 +1,34 @@
+
+rocket_yellow_blast.png
+size: 378, 543
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+blast/blast_1a
+  rotate: false
+  xy: 223, 108
+  size: 153, 129
+  orig: 153, 129
+  offset: 0, 0
+  index: -1
+blast/blast_2b
+  rotate: true
+  xy: 2, 2
+  size: 235, 219
+  orig: 235, 219
+  offset: 0, 0
+  index: -1
+blast/blast_3c
+  rotate: false
+  xy: 2, 239
+  size: 320, 302
+  orig: 320, 302
+  offset: 0, 0
+  index: -1
+rocket_yellow
+  rotate: true
+  xy: 223, 13
+  size: 93, 150
+  orig: 101, 160
+  offset: 3, 6
+  index: -1

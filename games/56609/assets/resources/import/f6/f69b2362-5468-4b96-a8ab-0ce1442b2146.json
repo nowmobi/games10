@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "mappinpuzzle",
+      "地图ID\t地图路径\r\nint\tstring\r\nID\tMapPath\r\n101\tprefab/Pinpuzzle/map/LayerPiece1_1\r\n102\tprefab/Pinpuzzle/map/LayerPiece1_2\r\n201\tprefab/Pinpuzzle/map/LayerPiece2_1\r\n202\tprefab/Pinpuzzle/map/LayerPiece2_2\r\n203\tprefab/Pinpuzzle/map/LayerPiece2_3\r\n301\tprefab/Pinpuzzle/map/LayerPiece3_1\r\n302\tprefab/Pinpuzzle/map/LayerPiece3_2\r\n303\tprefab/Pinpuzzle/map/LayerPiece3_3\r\n401\tprefab/Pinpuzzle/map/LayerPiece4_1\r\n402\tprefab/Pinpuzzle/map/LayerPiece4_2\r\n403\tprefab/Pinpuzzle/map/LayerPiece4_3\r\n501\tprefab/Pinpuzzle/map/LayerPiece5_1\r\n502\tprefab/Pinpuzzle/map/LayerPiece5_2\r\n503\tprefab/Pinpuzzle/map/LayerPiece5_3\r\n601\tprefab/Pinpuzzle/map/LayerPiece6_1\r\n602\tprefab/Pinpuzzle/map/LayerPiece6_2\r\n603\tprefab/Pinpuzzle/map/LayerPiece6_3\r\n701\tprefab/Pinpuzzle/map/LayerPiece7_1\r\n702\tprefab/Pinpuzzle/map/LayerPiece7_2\r\n703\tprefab/Pinpuzzle/map/LayerPiece7_3\r\n801\tprefab/Pinpuzzle/map/LayerPiece8_1\r\n802\tprefab/Pinpuzzle/map/LayerPiece8_2\r\n803\tprefab/Pinpuzzle/map/LayerPiece8_3\r\n901\tprefab/Pinpuzzle/map/LayerPiece9_1\r\n902\tprefab/Pinpuzzle/map/LayerPiece9_2\r\n903\tprefab/Pinpuzzle/map/LayerPiece9_3\r\n1001\tprefab/Pinpuzzle/map/LayerPiece10_1\r\n1002\tprefab/Pinpuzzle/map/LayerPiece10_2\r\n1003\tprefab/Pinpuzzle/map/LayerPiece10_3\r\n1101\tprefab/Pinpuzzle/map/LayerPiece11_1\r\n1102\tprefab/Pinpuzzle/map/LayerPiece11_2\r\n1103\tprefab/Pinpuzzle/map/LayerPiece11_3\r\n1\tprefab/Pinpuzzle/map/LayerPiecex1\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

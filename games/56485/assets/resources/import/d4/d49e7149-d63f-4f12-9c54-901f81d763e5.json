@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "skillEffectagentdownstairs",
+      "﻿技能特效id\t效果预制体（需要支持效果范围)\t效果类型\t效果值\t额外效果\t额外效果值\t判定时长\t判定间隔\t受击类型\t震动\t位置类型\t位置偏移X\t位置偏移Y\r\nint\tstring\tint\tfloat\tint\tfloat\tfloat\tfloat\tint\tstring\tint\tint\tint\r\nskillEffectId\tprefabPath\ttype\teffectMul\ttypeExtra\ttypeExtraValue\tjudgeTime\tjudgeInterval\thitType\tshakeScreen\tposType\tposDx\tposDy\r\n1001\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect4\t1\t0\t1\t300\t-\t-\t9\tShakeScreen3\t1\t100\t100\r\n1002\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect3\t1\t0\t2\t-\t0.5\t2\t5\tShakeScreen1\t1\t100\t50\r\n1003\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect4\t1\t100\t3\t5\t0.5\t2\t19\tShakeScreen3\t1\t100\t100\r\n1011\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect3\t1\t1.6\t1\t50\t0.5\t0.2\t9\tShakeScreen3\t1\t100\t50\r\n2001\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect1\t1\t3\t1\t50\t0.5\t0.2\t5\tShakeScreen3\t1\t100\t100\r\n2002\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect1\t1\t15\t1\t200\t1\t2\t9\tShakeScreen3\t1\t100\t100\r\n2011\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect5\t1\t0.4\t1\t10\t0.5\t0.2\t5\tShakeScreen3\t1\t150\t50\r\n2012\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect1\t1\t0\t1\t60\t0.5\t2\t5\tShakeScreen3\t1\t150\t0\r\n3001\tprefab/Agentdownstairs/weapon/skillEffect/skillEffect2\t1\t3\t1\t5\t1.46\t0.3\t5\t-\t2\t150\t50\r\n100001\t-\t1\t0\t4\t1\t2\t-\t5\t-\t1\t-\t-\r\n100002\t-\t1\t0\t4\t0.5\t2\t-\t5\t-\t1\t-\t-\r\n100003\t-\t1\t0\t4\t0.2\t2\t-\t5\t-\t1\t-\t-\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

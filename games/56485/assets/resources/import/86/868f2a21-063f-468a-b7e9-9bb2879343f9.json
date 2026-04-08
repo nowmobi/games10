@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "backgroundpinpuzzle",
+      "﻿背景\t背景图集\t阴影图片\t可移动范围顶点基于屏幕中点以上\t玩家出生位置百分比基于可走范围\r\nstring\tlist\tstring\tint\tint\r\nBgNo\tBgImage\tShadowImg\tTopY\tPlayerPosY\r\nbg1\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg2\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg3\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg4\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg5\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg6\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg7\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg8\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg9\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\nbg10\t[\"bg1Pinpuzzle\",\"bgb1Pinpuzzle\"]\tshadow1\t320\t50\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

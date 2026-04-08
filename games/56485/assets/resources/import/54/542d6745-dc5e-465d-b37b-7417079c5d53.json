@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "petWeapon",
+      "宠物武器\t皮肤名\t展示皮肤\t动作组\t攻击类型(1:近战，2：远程)\t伤害\t攻击范围\t子弹波数\t发射间隔\t单波数量\t角度范围\t单发子弹攻击系数\t攻击判定时长\t外形预制文件路径\t武器槽\t子弹ID\t子弹飞行速度\r\nint\tstring\tstring\tint\tint\tint\tint\tint\tfloat\tint\tint\tfloat\tfloat\tstring\tstring\tint\tfloat\r\nid\tSkinName\tShowSkin\tActionGroup\tAtkType\tHarm\tAtkRange\tFireNumber\tFireSpan\tFireBulletNumber\tFireRange\tBulletAtkRatio\tAtkDuration\tPrefabPath\tweaponSlot\tBulletID\tBulletSpeed\r\n1\twuqi_02_1\twuqi_02_1\t1001\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_01\twuqi_02\t1\t100\r\n2\twuqi_01_2\twuqi_01_2\t1002\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_02\twuqi_01\t1\t100\r\n3\twuqi_01_3\twuqi_01_3\t1003\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_03\twuqi_01\t1\t100\r\n4\twuqi_02_3\twuqi_02_3\t1001\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_04\twuqi_02\t1\t100\r\n5\twuqi_01_4\twuqi_01_4\t1002\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_05\twuqi_01\t1\t100\r\n6\twuqi_01_5\twuqi_01_5\t1002\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_06\twuqi_01\t1\t100\r\n101\twuqi_02_2\twuqi_02_2_2\t2001\t2\t1\t500\t1\t1\t3\t20\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_b_01\twuqi_02\t22\t100\r\n102\twuqi_01_1\twuqi_01_1_2\t2002\t2\t1\t500\t3\t0.15\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_b_02\twuqi_01\t23\t100\r\n201\twuqi_02_1\twuqi_02_1\t1001\t1\t1\t1000\t1\t1\t1\t-\t1\t0.2\tprefab/weapon/petWeapon/WeaponObject_a_00\twuqi_02\t1\t100\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

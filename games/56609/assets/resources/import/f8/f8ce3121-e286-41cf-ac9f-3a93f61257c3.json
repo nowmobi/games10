@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.TextAsset",
+      [
+        "_name",
+        "text"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "boxRewardagentdownstairs",
+      "﻿奖励ID\t图片\t角度区间小\t角度区间大\t钻石奖励\t金币奖励倍数\t玩家动作\t评价文字\r\nint\tstring\tint\tint\tint\tfloat\tstring\tstring\r\nBoxRewardID\tImage\tMinAngle\tMaxAngle\tDiamond\tGoldRewardTimes\tRoleAction\tBoxRewardText\r\n1\tlbpic1\t0\t5\t10\t50\tnormalHit\tperfect\r\n2\tlbpic2\t5\t10\t9\t45\tnormalHit\tamazing\r\n3\tlbpic3\t10\t15\t8\t40\tnormalHit\tamazing\r\n4\tlbpic4\t15\t20\t7\t35\tnormalHit\texcellent\r\n5\tlbpic5\t20\t25\t6\t30\tnormalHit\texcellent\r\n6\tlbpic6\t25\t30\t5\t25\tnormalHit\tgreat\r\n7\tlbpic7\t30\t35\t4\t20\tnormalHit\tgreat\r\n8\tlbpic8\t35\t40\t3\t15\tnormalHit\tgood\r\n9\tlbpic9\t40\t45\t2\t10\tnormalHit\tgood\r\n10\tlbpic10\t45\t50\t1\t5\tnormalHit\tgood\r\n11\tlbpic11\t50\t55\t0\t5\tnormalHit\tgood\r\n"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

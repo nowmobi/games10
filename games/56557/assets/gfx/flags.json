@@ -1,0 +1,251 @@
+{
+  "textures": [
+    {
+      "image": "flags.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 128,
+        "h": 256
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "flag_blue",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_brown",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 47,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "check_icon",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 26,
+            "h": 26
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 2,
+            "w": 26,
+            "h": 24
+          },
+          "frame": {
+            "x": 93,
+            "y": 1,
+            "w": 26,
+            "h": 24
+          }
+        },
+        {
+          "filename": "flag_dark",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 1,
+            "y": 52,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_green",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 47,
+            "y": 52,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_orange",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 1,
+            "y": 103,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_pink",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 47,
+            "y": 103,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_purple",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 1,
+            "y": 154,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_red",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 1,
+            "y": 205,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_white",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 47,
+            "y": 154,
+            "w": 44,
+            "h": 49
+          }
+        },
+        {
+          "filename": "flag_yellow",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 47,
+            "h": 51
+          },
+          "spriteSourceSize": {
+            "x": 1,
+            "y": 1,
+            "w": 44,
+            "h": 49
+          },
+          "frame": {
+            "x": 47,
+            "y": 205,
+            "w": 44,
+            "h": 49
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:ecf761cfb198d5546781755a29b39ceb:ce2397deb452eb134b4bb18689545d83:6d23a940d1894f088e367a7f673fd763$"
+  }
+}

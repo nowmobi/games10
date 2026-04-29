@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default","ui"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/main/loadScene.fire",orientation:"",jsList:["assets/scripts/YYGplatform.js"]};

@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default","text_lv21","touch_lv21"],collisionMatrix:[[true],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/start-scene/loading.fire",orientation:"",jsList:[]};

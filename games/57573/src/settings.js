@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default","ball","star"],collisionMatrix:[[false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/resources/scenes/Loading.fire",orientation:"",jsList:["assets/scripts/typescript.js"]};
